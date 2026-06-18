@@ -1,6 +1,6 @@
 {
   "manifest_version": 1,
-  "generated_at": "2026-06-18T22:49:00.536648+00:00",
+  "generated_at": "2026-06-18T23:02:04.182800+00:00",
   "account_id": "tt",
   "content_id": "tt_ig_2026w25_car01_stop-forcing-10-min",
   "channel": "carousel",
@@ -39,56 +39,49 @@
   ],
   "caption": "Try one tiny tummy time idea that feels good for both of you.\n\nSave this for your next awake window.\n\n#tummytime #babyactivities #screenfreebaby #newparent #babydevelopment",
   "caption_issues": [],
-  "url_issues": [
-    "public_asset_url_invalid:404:text/html; charset=utf-8",
-    "public_asset_url_invalid:404:text/html; charset=utf-8",
-    "public_asset_url_invalid:404:text/html; charset=utf-8",
-    "public_asset_url_invalid:404:text/html; charset=utf-8",
-    "public_asset_url_invalid:404:text/html; charset=utf-8",
-    "public_asset_url_invalid:404:text/html; charset=utf-8"
-  ],
+  "url_issues": [],
   "url_probes": [
     {
       "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car01_stop-forcing-10-min/tt_ig_2026w25_car01_stop-forcing-10-min-01.jpg",
-      "ok": false,
-      "status": 404,
-      "content_type": "text/html; charset=utf-8",
-      "error": "Not Found"
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
     },
     {
       "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car01_stop-forcing-10-min/tt_ig_2026w25_car01_stop-forcing-10-min-02.jpg",
-      "ok": false,
-      "status": 404,
-      "content_type": "text/html; charset=utf-8",
-      "error": "Not Found"
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
     },
     {
       "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car01_stop-forcing-10-min/tt_ig_2026w25_car01_stop-forcing-10-min-03.jpg",
-      "ok": false,
-      "status": 404,
-      "content_type": "text/html; charset=utf-8",
-      "error": "Not Found"
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
     },
     {
       "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car01_stop-forcing-10-min/tt_ig_2026w25_car01_stop-forcing-10-min-04.jpg",
-      "ok": false,
-      "status": 404,
-      "content_type": "text/html; charset=utf-8",
-      "error": "Not Found"
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
     },
     {
       "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car01_stop-forcing-10-min/tt_ig_2026w25_car01_stop-forcing-10-min-05.jpg",
-      "ok": false,
-      "status": 404,
-      "content_type": "text/html; charset=utf-8",
-      "error": "Not Found"
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
     },
     {
       "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car01_stop-forcing-10-min/tt_ig_2026w25_car01_stop-forcing-10-min-06.jpg",
-      "ok": false,
-      "status": 404,
-      "content_type": "text/html; charset=utf-8",
-      "error": "Not Found"
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
     }
   ],
   "cleaned_bundles": []
