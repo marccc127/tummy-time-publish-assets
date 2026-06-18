@@ -1,0 +1,95 @@
+{
+  "manifest_version": 1,
+  "generated_at": "2026-06-18T23:23:30.314969+00:00",
+  "account_id": "tt",
+  "content_id": "tt_ig_2026w25_car02_one-object-is-enough",
+  "channel": "carousel",
+  "source_dir": "review/tt/tt_ig_2026w25_car02_one-object-is-enough",
+  "normalized_files": [
+    "public/publish/tt/tt_ig_2026w25_car02_one-object-is-enough/tt_ig_2026w25_car02_one-object-is-enough-01.jpg",
+    "public/publish/tt/tt_ig_2026w25_car02_one-object-is-enough/tt_ig_2026w25_car02_one-object-is-enough-02.jpg",
+    "public/publish/tt/tt_ig_2026w25_car02_one-object-is-enough/tt_ig_2026w25_car02_one-object-is-enough-03.jpg",
+    "public/publish/tt/tt_ig_2026w25_car02_one-object-is-enough/tt_ig_2026w25_car02_one-object-is-enough-04.jpg",
+    "public/publish/tt/tt_ig_2026w25_car02_one-object-is-enough/tt_ig_2026w25_car02_one-object-is-enough-05.jpg",
+    "public/publish/tt/tt_ig_2026w25_car02_one-object-is-enough/tt_ig_2026w25_car02_one-object-is-enough-06.jpg"
+  ],
+  "relative_urls": [
+    "/publish/tt/tt_ig_2026w25_car02_one-object-is-enough/tt_ig_2026w25_car02_one-object-is-enough-01.jpg",
+    "/publish/tt/tt_ig_2026w25_car02_one-object-is-enough/tt_ig_2026w25_car02_one-object-is-enough-02.jpg",
+    "/publish/tt/tt_ig_2026w25_car02_one-object-is-enough/tt_ig_2026w25_car02_one-object-is-enough-03.jpg",
+    "/publish/tt/tt_ig_2026w25_car02_one-object-is-enough/tt_ig_2026w25_car02_one-object-is-enough-04.jpg",
+    "/publish/tt/tt_ig_2026w25_car02_one-object-is-enough/tt_ig_2026w25_car02_one-object-is-enough-05.jpg",
+    "/publish/tt/tt_ig_2026w25_car02_one-object-is-enough/tt_ig_2026w25_car02_one-object-is-enough-06.jpg"
+  ],
+  "local_preview_urls": [
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car02_one-object-is-enough/tt_ig_2026w25_car02_one-object-is-enough-01.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car02_one-object-is-enough/tt_ig_2026w25_car02_one-object-is-enough-02.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car02_one-object-is-enough/tt_ig_2026w25_car02_one-object-is-enough-03.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car02_one-object-is-enough/tt_ig_2026w25_car02_one-object-is-enough-04.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car02_one-object-is-enough/tt_ig_2026w25_car02_one-object-is-enough-05.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car02_one-object-is-enough/tt_ig_2026w25_car02_one-object-is-enough-06.jpg"
+  ],
+  "public_asset_urls": [
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car02_one-object-is-enough/tt_ig_2026w25_car02_one-object-is-enough-01.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car02_one-object-is-enough/tt_ig_2026w25_car02_one-object-is-enough-02.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car02_one-object-is-enough/tt_ig_2026w25_car02_one-object-is-enough-03.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car02_one-object-is-enough/tt_ig_2026w25_car02_one-object-is-enough-04.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car02_one-object-is-enough/tt_ig_2026w25_car02_one-object-is-enough-05.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car02_one-object-is-enough/tt_ig_2026w25_car02_one-object-is-enough-06.jpg"
+  ],
+  "caption": "Try one tiny tummy time idea that feels good for both of you.\n\nSave this for your next awake window.\n\n#tummytime #babyactivities #screenfreebaby #newparent #babydevelopment",
+  "caption_issues": [],
+  "url_issues": [
+    "publish_host_sync_failed:Command '['git', 'push', 'origin', 'gh-pages']' returned non-zero exit status 1."
+  ],
+  "url_probes": [
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car02_one-object-is-enough/tt_ig_2026w25_car02_one-object-is-enough-01.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car02_one-object-is-enough/tt_ig_2026w25_car02_one-object-is-enough-02.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car02_one-object-is-enough/tt_ig_2026w25_car02_one-object-is-enough-03.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car02_one-object-is-enough/tt_ig_2026w25_car02_one-object-is-enough-04.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car02_one-object-is-enough/tt_ig_2026w25_car02_one-object-is-enough-05.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car02_one-object-is-enough/tt_ig_2026w25_car02_one-object-is-enough-06.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    }
+  ],
+  "cleaned_bundles": [],
+  "publish_host_sync": {
+    "attempted": true,
+    "provider": "github_pages",
+    "error": "Command '['git', 'push', 'origin', 'gh-pages']' returned non-zero exit status 1."
+  }
+}
