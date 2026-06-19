@@ -1,6 +1,6 @@
 {
   "manifest_version": 1,
-  "generated_at": "2026-06-19T10:40:12.275026+00:00",
+  "generated_at": "2026-06-19T11:05:22.263190+00:00",
   "account_id": "tt",
   "content_id": "tt_ig_2026w25_car03_baby-does-not-hate-it",
   "channel": "carousel",
@@ -40,58 +40,7 @@
   "caption": "If tummy time gets fussy fast, the answer is not always more effort. Try a softer start, stay close, and stop before the struggle.\n\nSave this for a fussy day.",
   "caption_issues": [],
   "url_issues": [],
-  "url_probes": [
-    {
-      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car03_baby-does-not-hate-it/tt_ig_2026w25_car03_baby-does-not-hate-it-01.jpg",
-      "ok": true,
-      "status": 206,
-      "content_type": "image/jpeg",
-      "content_length": "1"
-    },
-    {
-      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car03_baby-does-not-hate-it/tt_ig_2026w25_car03_baby-does-not-hate-it-02.jpg",
-      "ok": true,
-      "status": 206,
-      "content_type": "image/jpeg",
-      "content_length": "1"
-    },
-    {
-      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car03_baby-does-not-hate-it/tt_ig_2026w25_car03_baby-does-not-hate-it-03.jpg",
-      "ok": true,
-      "status": 206,
-      "content_type": "image/jpeg",
-      "content_length": "1"
-    },
-    {
-      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car03_baby-does-not-hate-it/tt_ig_2026w25_car03_baby-does-not-hate-it-04.jpg",
-      "ok": true,
-      "status": 206,
-      "content_type": "image/jpeg",
-      "content_length": "1"
-    },
-    {
-      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car03_baby-does-not-hate-it/tt_ig_2026w25_car03_baby-does-not-hate-it-05.jpg",
-      "ok": true,
-      "status": 206,
-      "content_type": "image/jpeg",
-      "content_length": "1"
-    },
-    {
-      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car03_baby-does-not-hate-it/tt_ig_2026w25_car03_baby-does-not-hate-it-06.jpg",
-      "ok": true,
-      "status": 206,
-      "content_type": "image/jpeg",
-      "content_length": "1"
-    }
-  ],
+  "url_probes": [],
   "cleaned_bundles": [],
-  "publish_host_sync": {
-    "attempted": true,
-    "provider": "github_pages",
-    "repo": "marccc127/tummy-time-publish-assets",
-    "branch": "gh-pages",
-    "changed": true,
-    "commit": "b7931dd35da7f7c6fe3f218440cf849a0aa4c59e",
-    "push_stdout": ""
-  }
+  "publish_host_sync": null
 }

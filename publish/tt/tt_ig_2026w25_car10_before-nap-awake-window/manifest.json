@@ -1,6 +1,6 @@
 {
   "manifest_version": 1,
-  "generated_at": "2026-06-19T10:44:00.645639+00:00",
+  "generated_at": "2026-06-19T11:05:22.966789+00:00",
   "account_id": "tt",
   "content_id": "tt_ig_2026w25_car10_before-nap-awake-window",
   "channel": "carousel",
@@ -40,58 +40,7 @@
   "caption": "Tummy time does not need a big production. One simple awake-window routine can be enough to make it easier to repeat.\n\nSave this tiny routine.",
   "caption_issues": [],
   "url_issues": [],
-  "url_probes": [
-    {
-      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car10_before-nap-awake-window/tt_ig_2026w25_car10_before-nap-awake-window-01.jpg",
-      "ok": true,
-      "status": 206,
-      "content_type": "image/jpeg",
-      "content_length": "1"
-    },
-    {
-      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car10_before-nap-awake-window/tt_ig_2026w25_car10_before-nap-awake-window-02.jpg",
-      "ok": true,
-      "status": 206,
-      "content_type": "image/jpeg",
-      "content_length": "1"
-    },
-    {
-      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car10_before-nap-awake-window/tt_ig_2026w25_car10_before-nap-awake-window-03.jpg",
-      "ok": true,
-      "status": 206,
-      "content_type": "image/jpeg",
-      "content_length": "1"
-    },
-    {
-      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car10_before-nap-awake-window/tt_ig_2026w25_car10_before-nap-awake-window-04.jpg",
-      "ok": true,
-      "status": 206,
-      "content_type": "image/jpeg",
-      "content_length": "1"
-    },
-    {
-      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car10_before-nap-awake-window/tt_ig_2026w25_car10_before-nap-awake-window-05.jpg",
-      "ok": true,
-      "status": 206,
-      "content_type": "image/jpeg",
-      "content_length": "1"
-    },
-    {
-      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car10_before-nap-awake-window/tt_ig_2026w25_car10_before-nap-awake-window-06.jpg",
-      "ok": true,
-      "status": 206,
-      "content_type": "image/jpeg",
-      "content_length": "1"
-    }
-  ],
+  "url_probes": [],
   "cleaned_bundles": [],
-  "publish_host_sync": {
-    "attempted": true,
-    "provider": "github_pages",
-    "repo": "marccc127/tummy-time-publish-assets",
-    "branch": "gh-pages",
-    "changed": true,
-    "commit": "970c2ed74c427895f0623496fd73d24273b365f1",
-    "push_stdout": ""
-  }
+  "publish_host_sync": null
 }

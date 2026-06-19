@@ -1,6 +1,6 @@
 {
   "manifest_version": 1,
-  "generated_at": "2026-06-19T10:44:27.727460+00:00",
+  "generated_at": "2026-06-19T11:05:23.067333+00:00",
   "account_id": "tt",
   "content_id": "tt_ig_2026w25_car11_stop-buying-more-stuff",
   "channel": "carousel",
@@ -40,58 +40,7 @@
   "caption": "You probably already have enough for a meaningful tummy time moment. Simpler setups often feel calmer for both of you.\n\nSave this before your next cart adds up.",
   "caption_issues": [],
   "url_issues": [],
-  "url_probes": [
-    {
-      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car11_stop-buying-more-stuff/tt_ig_2026w25_car11_stop-buying-more-stuff-01.jpg",
-      "ok": true,
-      "status": 206,
-      "content_type": "image/jpeg",
-      "content_length": "1"
-    },
-    {
-      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car11_stop-buying-more-stuff/tt_ig_2026w25_car11_stop-buying-more-stuff-02.jpg",
-      "ok": true,
-      "status": 206,
-      "content_type": "image/jpeg",
-      "content_length": "1"
-    },
-    {
-      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car11_stop-buying-more-stuff/tt_ig_2026w25_car11_stop-buying-more-stuff-03.jpg",
-      "ok": true,
-      "status": 206,
-      "content_type": "image/jpeg",
-      "content_length": "1"
-    },
-    {
-      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car11_stop-buying-more-stuff/tt_ig_2026w25_car11_stop-buying-more-stuff-04.jpg",
-      "ok": true,
-      "status": 206,
-      "content_type": "image/jpeg",
-      "content_length": "1"
-    },
-    {
-      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car11_stop-buying-more-stuff/tt_ig_2026w25_car11_stop-buying-more-stuff-05.jpg",
-      "ok": true,
-      "status": 206,
-      "content_type": "image/jpeg",
-      "content_length": "1"
-    },
-    {
-      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car11_stop-buying-more-stuff/tt_ig_2026w25_car11_stop-buying-more-stuff-06.jpg",
-      "ok": true,
-      "status": 206,
-      "content_type": "image/jpeg",
-      "content_length": "1"
-    }
-  ],
+  "url_probes": [],
   "cleaned_bundles": [],
-  "publish_host_sync": {
-    "attempted": true,
-    "provider": "github_pages",
-    "repo": "marccc127/tummy-time-publish-assets",
-    "branch": "gh-pages",
-    "changed": true,
-    "commit": "8cb935801e3bb03e264f47f10799169e1b3b1ce3",
-    "push_stdout": ""
-  }
+  "publish_host_sync": null
 }

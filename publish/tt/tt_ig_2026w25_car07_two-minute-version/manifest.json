@@ -1,6 +1,6 @@
 {
   "manifest_version": 1,
-  "generated_at": "2026-06-19T10:42:35.357496+00:00",
+  "generated_at": "2026-06-19T11:05:22.665405+00:00",
   "account_id": "tt",
   "content_id": "tt_ig_2026w25_car07_two-minute-version",
   "channel": "carousel",
@@ -40,58 +40,7 @@
   "caption": "You do not need a perfect block of time. A short, calm rep can still count and feels much easier to repeat.\n\nSave this for the next short awake window.",
   "caption_issues": [],
   "url_issues": [],
-  "url_probes": [
-    {
-      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car07_two-minute-version/tt_ig_2026w25_car07_two-minute-version-01.jpg",
-      "ok": true,
-      "status": 206,
-      "content_type": "image/jpeg",
-      "content_length": "1"
-    },
-    {
-      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car07_two-minute-version/tt_ig_2026w25_car07_two-minute-version-02.jpg",
-      "ok": true,
-      "status": 206,
-      "content_type": "image/jpeg",
-      "content_length": "1"
-    },
-    {
-      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car07_two-minute-version/tt_ig_2026w25_car07_two-minute-version-03.jpg",
-      "ok": true,
-      "status": 206,
-      "content_type": "image/jpeg",
-      "content_length": "1"
-    },
-    {
-      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car07_two-minute-version/tt_ig_2026w25_car07_two-minute-version-04.jpg",
-      "ok": true,
-      "status": 206,
-      "content_type": "image/jpeg",
-      "content_length": "1"
-    },
-    {
-      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car07_two-minute-version/tt_ig_2026w25_car07_two-minute-version-05.jpg",
-      "ok": true,
-      "status": 206,
-      "content_type": "image/jpeg",
-      "content_length": "1"
-    },
-    {
-      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car07_two-minute-version/tt_ig_2026w25_car07_two-minute-version-06.jpg",
-      "ok": true,
-      "status": 206,
-      "content_type": "image/jpeg",
-      "content_length": "1"
-    }
-  ],
+  "url_probes": [],
   "cleaned_bundles": [],
-  "publish_host_sync": {
-    "attempted": true,
-    "provider": "github_pages",
-    "repo": "marccc127/tummy-time-publish-assets",
-    "branch": "gh-pages",
-    "changed": true,
-    "commit": "4a8a588bcba81353cc590dad62c2dd3092aa7fa9",
-    "push_stdout": ""
-  }
+  "publish_host_sync": null
 }

@@ -1,6 +1,6 @@
 {
   "manifest_version": 1,
-  "generated_at": "2026-06-19T10:41:11.947508+00:00",
+  "generated_at": "2026-06-19T11:05:22.465408+00:00",
   "account_id": "tt",
   "content_id": "tt_ig_2026w25_car05_end-before-tears",
   "channel": "carousel",
@@ -40,58 +40,7 @@
   "caption": "The easiest tummy time often ends before the struggle starts. Tiny, positive reps build comfort better than one hard session.\n\nSave this for tomorrow's session.",
   "caption_issues": [],
   "url_issues": [],
-  "url_probes": [
-    {
-      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car05_end-before-tears/tt_ig_2026w25_car05_end-before-tears-01.jpg",
-      "ok": true,
-      "status": 206,
-      "content_type": "image/jpeg",
-      "content_length": "1"
-    },
-    {
-      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car05_end-before-tears/tt_ig_2026w25_car05_end-before-tears-02.jpg",
-      "ok": true,
-      "status": 206,
-      "content_type": "image/jpeg",
-      "content_length": "1"
-    },
-    {
-      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car05_end-before-tears/tt_ig_2026w25_car05_end-before-tears-03.jpg",
-      "ok": true,
-      "status": 206,
-      "content_type": "image/jpeg",
-      "content_length": "1"
-    },
-    {
-      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car05_end-before-tears/tt_ig_2026w25_car05_end-before-tears-04.jpg",
-      "ok": true,
-      "status": 206,
-      "content_type": "image/jpeg",
-      "content_length": "1"
-    },
-    {
-      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car05_end-before-tears/tt_ig_2026w25_car05_end-before-tears-05.jpg",
-      "ok": true,
-      "status": 206,
-      "content_type": "image/jpeg",
-      "content_length": "1"
-    },
-    {
-      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car05_end-before-tears/tt_ig_2026w25_car05_end-before-tears-06.jpg",
-      "ok": true,
-      "status": 206,
-      "content_type": "image/jpeg",
-      "content_length": "1"
-    }
-  ],
+  "url_probes": [],
   "cleaned_bundles": [],
-  "publish_host_sync": {
-    "attempted": true,
-    "provider": "github_pages",
-    "repo": "marccc127/tummy-time-publish-assets",
-    "branch": "gh-pages",
-    "changed": true,
-    "commit": "46bafc24a3dcaffaa76a63193fe9711dcb8b55c4",
-    "push_stdout": ""
-  }
+  "publish_host_sync": null
 }

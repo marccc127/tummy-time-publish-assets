@@ -1,6 +1,6 @@
 {
   "manifest_version": 1,
-  "generated_at": "2026-06-19T10:40:40.311115+00:00",
+  "generated_at": "2026-06-19T11:05:22.364556+00:00",
   "account_id": "tt",
   "content_id": "tt_ig_2026w25_car04_chest-to-chest-counts",
   "channel": "carousel",
@@ -40,58 +40,7 @@
   "caption": "Not every tummy time moment has to begin on the floor. Chest-to-chest is a gentle place to start when everyone needs less pressure.\n\nSave this for a low-energy day.",
   "caption_issues": [],
   "url_issues": [],
-  "url_probes": [
-    {
-      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car04_chest-to-chest-counts/tt_ig_2026w25_car04_chest-to-chest-counts-01.jpg",
-      "ok": true,
-      "status": 206,
-      "content_type": "image/jpeg",
-      "content_length": "1"
-    },
-    {
-      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car04_chest-to-chest-counts/tt_ig_2026w25_car04_chest-to-chest-counts-02.jpg",
-      "ok": true,
-      "status": 206,
-      "content_type": "image/jpeg",
-      "content_length": "1"
-    },
-    {
-      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car04_chest-to-chest-counts/tt_ig_2026w25_car04_chest-to-chest-counts-03.jpg",
-      "ok": true,
-      "status": 206,
-      "content_type": "image/jpeg",
-      "content_length": "1"
-    },
-    {
-      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car04_chest-to-chest-counts/tt_ig_2026w25_car04_chest-to-chest-counts-04.jpg",
-      "ok": true,
-      "status": 206,
-      "content_type": "image/jpeg",
-      "content_length": "1"
-    },
-    {
-      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car04_chest-to-chest-counts/tt_ig_2026w25_car04_chest-to-chest-counts-05.jpg",
-      "ok": true,
-      "status": 206,
-      "content_type": "image/jpeg",
-      "content_length": "1"
-    },
-    {
-      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car04_chest-to-chest-counts/tt_ig_2026w25_car04_chest-to-chest-counts-06.jpg",
-      "ok": true,
-      "status": 206,
-      "content_type": "image/jpeg",
-      "content_length": "1"
-    }
-  ],
+  "url_probes": [],
   "cleaned_bundles": [],
-  "publish_host_sync": {
-    "attempted": true,
-    "provider": "github_pages",
-    "repo": "marccc127/tummy-time-publish-assets",
-    "branch": "gh-pages",
-    "changed": true,
-    "commit": "fdbf595ad316cfe5dcfa8dbf331c8c515eec37c2",
-    "push_stdout": ""
-  }
+  "publish_host_sync": null
 }
