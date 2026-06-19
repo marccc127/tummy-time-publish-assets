@@ -1,0 +1,564 @@
+{
+  "manifest_version": 1,
+  "generated_at": "2026-06-19T17:00:02.952848+00:00",
+  "account_id": "tt",
+  "content_id": "tt_ig_2026w25_car01_making-it-too-hard",
+  "channel": "carousel",
+  "source_dir": "review/tt/tt_ig_2026w25_car01_making-it-too-hard",
+  "normalized_files": [
+    "public/publish/tt/tt_ig_2026w25_car01_making-it-too-hard/tt_ig_2026w25_car01_making-it-too-hard-01.jpg",
+    "public/publish/tt/tt_ig_2026w25_car01_making-it-too-hard/tt_ig_2026w25_car01_making-it-too-hard-02.jpg",
+    "public/publish/tt/tt_ig_2026w25_car01_making-it-too-hard/tt_ig_2026w25_car01_making-it-too-hard-03.jpg",
+    "public/publish/tt/tt_ig_2026w25_car01_making-it-too-hard/tt_ig_2026w25_car01_making-it-too-hard-04.jpg",
+    "public/publish/tt/tt_ig_2026w25_car01_making-it-too-hard/tt_ig_2026w25_car01_making-it-too-hard-05.jpg",
+    "public/publish/tt/tt_ig_2026w25_car01_making-it-too-hard/tt_ig_2026w25_car01_making-it-too-hard-06.jpg"
+  ],
+  "relative_urls": [
+    "/publish/tt/tt_ig_2026w25_car01_making-it-too-hard/tt_ig_2026w25_car01_making-it-too-hard-01.jpg",
+    "/publish/tt/tt_ig_2026w25_car01_making-it-too-hard/tt_ig_2026w25_car01_making-it-too-hard-02.jpg",
+    "/publish/tt/tt_ig_2026w25_car01_making-it-too-hard/tt_ig_2026w25_car01_making-it-too-hard-03.jpg",
+    "/publish/tt/tt_ig_2026w25_car01_making-it-too-hard/tt_ig_2026w25_car01_making-it-too-hard-04.jpg",
+    "/publish/tt/tt_ig_2026w25_car01_making-it-too-hard/tt_ig_2026w25_car01_making-it-too-hard-05.jpg",
+    "/publish/tt/tt_ig_2026w25_car01_making-it-too-hard/tt_ig_2026w25_car01_making-it-too-hard-06.jpg"
+  ],
+  "local_preview_urls": [
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car01_making-it-too-hard/tt_ig_2026w25_car01_making-it-too-hard-01.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car01_making-it-too-hard/tt_ig_2026w25_car01_making-it-too-hard-02.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car01_making-it-too-hard/tt_ig_2026w25_car01_making-it-too-hard-03.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car01_making-it-too-hard/tt_ig_2026w25_car01_making-it-too-hard-04.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car01_making-it-too-hard/tt_ig_2026w25_car01_making-it-too-hard-05.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car01_making-it-too-hard/tt_ig_2026w25_car01_making-it-too-hard-06.jpg"
+  ],
+  "public_asset_urls": [
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car01_making-it-too-hard/tt_ig_2026w25_car01_making-it-too-hard-01.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car01_making-it-too-hard/tt_ig_2026w25_car01_making-it-too-hard-02.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car01_making-it-too-hard/tt_ig_2026w25_car01_making-it-too-hard-03.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car01_making-it-too-hard/tt_ig_2026w25_car01_making-it-too-hard-04.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car01_making-it-too-hard/tt_ig_2026w25_car01_making-it-too-hard-05.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car01_making-it-too-hard/tt_ig_2026w25_car01_making-it-too-hard-06.jpg"
+  ],
+  "caption": "If tummy time keeps turning into a battle, the answer might be less. Less setup, less pressure, less time. One tiny calm win is enough to build from.\n\nSave this for the next awake window.",
+  "caption_issues": [],
+  "visual_qa": {
+    "status": "passed",
+    "reference": {
+      "dir": "assets/reference/tummy-time",
+      "status": "ready",
+      "median": {
+        "aspect_ratio": 0.8002853067047075,
+        "brightness": 213.79500000000002,
+        "contrast": 29.270000000000003,
+        "saturation": 55.43,
+        "edge_density": 39.09,
+        "dark_ratio": 0.0038
+      }
+    },
+    "issues": [],
+    "slides": [
+      {
+        "index": 1,
+        "path": "public/publish/tt/tt_ig_2026w25_car01_making-it-too-hard/tt_ig_2026w25_car01_making-it-too-hard-01.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car01_making-it-too-hard/tt_ig_2026w25_car01_making-it-too-hard-01.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            229.17,
+            209.89,
+            181.41
+          ],
+          "brightness": 212.41,
+          "contrast": 34.06,
+          "saturation": 53.37,
+          "edge_density": 46.11,
+          "dark_ratio": 0.0093
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car01_making-it-too-hard/tt_ig_2026w25_car01_making-it-too-hard-01.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.07845934379457908,
+                "width": 0.5436720142602496,
+                "x": 0.23707664884135474,
+                "y": 0.7339514978601998
+              },
+              "confidence": 0.5,
+              "text": "You might be"
+            },
+            {
+              "box": {
+                "height": 0.07845934379457908,
+                "width": 0.6292335115864527,
+                "x": 0.19964349376114082,
+                "y": 0.652639087018545
+              },
+              "confidence": 0.5,
+              "text": "making tummy"
+            },
+            {
+              "box": {
+                "height": 0.06847360912981448,
+                "width": 0.7896613190730838,
+                "x": 0.016042780748663103,
+                "y": 0.579885877318117
+              },
+              "confidence": 0.5,
+              "text": "I V. time too hard."
+            }
+          ],
+          "textCount": 3,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 2,
+        "path": "public/publish/tt/tt_ig_2026w25_car01_making-it-too-hard/tt_ig_2026w25_car01_making-it-too-hard-02.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car01_making-it-too-hard/tt_ig_2026w25_car01_making-it-too-hard-02.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            236.06,
+            215.99,
+            190.22
+          ],
+          "brightness": 219.02,
+          "contrast": 26.5,
+          "saturation": 49.34,
+          "edge_density": 34.96,
+          "dark_ratio": 0.0015
+        },
+        "vision": {
+          "edgeTextCount": 0,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car01_making-it-too-hard/tt_ig_2026w25_car01_making-it-too-hard-02.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.05420827389443661,
+                "width": 0.4527629233511586,
+                "x": 0.27629233511586454,
+                "y": 0.7396576319543509
+              },
+              "confidence": 0.5,
+              "text": "Start smaller"
+            },
+            {
+              "box": {
+                "height": 0.0684736091298146,
+                "width": 0.7450980392156863,
+                "x": 0.12834224598930483,
+                "y": 0.6483594864479315
+              },
+              "confidence": 0.5,
+              "text": "than your brain wants."
+            }
+          ],
+          "textCount": 2,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 3,
+        "path": "public/publish/tt/tt_ig_2026w25_car01_making-it-too-hard/tt_ig_2026w25_car01_making-it-too-hard-03.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car01_making-it-too-hard/tt_ig_2026w25_car01_making-it-too-hard-03.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            224.15,
+            197.45,
+            162.56
+          ],
+          "brightness": 201.45,
+          "contrast": 37.49,
+          "saturation": 72.28,
+          "edge_density": 41.87,
+          "dark_ratio": 0.0195
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [
+            {
+              "height": 0.08129435777664185,
+              "width": 0.10158171504735947,
+              "x": 0.40774935483932495,
+              "y": 0.29832351207733154
+            },
+            {
+              "height": 0.11591778695583344,
+              "width": 0.14484557509422302,
+              "x": 0.5196396708488464,
+              "y": 0.30339980125427246
+            }
+          ],
+          "faceCount": 2,
+          "handCount": 2,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car01_making-it-too-hard/tt_ig_2026w25_car01_making-it-too-hard-03.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.015691868758915817,
+                "width": 0.12834224598930483,
+                "x": 0.4358288770053476,
+                "y": 0.8673323823109843
+              },
+              "confidence": 0.5,
+              "text": "TRY THIS"
+            },
+            {
+              "box": {
+                "height": 0.07560627674750364,
+                "width": 0.518716577540107,
+                "x": 0.2531194295900178,
+                "y": 0.7624821683309557
+              },
+              "confidence": 0.5,
+              "text": "Put your face"
+            },
+            {
+              "box": {
+                "height": 0.0741797432239657,
+                "width": 0.6131907308377897,
+                "x": 0.20499108734402852,
+                "y": 0.68830242510699
+              },
+              "confidence": 0.5,
+              "text": "where baby can"
+            },
+            {
+              "box": {
+                "height": 0.05706134094151216,
+                "width": 0.2531194295900178,
+                "x": 0.3868092691622103,
+                "y": 0.6312410841654779
+              },
+              "confidence": 0.5,
+              "text": "find it."
+            },
+            {
+              "box": {
+                "height": 0.023537803138373725,
+                "width": 0.45721925133689845,
+                "x": 0.2727272727272727,
+                "y": 0.5813124108416547
+              },
+              "confidence": 0.5,
+              "text": "One tiny action is enough for today."
+            },
+            {
+              "box": {
+                "height": 0.01854493580599148,
+                "width": 0.2976827094474153,
+                "x": 0.3511586452762923,
+                "y": 0.03637660485021399
+              },
+              "confidence": 0.5,
+              "text": "Tummy Time: Baby Activities"
+            }
+          ],
+          "textCount": 6,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 4,
+        "path": "public/publish/tt/tt_ig_2026w25_car01_making-it-too-hard/tt_ig_2026w25_car01_making-it-too-hard-04.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car01_making-it-too-hard/tt_ig_2026w25_car01_making-it-too-hard-04.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            234.93,
+            214.1,
+            185.48
+          ],
+          "brightness": 217.07,
+          "contrast": 25.94,
+          "saturation": 53.55,
+          "edge_density": 35.4,
+          "dark_ratio": 0.0005
+        },
+        "vision": {
+          "edgeTextCount": 0,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car01_making-it-too-hard/tt_ig_2026w25_car01_making-it-too-hard-04.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.06704707560627687,
+                "width": 0.6381461675579323,
+                "x": 0.19073083778966132,
+                "y": 0.7011412268188302
+              },
+              "confidence": 0.5,
+              "text": "Use one soft prop,"
+            },
+            {
+              "box": {
+                "height": 0.06704707560627676,
+                "width": 0.6363636363636364,
+                "x": 0.1925133689839572,
+                "y": 0.6269614835948645
+              },
+              "confidence": 0.5,
+              "text": "not a whole setup."
+            }
+          ],
+          "textCount": 2,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 5,
+        "path": "public/publish/tt/tt_ig_2026w25_car01_making-it-too-hard/tt_ig_2026w25_car01_making-it-too-hard-05.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car01_making-it-too-hard/tt_ig_2026w25_car01_making-it-too-hard-05.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            233.63,
+            209.86,
+            180.1
+          ],
+          "brightness": 213.55,
+          "contrast": 29.28,
+          "saturation": 59.06,
+          "edge_density": 38.28,
+          "dark_ratio": 0.0017
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [
+            {
+              "height": 0.08900081366300583,
+              "width": 0.11121135205030441,
+              "x": 0.6552743911743164,
+              "y": 0.34605711698532104
+            }
+          ],
+          "faceCount": 1,
+          "handCount": 2,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car01_making-it-too-hard/tt_ig_2026w25_car01_making-it-too-hard-05.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.016405135520684788,
+                "width": 0.24242424242424238,
+                "x": 0.37967914438502676,
+                "y": 0.8430813124108416
+              },
+              "confidence": 0.5,
+              "text": "WATCH FOR THIS"
+            },
+            {
+              "box": {
+                "height": 0.07132667617689015,
+                "width": 0.49019607843137253,
+                "x": 0.25846702317290554,
+                "y": 0.7211126961483595
+              },
+              "confidence": 0.5,
+              "text": "Quit while it"
+            },
+            {
+              "box": {
+                "height": 0.07417974322396592,
+                "width": 0.5543672014260249,
+                "x": 0.23885918003565063,
+                "y": 0.6398002853067046
+              },
+              "confidence": 0.5,
+              "text": "still feels okay."
+            },
+            {
+              "box": {
+                "height": 0.022824536376604865,
+                "width": 0.4634581105169341,
+                "x": 0.28431372549019607,
+                "y": 0.594151212553495
+              },
+              "confidence": 0.5,
+              "text": "Follow your baby's cues, not a timer."
+            },
+            {
+              "box": {
+                "height": 0.0199714693295292,
+                "width": 0.32085561497326204,
+                "x": 0.3333333333333333,
+                "y": 0.060627674750356686
+              },
+              "confidence": 0.5,
+              "text": "Tummy Time: Baby Activities"
+            }
+          ],
+          "textCount": 5,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 6,
+        "path": "public/publish/tt/tt_ig_2026w25_car01_making-it-too-hard/tt_ig_2026w25_car01_making-it-too-hard-06.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car01_making-it-too-hard/tt_ig_2026w25_car01_making-it-too-hard-06.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            234.58,
+            211.38,
+            180.24
+          ],
+          "brightness": 214.74,
+          "contrast": 27.16,
+          "saturation": 59.1,
+          "edge_density": 36.36,
+          "dark_ratio": 0.0037
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car01_making-it-too-hard/tt_ig_2026w25_car01_making-it-too-hard-06.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.016405135520684677,
+                "width": 0.2076648841354723,
+                "x": 0.4001782531194296,
+                "y": 0.81169757489301
+              },
+              "confidence": 0.5,
+              "text": "OPEN THE APP"
+            },
+            {
+              "box": {
+                "height": 0.05563480741797433,
+                "width": 0.4581105169340463,
+                "x": 0.27629233511586454,
+                "y": 0.7111269614835949
+              },
+              "confidence": 0.5,
+              "text": "Save this for"
+            },
+            {
+              "box": {
+                "height": 0.07132667617689026,
+                "width": 0.6684491978609626,
+                "x": 0.1711229946524064,
+                "y": 0.6241084165477888
+              },
+              "confidence": 0.5,
+              "text": "the next tiny reset."
+            },
+            {
+              "box": {
+                "height": 0.01854493580599148,
+                "width": 0.4795008912655972,
+                "x": 0.2620320855614973,
+                "y": 0.587018544935806
+              },
+              "confidence": 0.5,
+              "text": "Save this for the next awake window."
+            },
+            {
+              "box": {
+                "height": 0.02068473609129806,
+                "width": 0.36809269162210334,
+                "x": 0.3163992869875223,
+                "y": 0.060627674750356686
+              },
+              "confidence": 0.5,
+              "text": "Screen-free, simple, no pressure."
+            }
+          ],
+          "textCount": 5,
+          "width": 1122
+        },
+        "issues": []
+      }
+    ]
+  },
+  "visual_qa_issues": [],
+  "url_issues": [],
+  "url_probes": [
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car01_making-it-too-hard/tt_ig_2026w25_car01_making-it-too-hard-01.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car01_making-it-too-hard/tt_ig_2026w25_car01_making-it-too-hard-02.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car01_making-it-too-hard/tt_ig_2026w25_car01_making-it-too-hard-03.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car01_making-it-too-hard/tt_ig_2026w25_car01_making-it-too-hard-04.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car01_making-it-too-hard/tt_ig_2026w25_car01_making-it-too-hard-05.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car01_making-it-too-hard/tt_ig_2026w25_car01_making-it-too-hard-06.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    }
+  ],
+  "cleaned_bundles": [],
+  "publish_host_sync": {
+    "attempted": true,
+    "provider": "github_pages",
+    "repo": "marccc127/tummy-time-publish-assets",
+    "branch": "gh-pages",
+    "changed": true,
+    "commit": "3f4f2ec1c61c6d8b5c6e69d7804ac7a5f7a11eb5",
+    "push_stdout": ""
+  }
+}
