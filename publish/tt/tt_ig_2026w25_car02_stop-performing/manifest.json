@@ -1,6 +1,6 @@
 {
   "manifest_version": 1,
-  "generated_at": "2026-06-19T17:08:40.166743+00:00",
+  "generated_at": "2026-06-19T17:16:05.924206+00:00",
   "account_id": "tt",
   "content_id": "tt_ig_2026w25_car02_stop-performing",
   "channel": "carousel",
@@ -618,7 +618,7 @@
     "repo": "marccc127/tummy-time-publish-assets",
     "branch": "gh-pages",
     "changed": true,
-    "commit": "e16beed30e6443d4eb2395c1e248754028556aa6",
+    "commit": "a3cc34e2885dac5452ad717bad3039f129daf049",
     "push_stdout": ""
   }
 }
