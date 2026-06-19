@@ -1,6 +1,6 @@
 {
   "manifest_version": 1,
-  "generated_at": "2026-06-19T17:03:38.333767+00:00",
+  "generated_at": "2026-06-19T17:09:19.928955+00:00",
   "account_id": "tt",
   "content_id": "tt_ig_2026w25_car06_toy-pile-trap",
   "channel": "carousel",
@@ -582,7 +582,7 @@
     "repo": "marccc127/tummy-time-publish-assets",
     "branch": "gh-pages",
     "changed": true,
-    "commit": "d9059ff6d631f11935c7f6bf6e13282457d65be2",
+    "commit": "a655fb68d88c51d62e075796ec99d26a3d7b84a4",
     "push_stdout": ""
   }
 }
