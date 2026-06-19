@@ -1,6 +1,6 @@
 {
   "manifest_version": 1,
-  "generated_at": "2026-06-18T23:23:30.314969+00:00",
+  "generated_at": "2026-06-18T23:26:25.310640+00:00",
   "account_id": "tt",
   "content_id": "tt_ig_2026w25_car02_one-object-is-enough",
   "channel": "carousel",
@@ -39,9 +39,7 @@
   ],
   "caption": "Try one tiny tummy time idea that feels good for both of you.\n\nSave this for your next awake window.\n\n#tummytime #babyactivities #screenfreebaby #newparent #babydevelopment",
   "caption_issues": [],
-  "url_issues": [
-    "publish_host_sync_failed:Command '['git', 'push', 'origin', 'gh-pages']' returned non-zero exit status 1."
-  ],
+  "url_issues": [],
   "url_probes": [
     {
       "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car02_one-object-is-enough/tt_ig_2026w25_car02_one-object-is-enough-01.jpg",
@@ -90,6 +88,10 @@
   "publish_host_sync": {
     "attempted": true,
     "provider": "github_pages",
-    "error": "Command '['git', 'push', 'origin', 'gh-pages']' returned non-zero exit status 1."
+    "repo": "marccc127/tummy-time-publish-assets",
+    "branch": "gh-pages",
+    "changed": true,
+    "commit": "722d6595cf2c1f541909f598540fb3ddb9b49b4e",
+    "push_stdout": ""
   }
 }
