@@ -1,0 +1,588 @@
+{
+  "manifest_version": 1,
+  "generated_at": "2026-06-19T17:03:38.333767+00:00",
+  "account_id": "tt",
+  "content_id": "tt_ig_2026w25_car06_toy-pile-trap",
+  "channel": "carousel",
+  "source_dir": "review/tt/tt_ig_2026w25_car06_toy-pile-trap",
+  "normalized_files": [
+    "public/publish/tt/tt_ig_2026w25_car06_toy-pile-trap/tt_ig_2026w25_car06_toy-pile-trap-01.jpg",
+    "public/publish/tt/tt_ig_2026w25_car06_toy-pile-trap/tt_ig_2026w25_car06_toy-pile-trap-02.jpg",
+    "public/publish/tt/tt_ig_2026w25_car06_toy-pile-trap/tt_ig_2026w25_car06_toy-pile-trap-03.jpg",
+    "public/publish/tt/tt_ig_2026w25_car06_toy-pile-trap/tt_ig_2026w25_car06_toy-pile-trap-04.jpg",
+    "public/publish/tt/tt_ig_2026w25_car06_toy-pile-trap/tt_ig_2026w25_car06_toy-pile-trap-05.jpg",
+    "public/publish/tt/tt_ig_2026w25_car06_toy-pile-trap/tt_ig_2026w25_car06_toy-pile-trap-06.jpg"
+  ],
+  "relative_urls": [
+    "/publish/tt/tt_ig_2026w25_car06_toy-pile-trap/tt_ig_2026w25_car06_toy-pile-trap-01.jpg",
+    "/publish/tt/tt_ig_2026w25_car06_toy-pile-trap/tt_ig_2026w25_car06_toy-pile-trap-02.jpg",
+    "/publish/tt/tt_ig_2026w25_car06_toy-pile-trap/tt_ig_2026w25_car06_toy-pile-trap-03.jpg",
+    "/publish/tt/tt_ig_2026w25_car06_toy-pile-trap/tt_ig_2026w25_car06_toy-pile-trap-04.jpg",
+    "/publish/tt/tt_ig_2026w25_car06_toy-pile-trap/tt_ig_2026w25_car06_toy-pile-trap-05.jpg",
+    "/publish/tt/tt_ig_2026w25_car06_toy-pile-trap/tt_ig_2026w25_car06_toy-pile-trap-06.jpg"
+  ],
+  "local_preview_urls": [
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car06_toy-pile-trap/tt_ig_2026w25_car06_toy-pile-trap-01.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car06_toy-pile-trap/tt_ig_2026w25_car06_toy-pile-trap-02.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car06_toy-pile-trap/tt_ig_2026w25_car06_toy-pile-trap-03.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car06_toy-pile-trap/tt_ig_2026w25_car06_toy-pile-trap-04.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car06_toy-pile-trap/tt_ig_2026w25_car06_toy-pile-trap-05.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car06_toy-pile-trap/tt_ig_2026w25_car06_toy-pile-trap-06.jpg"
+  ],
+  "public_asset_urls": [
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car06_toy-pile-trap/tt_ig_2026w25_car06_toy-pile-trap-01.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car06_toy-pile-trap/tt_ig_2026w25_car06_toy-pile-trap-02.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car06_toy-pile-trap/tt_ig_2026w25_car06_toy-pile-trap-03.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car06_toy-pile-trap/tt_ig_2026w25_car06_toy-pile-trap-04.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car06_toy-pile-trap/tt_ig_2026w25_car06_toy-pile-trap-05.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car06_toy-pile-trap/tt_ig_2026w25_car06_toy-pile-trap-06.jpg"
+  ],
+  "caption": "Before you add more toys, try removing most of them. One safe object nearby can make tummy time feel calmer and easier to notice.\n\nSave this low-prep setup.",
+  "caption_issues": [],
+  "visual_qa": {
+    "status": "passed",
+    "reference": {
+      "dir": "assets/reference/tummy-time",
+      "status": "ready",
+      "median": {
+        "aspect_ratio": 0.8002853067047075,
+        "brightness": 213.79500000000002,
+        "contrast": 29.270000000000003,
+        "saturation": 55.43,
+        "edge_density": 39.09,
+        "dark_ratio": 0.0038
+      }
+    },
+    "issues": [],
+    "slides": [
+      {
+        "index": 1,
+        "path": "public/publish/tt/tt_ig_2026w25_car06_toy-pile-trap/tt_ig_2026w25_car06_toy-pile-trap-01.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car06_toy-pile-trap/tt_ig_2026w25_car06_toy-pile-trap-01.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            227.77,
+            207.4,
+            178.51
+          ],
+          "brightness": 210.18,
+          "contrast": 28.88,
+          "saturation": 54.81,
+          "edge_density": 41.09,
+          "dark_ratio": 0.0029
+        },
+        "vision": {
+          "edgeTextCount": 0,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car06_toy-pile-trap/tt_ig_2026w25_car06_toy-pile-trap-01.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.06990014265335243,
+                "width": 0.5204991087344029,
+                "x": 0.24777183600713013,
+                "y": 0.7368045649072753
+              },
+              "confidence": 0.5,
+              "text": "The toy pile is"
+            },
+            {
+              "box": {
+                "height": 0.06847360912981448,
+                "width": 0.6185383244206774,
+                "x": 0.1925133689839572,
+                "y": 0.6640513552068474
+              },
+              "confidence": 0.5,
+              "text": "probably making"
+            },
+            {
+              "box": {
+                "height": 0.06704707560627676,
+                "width": 0.6631016042780749,
+                "x": 0.1746880570409982,
+                "y": 0.5927246790299572
+              },
+              "confidence": 0.5,
+              "text": "tummy time worse."
+            }
+          ],
+          "textCount": 3,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 2,
+        "path": "public/publish/tt/tt_ig_2026w25_car06_toy-pile-trap/tt_ig_2026w25_car06_toy-pile-trap-02.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car06_toy-pile-trap/tt_ig_2026w25_car06_toy-pile-trap-02.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            232.71,
+            212.4,
+            184.95
+          ],
+          "brightness": 215.37,
+          "contrast": 29.3,
+          "saturation": 52.29,
+          "edge_density": 39.43,
+          "dark_ratio": 0.0022
+        },
+        "vision": {
+          "edgeTextCount": 0,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car06_toy-pile-trap/tt_ig_2026w25_car06_toy-pile-trap-02.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.07275320970042798,
+                "width": 0.6684491978609626,
+                "x": 0.18538324420677363,
+                "y": 0.7325249643366619
+              },
+              "confidence": 0.5,
+              "text": "Too much can pull"
+            },
+            {
+              "box": {
+                "height": 0.05563480741797422,
+                "width": 0.34402852049910876,
+                "x": 0.34759358288770054,
+                "y": 0.6726105563480742
+              },
+              "confidence": 0.5,
+              "text": "attention"
+            },
+            {
+              "box": {
+                "height": 0.07417974322396581,
+                "width": 0.4581105169340463,
+                "x": 0.2887700534759358,
+                "y": 0.5827389443651926
+              },
+              "confidence": 0.5,
+              "text": "everywhere."
+            }
+          ],
+          "textCount": 3,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 3,
+        "path": "public/publish/tt/tt_ig_2026w25_car06_toy-pile-trap/tt_ig_2026w25_car06_toy-pile-trap-03.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car06_toy-pile-trap/tt_ig_2026w25_car06_toy-pile-trap-03.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            234.01,
+            211.33,
+            181.3
+          ],
+          "brightness": 214.66,
+          "contrast": 26.35,
+          "saturation": 57.49,
+          "edge_density": 34.61,
+          "dark_ratio": 0.0027
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car06_toy-pile-trap/tt_ig_2026w25_car06_toy-pile-trap-03.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.015691868758915817,
+                "width": 0.12566844919786097,
+                "x": 0.43672014260249553,
+                "y": 0.8095577746077033
+              },
+              "confidence": 0.5,
+              "text": "TRY THIS"
+            },
+            {
+              "box": {
+                "height": 0.059914407988587715,
+                "width": 0.3440285204991087,
+                "x": 0.32798573975044565,
+                "y": 0.7054208273894437
+              },
+              "confidence": 0.5,
+              "text": "Pick one"
+            },
+            {
+              "box": {
+                "height": 0.07703281027104136,
+                "width": 0.4135472370766488,
+                "x": 0.30303030303030304,
+                "y": 0.6098430813124108
+              },
+              "confidence": 0.5,
+              "text": "safe thing."
+            },
+            {
+              "box": {
+                "height": 0.022824536376604865,
+                "width": 0.46345811051693403,
+                "x": 0.2700534759358289,
+                "y": 0.572753209700428
+              },
+              "confidence": 0.5,
+              "text": "One tiny action is enough for today."
+            },
+            {
+              "box": {
+                "height": 0.01925820256776034,
+                "width": 0.3146167557932264,
+                "x": 0.3422459893048128,
+                "y": 0.05349500713266764
+              },
+              "confidence": 0.5,
+              "text": "Tummy Time: Baby Activities"
+            }
+          ],
+          "textCount": 5,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 4,
+        "path": "public/publish/tt/tt_ig_2026w25_car06_toy-pile-trap/tt_ig_2026w25_car06_toy-pile-trap-04.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car06_toy-pile-trap/tt_ig_2026w25_car06_toy-pile-trap-04.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            236.1,
+            213.37,
+            183.81
+          ],
+          "brightness": 216.83,
+          "contrast": 28.85,
+          "saturation": 56.91,
+          "edge_density": 38.92,
+          "dark_ratio": 0.0073
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [
+            {
+              "height": 0.11487927287817001,
+              "width": 0.1435479074716568,
+              "x": 0.48438480496406555,
+              "y": 0.3596622943878174
+            }
+          ],
+          "faceCount": 1,
+          "handCount": 2,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car06_toy-pile-trap/tt_ig_2026w25_car06_toy-pile-trap-04.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.016405135520684788,
+                "width": 0.13012477718360077,
+                "x": 0.43404634581105167,
+                "y": 0.8509272467902995
+              },
+              "confidence": 0.5,
+              "text": "TRY THIS"
+            },
+            {
+              "box": {
+                "height": 0.07988587731811703,
+                "width": 0.6327985739750446,
+                "x": 0.2014260249554367,
+                "y": 0.7268188302425107
+              },
+              "confidence": 0.5,
+              "text": "Place it slightly"
+            },
+            {
+              "box": {
+                "height": 0.061340941512125546,
+                "width": 0.4509803921568627,
+                "x": 0.29233511586452765,
+                "y": 0.6626248216833095
+              },
+              "confidence": 0.5,
+              "text": "to the side."
+            },
+            {
+              "box": {
+                "height": 0.023537803138373836,
+                "width": 0.4723707664884136,
+                "x": 0.2718360071301248,
+                "y": 0.601283880171184
+              },
+              "confidence": 0.5,
+              "text": "One tiny action is enough for today."
+            },
+            {
+              "box": {
+                "height": 0.019971469329529312,
+                "width": 0.3092691622103387,
+                "x": 0.3449197860962567,
+                "y": 0.04850213980028528
+              },
+              "confidence": 0.5,
+              "text": "Tummy Time: Baby Activities"
+            }
+          ],
+          "textCount": 5,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 5,
+        "path": "public/publish/tt/tt_ig_2026w25_car06_toy-pile-trap/tt_ig_2026w25_car06_toy-pile-trap-05.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car06_toy-pile-trap/tt_ig_2026w25_car06_toy-pile-trap-05.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            235.34,
+            210.75,
+            177.1
+          ],
+          "brightness": 214.25,
+          "contrast": 25.61,
+          "saturation": 63.34,
+          "edge_density": 35.74,
+          "dark_ratio": 0.0039
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [
+            {
+              "height": 0.0973847508430481,
+              "width": 0.12168753892183304,
+              "x": 0.5200162529945374,
+              "y": 0.33680471777915955
+            }
+          ],
+          "faceCount": 1,
+          "handCount": 2,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car06_toy-pile-trap/tt_ig_2026w25_car06_toy-pile-trap-05.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.016405135520684677,
+                "width": 0.22994652406417115,
+                "x": 0.3850267379679144,
+                "y": 0.8345221112696148
+              },
+              "confidence": 0.5,
+              "text": "WATCH FOR THIS"
+            },
+            {
+              "box": {
+                "height": 0.05848787446504988,
+                "width": 0.48663101604278075,
+                "x": 0.2709447415329768,
+                "y": 0.7439372325249644
+              },
+              "confidence": 0.5,
+              "text": "Wait for one"
+            },
+            {
+              "box": {
+                "height": 0.07275320970042798,
+                "width": 0.4081996434937611,
+                "x": 0.31194295900178254,
+                "y": 0.6512125534950071
+              },
+              "confidence": 0.5,
+              "text": "tiny reach."
+            },
+            {
+              "box": {
+                "height": 0.022111269614836004,
+                "width": 0.44028520499108736,
+                "x": 0.2807486631016043,
+                "y": 0.615549215406562
+              },
+              "confidence": 0.5,
+              "text": "Follow your baby's cues, not a timer."
+            },
+            {
+              "box": {
+                "height": 0.01854493580599137,
+                "width": 0.303030303030303,
+                "x": 0.3484848484848485,
+                "y": 0.05706134094151216
+              },
+              "confidence": 0.5,
+              "text": "Tummy Time: Baby Activities"
+            }
+          ],
+          "textCount": 5,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 6,
+        "path": "public/publish/tt/tt_ig_2026w25_car06_toy-pile-trap/tt_ig_2026w25_car06_toy-pile-trap-06.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car06_toy-pile-trap/tt_ig_2026w25_car06_toy-pile-trap-06.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            232.14,
+            208.62,
+            176.6
+          ],
+          "brightness": 212.01,
+          "contrast": 28.21,
+          "saturation": 61.2,
+          "edge_density": 38.09,
+          "dark_ratio": 0.0039
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car06_toy-pile-trap/tt_ig_2026w25_car06_toy-pile-trap-06.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.015691868758915817,
+                "width": 0.20231729055258468,
+                "x": 0.4001782531194296,
+                "y": 0.8430813124108416
+              },
+              "confidence": 0.5,
+              "text": "OPEN THE APP"
+            },
+            {
+              "box": {
+                "height": 0.06419400855920121,
+                "width": 0.3689839572192513,
+                "x": 0.32085561497326204,
+                "y": 0.7310984308131241
+              },
+              "confidence": 0.5,
+              "text": "Save this"
+            },
+            {
+              "box": {
+                "height": 0.07703281027104147,
+                "width": 0.6078431372549019,
+                "x": 0.20320855614973263,
+                "y": 0.6398002853067046
+              },
+              "confidence": 0.5,
+              "text": "low-prep setup."
+            },
+            {
+              "box": {
+                "height": 0.01854493580599137,
+                "width": 0.4750445632798574,
+                "x": 0.25935828877005346,
+                "y": 0.594864479315264
+              },
+              "confidence": 0.5,
+              "text": "Save this for the next awake window."
+            },
+            {
+              "box": {
+                "height": 0.022111269614836004,
+                "width": 0.40819964349376114,
+                "x": 0.2905525846702317,
+                "y": 0.0542082738944365
+              },
+              "confidence": 0.5,
+              "text": "Screen-free, simple, no pressure."
+            }
+          ],
+          "textCount": 5,
+          "width": 1122
+        },
+        "issues": []
+      }
+    ]
+  },
+  "visual_qa_issues": [],
+  "url_issues": [],
+  "url_probes": [
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car06_toy-pile-trap/tt_ig_2026w25_car06_toy-pile-trap-01.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car06_toy-pile-trap/tt_ig_2026w25_car06_toy-pile-trap-02.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car06_toy-pile-trap/tt_ig_2026w25_car06_toy-pile-trap-03.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car06_toy-pile-trap/tt_ig_2026w25_car06_toy-pile-trap-04.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car06_toy-pile-trap/tt_ig_2026w25_car06_toy-pile-trap-05.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car06_toy-pile-trap/tt_ig_2026w25_car06_toy-pile-trap-06.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    }
+  ],
+  "cleaned_bundles": [],
+  "publish_host_sync": {
+    "attempted": true,
+    "provider": "github_pages",
+    "repo": "marccc127/tummy-time-publish-assets",
+    "branch": "gh-pages",
+    "changed": true,
+    "commit": "d9059ff6d631f11935c7f6bf6e13282457d65be2",
+    "push_stdout": ""
+  }
+}
