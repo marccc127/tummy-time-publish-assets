@@ -1,6 +1,6 @@
 {
   "manifest_version": 1,
-  "generated_at": "2026-06-19T07:23:29.383621+00:00",
+  "generated_at": "2026-06-19T10:39:38.087381+00:00",
   "account_id": "tt",
   "content_id": "tt_ig_2026w25_car01_stop-forcing-10-min",
   "channel": "carousel",
@@ -37,7 +37,7 @@
     "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car01_stop-forcing-10-min/tt_ig_2026w25_car01_stop-forcing-10-min-05.jpg",
     "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car01_stop-forcing-10-min/tt_ig_2026w25_car01_stop-forcing-10-min-06.jpg"
   ],
-  "caption": "Try one tiny tummy time idea that feels good for both of you.\n\nSave this for your next awake window.\n\n#tummytime #babyactivities #screenfreebaby #newparent #babydevelopment",
+  "caption": "Tummy time does not need to become a 10-minute battle. Start tiny, stay close, and end on a calm win.\n\nSave this for the next awake window.",
   "caption_issues": [],
   "url_issues": [],
   "url_probes": [
@@ -91,7 +91,7 @@
     "repo": "marccc127/tummy-time-publish-assets",
     "branch": "gh-pages",
     "changed": true,
-    "commit": "5639f9a1a7acabd728780ddab6cf8d0d98d70b52",
+    "commit": "5fe01658db3483dd101ab099b9764d8fc49ef764",
     "push_stdout": ""
   }
 }
