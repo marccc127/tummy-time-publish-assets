@@ -1,0 +1,597 @@
+{
+  "manifest_version": 1,
+  "generated_at": "2026-06-19T17:01:11.276594+00:00",
+  "account_id": "tt",
+  "content_id": "tt_ig_2026w25_car03_baby-not-bored",
+  "channel": "carousel",
+  "source_dir": "review/tt/tt_ig_2026w25_car03_baby-not-bored",
+  "normalized_files": [
+    "public/publish/tt/tt_ig_2026w25_car03_baby-not-bored/tt_ig_2026w25_car03_baby-not-bored-01.jpg",
+    "public/publish/tt/tt_ig_2026w25_car03_baby-not-bored/tt_ig_2026w25_car03_baby-not-bored-02.jpg",
+    "public/publish/tt/tt_ig_2026w25_car03_baby-not-bored/tt_ig_2026w25_car03_baby-not-bored-03.jpg",
+    "public/publish/tt/tt_ig_2026w25_car03_baby-not-bored/tt_ig_2026w25_car03_baby-not-bored-04.jpg",
+    "public/publish/tt/tt_ig_2026w25_car03_baby-not-bored/tt_ig_2026w25_car03_baby-not-bored-05.jpg",
+    "public/publish/tt/tt_ig_2026w25_car03_baby-not-bored/tt_ig_2026w25_car03_baby-not-bored-06.jpg"
+  ],
+  "relative_urls": [
+    "/publish/tt/tt_ig_2026w25_car03_baby-not-bored/tt_ig_2026w25_car03_baby-not-bored-01.jpg",
+    "/publish/tt/tt_ig_2026w25_car03_baby-not-bored/tt_ig_2026w25_car03_baby-not-bored-02.jpg",
+    "/publish/tt/tt_ig_2026w25_car03_baby-not-bored/tt_ig_2026w25_car03_baby-not-bored-03.jpg",
+    "/publish/tt/tt_ig_2026w25_car03_baby-not-bored/tt_ig_2026w25_car03_baby-not-bored-04.jpg",
+    "/publish/tt/tt_ig_2026w25_car03_baby-not-bored/tt_ig_2026w25_car03_baby-not-bored-05.jpg",
+    "/publish/tt/tt_ig_2026w25_car03_baby-not-bored/tt_ig_2026w25_car03_baby-not-bored-06.jpg"
+  ],
+  "local_preview_urls": [
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car03_baby-not-bored/tt_ig_2026w25_car03_baby-not-bored-01.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car03_baby-not-bored/tt_ig_2026w25_car03_baby-not-bored-02.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car03_baby-not-bored/tt_ig_2026w25_car03_baby-not-bored-03.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car03_baby-not-bored/tt_ig_2026w25_car03_baby-not-bored-04.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car03_baby-not-bored/tt_ig_2026w25_car03_baby-not-bored-05.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car03_baby-not-bored/tt_ig_2026w25_car03_baby-not-bored-06.jpg"
+  ],
+  "public_asset_urls": [
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car03_baby-not-bored/tt_ig_2026w25_car03_baby-not-bored-01.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car03_baby-not-bored/tt_ig_2026w25_car03_baby-not-bored-02.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car03_baby-not-bored/tt_ig_2026w25_car03_baby-not-bored-03.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car03_baby-not-bored/tt_ig_2026w25_car03_baby-not-bored-04.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car03_baby-not-bored/tt_ig_2026w25_car03_baby-not-bored-05.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car03_baby-not-bored/tt_ig_2026w25_car03_baby-not-bored-06.jpg"
+  ],
+  "caption": "You do not need to keep upgrading tummy time. Repetition is not boring for a baby. It is how simple things become familiar.\n\nSave this simple reset.",
+  "caption_issues": [],
+  "visual_qa": {
+    "status": "passed",
+    "reference": {
+      "dir": "assets/reference/tummy-time",
+      "status": "ready",
+      "median": {
+        "aspect_ratio": 0.8002853067047075,
+        "brightness": 213.79500000000002,
+        "contrast": 29.270000000000003,
+        "saturation": 55.43,
+        "edge_density": 39.09,
+        "dark_ratio": 0.0038
+      }
+    },
+    "issues": [],
+    "slides": [
+      {
+        "index": 1,
+        "path": "public/publish/tt/tt_ig_2026w25_car03_baby-not-bored/tt_ig_2026w25_car03_baby-not-bored-01.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car03_baby-not-bored/tt_ig_2026w25_car03_baby-not-bored-01.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            232.39,
+            211.66,
+            182.44
+          ],
+          "brightness": 214.54,
+          "contrast": 30.64,
+          "saturation": 54.45,
+          "edge_density": 43.53,
+          "dark_ratio": 0.0071
+        },
+        "vision": {
+          "edgeTextCount": 0,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car03_baby-not-bored/tt_ig_2026w25_car03_baby-not-bored-01.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.0784593437945792,
+                "width": 0.5080213903743316,
+                "x": 0.24598930481283424,
+                "y": 0.7439372325249644
+              },
+              "confidence": 0.5,
+              "text": "Your baby is"
+            },
+            {
+              "box": {
+                "height": 0.061340941512125546,
+                "width": 0.41889483065953653,
+                "x": 0.2976827094474153,
+                "y": 0.6840228245363766
+              },
+              "confidence": 0.5,
+              "text": "not bored."
+            },
+            {
+              "box": {
+                "height": 0.059914407988587715,
+                "width": 0.5454545454545454,
+                "x": 0.22638146167557932,
+                "y": 0.6069900142653353
+              },
+              "confidence": 0.5,
+              "text": "You are over-"
+            },
+            {
+              "box": {
+                "height": 0.0784593437945793,
+                "width": 0.5044563279857397,
+                "x": 0.25133689839572193,
+                "y": 0.5128388017118402
+              },
+              "confidence": 0.5,
+              "text": "setting it up."
+            }
+          ],
+          "textCount": 4,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 2,
+        "path": "public/publish/tt/tt_ig_2026w25_car03_baby-not-bored/tt_ig_2026w25_car03_baby-not-bored-02.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car03_baby-not-bored/tt_ig_2026w25_car03_baby-not-bored-02.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            231.31,
+            210.86,
+            183.45
+          ],
+          "brightness": 213.83,
+          "contrast": 29.5,
+          "saturation": 53.08,
+          "edge_density": 39.35,
+          "dark_ratio": 0.0007
+        },
+        "vision": {
+          "edgeTextCount": 0,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car03_baby-not-bored/tt_ig_2026w25_car03_baby-not-bored-02.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.05135520684736106,
+                "width": 0.5775401069518717,
+                "x": 0.21746880570409982,
+                "y": 0.7282453637660484
+              },
+              "confidence": 0.5,
+              "text": "New babies learn"
+            },
+            {
+              "box": {
+                "height": 0.06419400855920121,
+                "width": 0.7575757575757576,
+                "x": 0.1265597147950089,
+                "y": 0.6469329529243937
+              },
+              "confidence": 0.5,
+              "text": "through simple repeats."
+            }
+          ],
+          "textCount": 2,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 3,
+        "path": "public/publish/tt/tt_ig_2026w25_car03_baby-not-bored/tt_ig_2026w25_car03_baby-not-bored-03.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car03_baby-not-bored/tt_ig_2026w25_car03_baby-not-bored-03.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            235.47,
+            211.51,
+            179.33
+          ],
+          "brightness": 215.0,
+          "contrast": 26.0,
+          "saturation": 60.79,
+          "edge_density": 37.11,
+          "dark_ratio": 0.0034
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car03_baby-not-bored/tt_ig_2026w25_car03_baby-not-bored-03.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.015691868758915817,
+                "width": 0.13012477718360071,
+                "x": 0.43493761140819964,
+                "y": 0.848074179743224
+              },
+              "confidence": 0.5,
+              "text": "TRY THIS"
+            },
+            {
+              "box": {
+                "height": 0.07560627674750353,
+                "width": 0.2959001782531194,
+                "x": 0.35294117647058826,
+                "y": 0.7339514978601998
+              },
+              "confidence": 0.5,
+              "text": "Try the"
+            },
+            {
+              "box": {
+                "height": 0.07560627674750353,
+                "width": 0.46880570409982175,
+                "x": 0.26737967914438504,
+                "y": 0.6569186875891584
+              },
+              "confidence": 0.5,
+              "text": "same object"
+            },
+            {
+              "box": {
+                "height": 0.05706134094151216,
+                "width": 0.233511586452763,
+                "x": 0.3868092691622103,
+                "y": 0.5970042796005706
+              },
+              "confidence": 0.5,
+              "text": "twice."
+            },
+            {
+              "box": {
+                "height": 0.022824536376604754,
+                "width": 0.4349376114081997,
+                "x": 0.2825311942959002,
+                "y": 0.5449358059914409
+              },
+              "confidence": 0.5,
+              "text": "One tiny action is enough for today."
+            },
+            {
+              "box": {
+                "height": 0.0199714693295292,
+                "width": 0.3128342245989305,
+                "x": 0.33778966131907306,
+                "y": 0.052068473609129806
+              },
+              "confidence": 0.5,
+              "text": "Tummy Time: Baby Activities"
+            }
+          ],
+          "textCount": 6,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 4,
+        "path": "public/publish/tt/tt_ig_2026w25_car03_baby-not-bored/tt_ig_2026w25_car03_baby-not-bored-04.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car03_baby-not-bored/tt_ig_2026w25_car03_baby-not-bored-04.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            233.72,
+            209.44,
+            176.32
+          ],
+          "brightness": 212.91,
+          "contrast": 26.42,
+          "saturation": 62.73,
+          "edge_density": 37.55,
+          "dark_ratio": 0.0034
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 1,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car03_baby-not-bored/tt_ig_2026w25_car03_baby-not-bored-04.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.016405135520684677,
+                "width": 0.1310160427807487,
+                "x": 0.43404634581105167,
+                "y": 0.8245363766048502
+              },
+              "confidence": 0.5,
+              "text": "TRY THIS"
+            },
+            {
+              "box": {
+                "height": 0.05706134094151216,
+                "width": 0.4848484848484848,
+                "x": 0.2620320855614973,
+                "y": 0.7211126961483595
+              },
+              "confidence": 0.5,
+              "text": "Move slower"
+            },
+            {
+              "box": {
+                "height": 0.05706134094151216,
+                "width": 0.6773618538324421,
+                "x": 0.16755793226381463,
+                "y": 0.645506419400856
+              },
+              "confidence": 0.5,
+              "text": "than feels natural."
+            },
+            {
+              "box": {
+                "height": 0.023537803138373725,
+                "width": 0.45989304812834225,
+                "x": 0.2700534759358289,
+                "y": 0.5848787446504993
+              },
+              "confidence": 0.5,
+              "text": "One tiny action is enough for today."
+            },
+            {
+              "box": {
+                "height": 0.01925820256776034,
+                "width": 0.29768270944741526,
+                "x": 0.3484848484848485,
+                "y": 0.03566333808844513
+              },
+              "confidence": 0.5,
+              "text": "Tummy Time: Baby Activities"
+            }
+          ],
+          "textCount": 5,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 5,
+        "path": "public/publish/tt/tt_ig_2026w25_car03_baby-not-bored/tt_ig_2026w25_car03_baby-not-bored-05.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car03_baby-not-bored/tt_ig_2026w25_car03_baby-not-bored-05.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            231.92,
+            206.96,
+            176.1
+          ],
+          "brightness": 210.87,
+          "contrast": 28.28,
+          "saturation": 61.88,
+          "edge_density": 37.01,
+          "dark_ratio": 0.0027
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [
+            {
+              "height": 0.07383472472429276,
+              "width": 0.09226050227880478,
+              "x": 0.44296467304229736,
+              "y": 0.2645512521266937
+            },
+            {
+              "height": 0.08847802877426147,
+              "width": 0.11055810749530792,
+              "x": 0.668890118598938,
+              "y": 0.4472303092479706
+            }
+          ],
+          "faceCount": 2,
+          "handCount": 2,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car03_baby-not-bored/tt_ig_2026w25_car03_baby-not-bored-05.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.015691868758915817,
+                "width": 0.23083778966131907,
+                "x": 0.3850267379679144,
+                "y": 0.8516405135520685
+              },
+              "confidence": 0.5,
+              "text": "WATCH FOR THIS"
+            },
+            {
+              "box": {
+                "height": 0.07275320970042798,
+                "width": 0.4866310160427807,
+                "x": 0.26024955436720143,
+                "y": 0.7482168330955777
+              },
+              "confidence": 0.5,
+              "text": "Pause longer"
+            },
+            {
+              "box": {
+                "height": 0.06990014265335232,
+                "width": 0.5115864527629234,
+                "x": 0.24955436720142601,
+                "y": 0.6768901569186876
+              },
+              "confidence": 0.5,
+              "text": "than you talk."
+            },
+            {
+              "box": {
+                "height": 0.022824536376604865,
+                "width": 0.46524064171123,
+                "x": 0.26827094474153296,
+                "y": 0.6348074179743224
+              },
+              "confidence": 0.5,
+              "text": "Follow your baby's cues, not a timer."
+            },
+            {
+              "box": {
+                "height": 0.01925820256776034,
+                "width": 0.3110516934046345,
+                "x": 0.34402852049910876,
+                "y": 0.05349500713266764
+              },
+              "confidence": 0.5,
+              "text": "Tummy Time: Baby Activities"
+            }
+          ],
+          "textCount": 5,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 6,
+        "path": "public/publish/tt/tt_ig_2026w25_car03_baby-not-bored/tt_ig_2026w25_car03_baby-not-bored-06.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car03_baby-not-bored/tt_ig_2026w25_car03_baby-not-bored-06.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            230.86,
+            207.26,
+            175.77
+          ],
+          "brightness": 210.71,
+          "contrast": 29.21,
+          "saturation": 61.33,
+          "edge_density": 39.85,
+          "dark_ratio": 0.0046
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car03_baby-not-bored/tt_ig_2026w25_car03_baby-not-bored-06.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.016405135520684677,
+                "width": 0.20231729055258463,
+                "x": 0.4019607843137255,
+                "y": 0.8345221112696148
+              },
+              "confidence": 0.5,
+              "text": "OPEN THE APP"
+            },
+            {
+              "box": {
+                "height": 0.061340941512125546,
+                "width": 0.3600713012477718,
+                "x": 0.3244206773618538,
+                "y": 0.7310984308131241
+              },
+              "confidence": 0.5,
+              "text": "Save this"
+            },
+            {
+              "box": {
+                "height": 0.0784593437945792,
+                "width": 0.4973262032085561,
+                "x": 0.25846702317290554,
+                "y": 0.6383737517831669
+              },
+              "confidence": 0.5,
+              "text": "simple reset."
+            },
+            {
+              "box": {
+                "height": 0.01783166904422262,
+                "width": 0.46613190730837795,
+                "x": 0.26648841354723707,
+                "y": 0.601283880171184
+              },
+              "confidence": 0.5,
+              "text": "Save this for the next awake window."
+            },
+            {
+              "box": {
+                "height": 0.01925820256776034,
+                "width": 0.35918003565062384,
+                "x": 0.32798573975044565,
+                "y": 0.07203994293865901
+              },
+              "confidence": 0.5,
+              "text": "Screen-free, simple, no pressure."
+            }
+          ],
+          "textCount": 5,
+          "width": 1122
+        },
+        "issues": []
+      }
+    ]
+  },
+  "visual_qa_issues": [],
+  "url_issues": [],
+  "url_probes": [
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car03_baby-not-bored/tt_ig_2026w25_car03_baby-not-bored-01.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car03_baby-not-bored/tt_ig_2026w25_car03_baby-not-bored-02.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car03_baby-not-bored/tt_ig_2026w25_car03_baby-not-bored-03.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car03_baby-not-bored/tt_ig_2026w25_car03_baby-not-bored-04.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car03_baby-not-bored/tt_ig_2026w25_car03_baby-not-bored-05.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car03_baby-not-bored/tt_ig_2026w25_car03_baby-not-bored-06.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    }
+  ],
+  "cleaned_bundles": [],
+  "publish_host_sync": {
+    "attempted": true,
+    "provider": "github_pages",
+    "repo": "marccc127/tummy-time-publish-assets",
+    "branch": "gh-pages",
+    "changed": true,
+    "commit": "96026cf5525bbe7b12f1fefac5a862b110806144",
+    "push_stdout": ""
+  }
+}
