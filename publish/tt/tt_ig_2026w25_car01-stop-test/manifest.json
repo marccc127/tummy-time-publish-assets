@@ -1,0 +1,606 @@
+{
+  "manifest_version": 1,
+  "generated_at": "2026-06-19T13:06:18.804721+00:00",
+  "account_id": "tt",
+  "content_id": "tt_ig_2026w25_car01-stop-test",
+  "channel": "carousel",
+  "source_dir": "review/tt/tt_ig_2026w25_car01_stop-forcing-10-min",
+  "normalized_files": [
+    "public/publish/tt/tt_ig_2026w25_car01-stop-test/tt_ig_2026w25_car01-stop-test-01.jpg",
+    "public/publish/tt/tt_ig_2026w25_car01-stop-test/tt_ig_2026w25_car01-stop-test-02.jpg",
+    "public/publish/tt/tt_ig_2026w25_car01-stop-test/tt_ig_2026w25_car01-stop-test-03.jpg",
+    "public/publish/tt/tt_ig_2026w25_car01-stop-test/tt_ig_2026w25_car01-stop-test-04.jpg",
+    "public/publish/tt/tt_ig_2026w25_car01-stop-test/tt_ig_2026w25_car01-stop-test-05.jpg",
+    "public/publish/tt/tt_ig_2026w25_car01-stop-test/tt_ig_2026w25_car01-stop-test-06.jpg"
+  ],
+  "relative_urls": [
+    "/publish/tt/tt_ig_2026w25_car01-stop-test/tt_ig_2026w25_car01-stop-test-01.jpg",
+    "/publish/tt/tt_ig_2026w25_car01-stop-test/tt_ig_2026w25_car01-stop-test-02.jpg",
+    "/publish/tt/tt_ig_2026w25_car01-stop-test/tt_ig_2026w25_car01-stop-test-03.jpg",
+    "/publish/tt/tt_ig_2026w25_car01-stop-test/tt_ig_2026w25_car01-stop-test-04.jpg",
+    "/publish/tt/tt_ig_2026w25_car01-stop-test/tt_ig_2026w25_car01-stop-test-05.jpg",
+    "/publish/tt/tt_ig_2026w25_car01-stop-test/tt_ig_2026w25_car01-stop-test-06.jpg"
+  ],
+  "local_preview_urls": [
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car01-stop-test/tt_ig_2026w25_car01-stop-test-01.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car01-stop-test/tt_ig_2026w25_car01-stop-test-02.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car01-stop-test/tt_ig_2026w25_car01-stop-test-03.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car01-stop-test/tt_ig_2026w25_car01-stop-test-04.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car01-stop-test/tt_ig_2026w25_car01-stop-test-05.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car01-stop-test/tt_ig_2026w25_car01-stop-test-06.jpg"
+  ],
+  "public_asset_urls": [
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car01-stop-test/tt_ig_2026w25_car01-stop-test-01.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car01-stop-test/tt_ig_2026w25_car01-stop-test-02.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car01-stop-test/tt_ig_2026w25_car01-stop-test-03.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car01-stop-test/tt_ig_2026w25_car01-stop-test-04.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car01-stop-test/tt_ig_2026w25_car01-stop-test-05.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car01-stop-test/tt_ig_2026w25_car01-stop-test-06.jpg"
+  ],
+  "caption": "Tummy time does not need to become a 10-minute battle. Start tiny, stay close, and end on a calm win.",
+  "caption_issues": [],
+  "visual_qa": {
+    "status": "passed",
+    "reference": {
+      "dir": "review/tt/tt_ig_2026w25_car01_stop-forcing-10-min",
+      "status": "ready",
+      "median": {
+        "aspect_ratio": 0.8002853067047075,
+        "brightness": 212.52,
+        "contrast": 29.715,
+        "saturation": 58.945,
+        "edge_density": 39.815,
+        "dark_ratio": 0.00635
+      }
+    },
+    "issues": [],
+    "slides": [
+      {
+        "index": 1,
+        "path": "public/publish/tt/tt_ig_2026w25_car01-stop-test/tt_ig_2026w25_car01-stop-test-01.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car01-stop-test/tt_ig_2026w25_car01-stop-test-01.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            233.15,
+            214.86,
+            188.34
+          ],
+          "brightness": 217.31,
+          "contrast": 32.23,
+          "saturation": 49.07,
+          "edge_density": 45.46,
+          "dark_ratio": 0.0107
+        },
+        "vision": {
+          "edgeTextCount": 0,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car01-stop-test/tt_ig_2026w25_car01-stop-test-01.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.08273894436519258,
+                "width": 0.5276292335115865,
+                "x": 0.24064171122994651,
+                "y": 0.7253922967189729
+              },
+              "confidence": 0.5,
+              "text": "Stop forcing"
+            },
+            {
+              "box": {
+                "height": 0.06276747503566338,
+                "width": 0.5026737967914439,
+                "x": 0.25668449197860965,
+                "y": 0.6583452211126961
+              },
+              "confidence": 0.5,
+              "text": "10 minutes."
+            },
+            {
+              "box": {
+                "height": 0.07845934379457908,
+                "width": 0.7023172905525846,
+                "x": 0.1800356506238859,
+                "y": 0.5570613409415122
+              },
+              "confidence": 0.5,
+              "text": "Try this instead. •"
+            }
+          ],
+          "textCount": 3,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 2,
+        "path": "public/publish/tt/tt_ig_2026w25_car01-stop-test/tt_ig_2026w25_car01-stop-test-02.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car01-stop-test/tt_ig_2026w25_car01-stop-test-02.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            232.23,
+            209.55,
+            178.21
+          ],
+          "brightness": 212.74,
+          "contrast": 25.62,
+          "saturation": 59.34,
+          "edge_density": 34.65,
+          "dark_ratio": 0.002
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car01-stop-test/tt_ig_2026w25_car01-stop-test-02.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.015691868758915817,
+                "width": 0.19340463458110524,
+                "x": 0.4028520499108734,
+                "y": 0.8109843081312411
+              },
+              "confidence": 0.5,
+              "text": "START SMALL"
+            },
+            {
+              "box": {
+                "height": 0.058487874465049994,
+                "width": 0.37789661319073087,
+                "x": 0.3137254901960784,
+                "y": 0.7211126961483595
+              },
+              "confidence": 0.5,
+              "text": "Start with"
+            },
+            {
+              "box": {
+                "height": 0.058487874465049994,
+                "width": 0.6185383244206774,
+                "x": 0.19429590017825313,
+                "y": 0.6469329529243937
+              },
+              "confidence": 0.5,
+              "text": "one calm minute."
+            },
+            {
+              "box": {
+                "height": 0.022111269614835893,
+                "width": 0.5151515151515151,
+                "x": 0.24242424242424243,
+                "y": 0.594864479315264
+              },
+              "confidence": 0.5,
+              "text": "Smaller and calmer usually works better."
+            },
+            {
+              "box": {
+                "height": 0.020684736091298173,
+                "width": 0.3315508021390374,
+                "x": 0.3342245989304813,
+                "y": 0.05634807417974319
+              },
+              "confidence": 0.5,
+              "text": "Tummy Time: Baby Activities"
+            }
+          ],
+          "textCount": 5,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 3,
+        "path": "public/publish/tt/tt_ig_2026w25_car01-stop-test/tt_ig_2026w25_car01-stop-test-03.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car01-stop-test/tt_ig_2026w25_car01-stop-test-03.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            222.98,
+            198.31,
+            166.87
+          ],
+          "brightness": 202.09,
+          "contrast": 36.9,
+          "saturation": 66.11,
+          "edge_density": 41.5,
+          "dark_ratio": 0.0242
+        },
+        "vision": {
+          "edgeTextCount": 0,
+          "faceBoxes": [
+            {
+              "height": 0.09280724078416824,
+              "width": 0.11596769094467163,
+              "x": 0.2842423617839813,
+              "y": 0.3967788517475128
+            },
+            {
+              "height": 0.07147533446550369,
+              "width": 0.08931231498718262,
+              "x": 0.46871671080589294,
+              "y": 0.4097401797771454
+            }
+          ],
+          "faceCount": 2,
+          "handCount": 1,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car01-stop-test/tt_ig_2026w25_car01-stop-test-03.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.07275320970042798,
+                "width": 0.5971479500891266,
+                "x": 0.22459893048128343,
+                "y": 0.7496433666191156
+              },
+              "confidence": 0.5,
+              "text": "Stay where your"
+            },
+            {
+              "box": {
+                "height": 0.07275320970042787,
+                "width": 0.4117647058823529,
+                "x": 0.3083778966131907,
+                "y": 0.6797432239657633
+              },
+              "confidence": 0.5,
+              "text": "face is easy"
+            },
+            {
+              "box": {
+                "height": 0.05563480741797433,
+                "width": 0.2620320855614974,
+                "x": 0.3850267379679144,
+                "y": 0.6269614835948645
+              },
+              "confidence": 0.5,
+              "text": "to find."
+            }
+          ],
+          "textCount": 3,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 4,
+        "path": "public/publish/tt/tt_ig_2026w25_car01-stop-test/tt_ig_2026w25_car01-stop-test-04.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car01-stop-test/tt_ig_2026w25_car01-stop-test-04.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            231.77,
+            209.12,
+            177.65
+          ],
+          "brightness": 212.3,
+          "contrast": 27.87,
+          "saturation": 59.68,
+          "edge_density": 36.14,
+          "dark_ratio": 0.0017
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car01-stop-test/tt_ig_2026w25_car01-stop-test-04.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.01711840228245365,
+                "width": 0.1319073083778966,
+                "x": 0.43315508021390375,
+                "y": 0.8238231098430813
+              },
+              "confidence": 0.5,
+              "text": "TRY THIS"
+            },
+            {
+              "box": {
+                "height": 0.059914407988587826,
+                "width": 0.4866310160427807,
+                "x": 0.26559714795008915,
+                "y": 0.7082738944365192
+              },
+              "confidence": 0.5,
+              "text": "Use one soft"
+            },
+            {
+              "box": {
+                "height": 0.07560627674750364,
+                "width": 0.5614973262032086,
+                "x": 0.22638146167557932,
+                "y": 0.615549215406562
+              },
+              "confidence": 0.5,
+              "text": "object nearby."
+            },
+            {
+              "box": {
+                "height": 0.023537803138373725,
+                "width": 0.46613190730837795,
+                "x": 0.26916221033868093,
+                "y": 0.5684736091298146
+              },
+              "confidence": 0.5,
+              "text": "One tiny action is enough for today."
+            },
+            {
+              "box": {
+                "height": 0.02068473609129806,
+                "width": 0.32442067736185376,
+                "x": 0.339572192513369,
+                "y": 0.051355206847360946
+              },
+              "confidence": 0.5,
+              "text": "Tummy Time: Baby Activities"
+            }
+          ],
+          "textCount": 5,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 5,
+        "path": "public/publish/tt/tt_ig_2026w25_car01-stop-test/tt_ig_2026w25_car01-stop-test-05.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car01-stop-test/tt_ig_2026w25_car01-stop-test-05.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            232.31,
+            209.76,
+            179.38
+          ],
+          "brightness": 213.07,
+          "contrast": 29.0,
+          "saturation": 58.63,
+          "edge_density": 38.16,
+          "dark_ratio": 0.0049
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 2,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car01-stop-test/tt_ig_2026w25_car01-stop-test-05.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.01711840228245365,
+                "width": 0.23351158645276288,
+                "x": 0.3859180035650624,
+                "y": 0.8516405135520685
+              },
+              "confidence": 0.5,
+              "text": "WATCH FOR THIS"
+            },
+            {
+              "box": {
+                "height": 0.05848787446504988,
+                "width": 0.47771836007130125,
+                "x": 0.27629233511586454,
+                "y": 0.761055634807418
+              },
+              "confidence": 0.5,
+              "text": "Pause when"
+            },
+            {
+              "box": {
+                "height": 0.07417974322396581,
+                "width": 0.6417112299465241,
+                "x": 0.19607843137254902,
+                "y": 0.6711840228245364
+              },
+              "confidence": 0.5,
+              "text": "baby turns away."
+            },
+            {
+              "box": {
+                "height": 0.024251069900142697,
+                "width": 0.47950089126559714,
+                "x": 0.27540106951871657,
+                "y": 0.6291012838801712
+              },
+              "confidence": 0.5,
+              "text": "Follow your baby's cues, not a timer."
+            },
+            {
+              "box": {
+                "height": 0.0199714693295292,
+                "width": 0.3119429590017826,
+                "x": 0.34670231729055256,
+                "y": 0.05563480741797433
+              },
+              "confidence": 0.5,
+              "text": "Tummy Time: Baby Activities"
+            }
+          ],
+          "textCount": 5,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 6,
+        "path": "public/publish/tt/tt_ig_2026w25_car01-stop-test/tt_ig_2026w25_car01-stop-test-06.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car01-stop-test/tt_ig_2026w25_car01-stop-test-06.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            228.84,
+            207.02,
+            177.53
+          ],
+          "brightness": 210.16,
+          "contrast": 30.44,
+          "saturation": 57.43,
+          "edge_density": 41.94,
+          "dark_ratio": 0.0078
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car01-stop-test/tt_ig_2026w25_car01-stop-test-06.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.015691868758915817,
+                "width": 0.20053475935828874,
+                "x": 0.4037433155080214,
+                "y": 0.855206847360913
+              },
+              "confidence": 0.5,
+              "text": "OPEN THE APP"
+            },
+            {
+              "box": {
+                "height": 0.05706134094151216,
+                "width": 0.5882352941176471,
+                "x": 0.2281639928698752,
+                "y": 0.7624821683309557
+              },
+              "confidence": 0.5,
+              "text": "Save this for the"
+            },
+            {
+              "box": {
+                "height": 0.05278174037089878,
+                "width": 0.7023172905525846,
+                "x": 0.16755793226381463,
+                "y": 0.6925820256776034
+              },
+              "confidence": 0.5,
+              "text": "next awake window."
+            },
+            {
+              "box": {
+                "height": 0.01854493580599137,
+                "width": 0.47326203208556156,
+                "x": 0.26827094474153296,
+                "y": 0.6447931526390871
+              },
+              "confidence": 0.5,
+              "text": "Save this for the next awake window."
+            },
+            {
+              "box": {
+                "height": 0.02708376565737336,
+                "width": 0.1400851623623901,
+                "x": 0.4714445426443097,
+                "y": 0.4807485878621879
+              },
+              "confidence": 0.5,
+              "text": "ONE CLOTH"
+            },
+            {
+              "box": {
+                "height": 0.017817544949930042,
+                "width": 0.1090697305024621,
+                "x": 0.47924498332186155,
+                "y": 0.4607844521970029
+              },
+              "confidence": 0.5,
+              "text": "Smallsiep& Bigcalm."
+            },
+            {
+              "box": {
+                "height": 0.014968396434666409,
+                "width": 0.07619778878395356,
+                "x": 0.491705580631035,
+                "y": 0.41727126119728797
+              },
+              "confidence": 0.5,
+              "text": "ShortroLrtines"
+            },
+            {
+              "box": {
+                "height": 0.011412268188302432,
+                "width": 0.056184248476337684,
+                "x": 0.48928755490621617,
+                "y": 0.4079885877318117
+              },
+              "confidence": 0.5,
+              "text": "7-3mihutes"
+            },
+            {
+              "box": {
+                "height": 0.017811257919261414,
+                "width": 0.07693870352417825,
+                "x": 0.4503898282735615,
+                "y": 0.3701956549205405
+              },
+              "confidence": 0.5,
+              "text": "O Closeby"
+            },
+            {
+              "box": {
+                "height": 0.014970577902797655,
+                "width": 0.06919489059945877,
+                "x": 0.4666924536797253,
+                "y": 0.320978066890355
+              },
+              "confidence": 0.5,
+              "text": "Cginforrfjrst"
+            },
+            {
+              "box": {
+                "height": 0.01211274322191902,
+                "width": 0.03569729704846597,
+                "x": 0.4620387348887644,
+                "y": 0.31171036662116225
+              },
+              "confidence": 0.5,
+              "text": "Always"
+            },
+            {
+              "box": {
+                "height": 0.01925820256776034,
+                "width": 0.357397504456328,
+                "x": 0.3172905525846702,
+                "y": 0.05777460770328102
+              },
+              "confidence": 0.5,
+              "text": "Screen-f ree, simple, no pressure."
+            }
+          ],
+          "textCount": 12,
+          "width": 1122
+        },
+        "issues": []
+      }
+    ]
+  },
+  "visual_qa_issues": [],
+  "url_issues": [],
+  "url_probes": [],
+  "cleaned_bundles": [],
+  "publish_host_sync": null
+}
