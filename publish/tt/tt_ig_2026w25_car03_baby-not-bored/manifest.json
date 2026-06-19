@@ -1,6 +1,6 @@
 {
   "manifest_version": 1,
-  "generated_at": "2026-06-19T17:08:49.744289+00:00",
+  "generated_at": "2026-06-19T17:16:16.878607+00:00",
   "account_id": "tt",
   "content_id": "tt_ig_2026w25_car03_baby-not-bored",
   "channel": "carousel",
@@ -591,7 +591,7 @@
     "repo": "marccc127/tummy-time-publish-assets",
     "branch": "gh-pages",
     "changed": true,
-    "commit": "edc09e8df89d278e4543cababcc953908948cd1f",
+    "commit": "396b541ec27892a5025d98568f755d8fa57a12b3",
     "push_stdout": ""
   }
 }
