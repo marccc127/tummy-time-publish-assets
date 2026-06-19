@@ -1,6 +1,6 @@
 {
   "manifest_version": 1,
-  "generated_at": "2026-06-19T11:40:55.169849+00:00",
+  "generated_at": "2026-06-19T13:00:55.086124+00:00",
   "account_id": "tt",
   "content_id": "tt_ig_2026w25_car02_one-object-is-enough",
   "channel": "carousel",
@@ -37,61 +37,677 @@
     "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car02_one-object-is-enough/tt_ig_2026w25_car02_one-object-is-enough-05.jpg",
     "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car02_one-object-is-enough/tt_ig_2026w25_car02_one-object-is-enough-06.jpg"
   ],
-  "caption": "Before you buy another baby toy, try one simple object you already have at home. Keep it short, supervised, and baby-led.\n\nSave this before the next toy scroll.",
+  "caption": "Test caption",
   "caption_issues": [],
-  "url_issues": [],
-  "url_probes": [
-    {
-      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car02_one-object-is-enough/tt_ig_2026w25_car02_one-object-is-enough-01.jpg",
-      "ok": true,
-      "status": 206,
-      "content_type": "image/jpeg",
-      "content_length": "1"
+  "visual_qa": {
+    "status": "failed",
+    "reference": {
+      "dir": "review/tt/tt_ig_2026w25_car01_stop-forcing-10-min",
+      "status": "ready",
+      "median": {
+        "aspect_ratio": 0.8002853067047075,
+        "brightness": 212.52,
+        "contrast": 29.715,
+        "saturation": 58.945,
+        "edge_density": 39.815,
+        "dark_ratio": 0.00635
+      }
     },
-    {
-      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car02_one-object-is-enough/tt_ig_2026w25_car02_one-object-is-enough-02.jpg",
-      "ok": true,
-      "status": 206,
-      "content_type": "image/jpeg",
-      "content_length": "1"
-    },
-    {
-      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car02_one-object-is-enough/tt_ig_2026w25_car02_one-object-is-enough-03.jpg",
-      "ok": true,
-      "status": 206,
-      "content_type": "image/jpeg",
-      "content_length": "1"
-    },
-    {
-      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car02_one-object-is-enough/tt_ig_2026w25_car02_one-object-is-enough-04.jpg",
-      "ok": true,
-      "status": 206,
-      "content_type": "image/jpeg",
-      "content_length": "1"
-    },
-    {
-      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car02_one-object-is-enough/tt_ig_2026w25_car02_one-object-is-enough-05.jpg",
-      "ok": true,
-      "status": 206,
-      "content_type": "image/jpeg",
-      "content_length": "1"
-    },
-    {
-      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car02_one-object-is-enough/tt_ig_2026w25_car02_one-object-is-enough-06.jpg",
-      "ok": true,
-      "status": 206,
-      "content_type": "image/jpeg",
-      "content_length": "1"
-    }
+    "issues": [
+      "slide_1_not_4_5:0.562",
+      "slide_1_saturation_far_from_reference",
+      "slide_1_text_too_close_to_edge:1",
+      "slide_1_too_many_text_blocks:6",
+      "slide_2_not_4_5:0.562",
+      "slide_2_saturation_far_from_reference",
+      "slide_3_not_4_5:0.562",
+      "slide_3_saturation_far_from_reference",
+      "slide_4_not_4_5:0.562",
+      "slide_4_saturation_far_from_reference",
+      "slide_5_not_4_5:0.562",
+      "slide_5_saturation_far_from_reference",
+      "slide_6_not_4_5:0.562",
+      "slide_6_saturation_far_from_reference"
+    ],
+    "slides": [
+      {
+        "index": 1,
+        "path": "public/publish/tt/tt_ig_2026w25_car02_one-object-is-enough/tt_ig_2026w25_car02_one-object-is-enough-01.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car02_one-object-is-enough/tt_ig_2026w25_car02_one-object-is-enough-01.jpg",
+          "width": 720,
+          "height": 1280,
+          "aspect_ratio": 0.5625,
+          "mean_rgb": [
+            239.25,
+            235.64,
+            228.31
+          ],
+          "brightness": 235.88,
+          "contrast": 30.45,
+          "saturation": 12.16,
+          "edge_density": 44.03,
+          "dark_ratio": 0.0103
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1280,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car02_one-object-is-enough/tt_ig_2026w25_car02_one-object-is-enough-01.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.015625,
+                "width": 0.05972222222222223,
+                "x": 0.14444444444444443,
+                "y": 0.90390625
+              },
+              "confidence": 0.5,
+              "text": "116"
+            },
+            {
+              "box": {
+                "height": 0.035937499999999956,
+                "width": 0.7805555555555556,
+                "x": 0.08333333333333333,
+                "y": 0.775
+              },
+              "confidence": 0.5,
+              "text": "You do not need p"
+            },
+            {
+              "box": {
+                "height": 0.04140624999999998,
+                "width": 0.7902777777777777,
+                "x": 0.0875,
+                "y": 0.721875
+              },
+              "confidence": 0.5,
+              "text": "more baby toys for"
+            },
+            {
+              "box": {
+                "height": 0.05234375000000002,
+                "width": 0.8944444444444444,
+                "x": 0.08472222222222223,
+                "y": 0.6734375
+              },
+              "confidence": 0.5,
+              "text": "tummy time.- away"
+            },
+            {
+              "box": {
+                "height": 0.022656250000000044,
+                "width": 0.7041666666666666,
+                "x": 0.08333333333333333,
+                "y": 0.6234375
+              },
+              "confidence": 0.5,
+              "text": "A calmer setup usually beats"
+            },
+            {
+              "box": {
+                "height": 0.01796875000000009,
+                "width": 0.3583333333333333,
+                "x": 0.08611111111111111,
+                "y": 0.590625
+              },
+              "confidence": 0.5,
+              "text": "more pressure."
+            }
+          ],
+          "textCount": 6,
+          "width": 720
+        },
+        "issues": [
+          "slide_1_not_4_5:0.562",
+          "slide_1_saturation_far_from_reference",
+          "slide_1_text_too_close_to_edge:1",
+          "slide_1_too_many_text_blocks:6"
+        ]
+      },
+      {
+        "index": 2,
+        "path": "public/publish/tt/tt_ig_2026w25_car02_one-object-is-enough/tt_ig_2026w25_car02_one-object-is-enough-02.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car02_one-object-is-enough/tt_ig_2026w25_car02_one-object-is-enough-02.jpg",
+          "width": 720,
+          "height": 1280,
+          "aspect_ratio": 0.5625,
+          "mean_rgb": [
+            241.24,
+            237.46,
+            230.2
+          ],
+          "brightness": 237.75,
+          "contrast": 26.53,
+          "saturation": 11.99,
+          "edge_density": 39.26,
+          "dark_ratio": 0.0071
+        },
+        "vision": {
+          "edgeTextCount": 0,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1280,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car02_one-object-is-enough/tt_ig_2026w25_car02_one-object-is-enough-02.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.015625,
+                "width": 0.061111111111111116,
+                "x": 0.14305555555555555,
+                "y": 0.90390625
+              },
+              "confidence": 0.5,
+              "text": "216"
+            },
+            {
+              "box": {
+                "height": 0.050000000000000044,
+                "width": 0.7777777777777778,
+                "x": 0.08611111111111111,
+                "y": 0.76171875
+              },
+              "confidence": 0.5,
+              "text": "One safe objectne"
+            },
+            {
+              "box": {
+                "height": 0.04062499999999991,
+                "width": 0.6375,
+                "x": 0.08611111111111111,
+                "y": 0.721875
+              },
+              "confidence": 0.5,
+              "text": "can be enough."
+            },
+            {
+              "box": {
+                "height": 0.025000000000000022,
+                "width": 0.44166666666666665,
+                "x": 0.12916666666666668,
+                "y": 0.7
+              },
+              "confidence": 0.5,
+              "text": "Tlll e.niin"
+            },
+            {
+              "box": {
+                "height": 0.022656250000000044,
+                "width": 0.8180555555555555,
+                "x": 0.08472222222222223,
+                "y": 0.671875
+              },
+              "confidence": 0.5,
+              "text": "Smaller and calmer usually works"
+            },
+            {
+              "box": {
+                "height": 0.017968749999999978,
+                "width": 0.15555555555555556,
+                "x": 0.08611111111111111,
+                "y": 0.64375
+              },
+              "confidence": 1,
+              "text": "better."
+            },
+            {
+              "box": {
+                "height": 0.03359374999999998,
+                "width": 0.6291666666666667,
+                "x": 0.2222222222222222,
+                "y": 0.61640625
+              },
+              "confidence": 0.5,
+              "text": "-rum nume."
+            }
+          ],
+          "textCount": 7,
+          "width": 720
+        },
+        "issues": [
+          "slide_2_not_4_5:0.562",
+          "slide_2_saturation_far_from_reference"
+        ]
+      },
+      {
+        "index": 3,
+        "path": "public/publish/tt/tt_ig_2026w25_car02_one-object-is-enough/tt_ig_2026w25_car02_one-object-is-enough-03.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car02_one-object-is-enough/tt_ig_2026w25_car02_one-object-is-enough-03.jpg",
+          "width": 720,
+          "height": 1280,
+          "aspect_ratio": 0.5625,
+          "mean_rgb": [
+            241.59,
+            237.79,
+            230.54
+          ],
+          "brightness": 238.08,
+          "contrast": 25.86,
+          "saturation": 11.97,
+          "edge_density": 38.6,
+          "dark_ratio": 0.0066
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1280,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car02_one-object-is-enough/tt_ig_2026w25_car02_one-object-is-enough-03.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.015625,
+                "width": 0.061111111111111116,
+                "x": 0.14305555555555555,
+                "y": 0.90390625
+              },
+              "confidence": 0.5,
+              "text": "316"
+            },
+            {
+              "box": {
+                "height": 0.035937499999999956,
+                "width": 0.7805555555555556,
+                "x": 0.08333333333333333,
+                "y": 0.775
+              },
+              "confidence": 0.5,
+              "text": "A cloth can, timp"
+            },
+            {
+              "box": {
+                "height": 0.04140624999999998,
+                "width": 0.7888888888888889,
+                "x": 0.0875,
+                "y": 0.72109375
+              },
+              "confidence": 0.5,
+              "text": "become .peekaboo."
+            },
+            {
+              "box": {
+                "height": 0.05234375000000002,
+                "width": 0.85,
+                "x": 0.12916666666666668,
+                "y": 0.6734375
+              },
+              "confidence": 0.5,
+              "text": "Tlll en InTq Away"
+            },
+            {
+              "box": {
+                "height": 0.022656250000000044,
+                "width": 0.6986111111111111,
+                "x": 0.08472222222222223,
+                "y": 0.671875
+              },
+              "confidence": 0.5,
+              "text": "One tiny action is enough for"
+            },
+            {
+              "box": {
+                "height": 0.022656250000000044,
+                "width": 0.14583333333333334,
+                "x": 0.08472222222222223,
+                "y": 0.6390625
+              },
+              "confidence": 0.5,
+              "text": "today."
+            },
+            {
+              "box": {
+                "height": 0.03671874999999991,
+                "width": 0.6291666666666667,
+                "x": 0.2222222222222222,
+                "y": 0.61640625
+              },
+              "confidence": 0.5,
+              "text": "-rum nume."
+            }
+          ],
+          "textCount": 7,
+          "width": 720
+        },
+        "issues": [
+          "slide_3_not_4_5:0.562",
+          "slide_3_saturation_far_from_reference"
+        ]
+      },
+      {
+        "index": 4,
+        "path": "public/publish/tt/tt_ig_2026w25_car02_one-object-is-enough/tt_ig_2026w25_car02_one-object-is-enough-04.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car02_one-object-is-enough/tt_ig_2026w25_car02_one-object-is-enough-04.jpg",
+          "width": 720,
+          "height": 1280,
+          "aspect_ratio": 0.5625,
+          "mean_rgb": [
+            241.53,
+            237.74,
+            230.49
+          ],
+          "brightness": 238.03,
+          "contrast": 26.07,
+          "saturation": 11.96,
+          "edge_density": 38.87,
+          "dark_ratio": 0.0068
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1280,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car02_one-object-is-enough/tt_ig_2026w25_car02_one-object-is-enough-04.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.015625,
+                "width": 0.0625,
+                "x": 0.14166666666666666,
+                "y": 0.90390625
+              },
+              "confidence": 0.5,
+              "text": "416"
+            },
+            {
+              "box": {
+                "height": 0.039843749999999956,
+                "width": 0.7819444444444444,
+                "x": 0.08333333333333333,
+                "y": 0.77109375
+              },
+              "confidence": 0.5,
+              "text": "A cup can become"
+            },
+            {
+              "box": {
+                "height": 0.032031249999999956,
+                "width": 0.6027777777777777,
+                "x": 0.0875,
+                "y": 0.73046875
+              },
+              "confidence": 0.5,
+              "text": "reach and roll."
+            },
+            {
+              "box": {
+                "height": 0.05234375000000002,
+                "width": 0.85,
+                "x": 0.12916666666666668,
+                "y": 0.6734375
+              },
+              "confidence": 0.5,
+              "text": "Tlll eniinTq Away"
+            },
+            {
+              "box": {
+                "height": 0.022656250000000044,
+                "width": 0.6986111111111111,
+                "x": 0.08472222222222223,
+                "y": 0.671875
+              },
+              "confidence": 0.5,
+              "text": "One tiny action is enough for"
+            },
+            {
+              "box": {
+                "height": 0.022656250000000044,
+                "width": 0.14583333333333334,
+                "x": 0.08472222222222223,
+                "y": 0.6390625
+              },
+              "confidence": 0.5,
+              "text": "today."
+            },
+            {
+              "box": {
+                "height": 0.03671874999999991,
+                "width": 0.6291666666666667,
+                "x": 0.2222222222222222,
+                "y": 0.61640625
+              },
+              "confidence": 0.5,
+              "text": "-rum nume."
+            }
+          ],
+          "textCount": 7,
+          "width": 720
+        },
+        "issues": [
+          "slide_4_not_4_5:0.562",
+          "slide_4_saturation_far_from_reference"
+        ]
+      },
+      {
+        "index": 5,
+        "path": "public/publish/tt/tt_ig_2026w25_car02_one-object-is-enough/tt_ig_2026w25_car02_one-object-is-enough-05.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car02_one-object-is-enough/tt_ig_2026w25_car02_one-object-is-enough-05.jpg",
+          "width": 720,
+          "height": 1280,
+          "aspect_ratio": 0.5625,
+          "mean_rgb": [
+            241.85,
+            238.03,
+            230.78
+          ],
+          "brightness": 238.33,
+          "contrast": 25.66,
+          "saturation": 11.97,
+          "edge_density": 38.16,
+          "dark_ratio": 0.0056
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1280,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car02_one-object-is-enough/tt_ig_2026w25_car02_one-object-is-enough-05.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.015625,
+                "width": 0.061111111111111116,
+                "x": 0.14305555555555555,
+                "y": 0.90390625
+              },
+              "confidence": 0.5,
+              "text": "516"
+            },
+            {
+              "box": {
+                "height": 0.039843749999999956,
+                "width": 0.775,
+                "x": 0.08888888888888889,
+                "y": 0.77109375
+              },
+              "confidence": 0.5,
+              "text": "Keep it short and k"
+            },
+            {
+              "box": {
+                "height": 0.039843749999999956,
+                "width": 0.47916666666666663,
+                "x": 0.08472222222222223,
+                "y": 0.72265625
+              },
+              "confidence": 0.5,
+              "text": "supervised."
+            },
+            {
+              "box": {
+                "height": 0.0625,
+                "width": 0.85,
+                "x": 0.12916666666666668,
+                "y": 0.6734375
+              },
+              "confidence": 0.5,
+              "text": "T 11 eniinto Away"
+            },
+            {
+              "box": {
+                "height": 0.022656250000000044,
+                "width": 0.7305555555555555,
+                "x": 0.08611111111111111,
+                "y": 0.671875
+              },
+              "confidence": 0.5,
+              "text": "Follow your baby's cues, not a"
+            },
+            {
+              "box": {
+                "height": 0.017968749999999978,
+                "width": 0.1388888888888889,
+                "x": 0.08472222222222223,
+                "y": 0.64375
+              },
+              "confidence": 0.5,
+              "text": "timer."
+            },
+            {
+              "box": {
+                "height": 0.03359374999999998,
+                "width": 0.6291666666666667,
+                "x": 0.2222222222222222,
+                "y": 0.61640625
+              },
+              "confidence": 0.5,
+              "text": "-rum nume."
+            }
+          ],
+          "textCount": 7,
+          "width": 720
+        },
+        "issues": [
+          "slide_5_not_4_5:0.562",
+          "slide_5_saturation_far_from_reference"
+        ]
+      },
+      {
+        "index": 6,
+        "path": "public/publish/tt/tt_ig_2026w25_car02_one-object-is-enough/tt_ig_2026w25_car02_one-object-is-enough-06.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car02_one-object-is-enough/tt_ig_2026w25_car02_one-object-is-enough-06.jpg",
+          "width": 720,
+          "height": 1280,
+          "aspect_ratio": 0.5625,
+          "mean_rgb": [
+            241.21,
+            237.44,
+            230.18
+          ],
+          "brightness": 237.73,
+          "contrast": 26.69,
+          "saturation": 12.0,
+          "edge_density": 39.45,
+          "dark_ratio": 0.0078
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1280,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car02_one-object-is-enough/tt_ig_2026w25_car02_one-object-is-enough-06.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.015625,
+                "width": 0.061111111111111116,
+                "x": 0.14305555555555555,
+                "y": 0.90390625
+              },
+              "confidence": 0.5,
+              "text": "616"
+            },
+            {
+              "box": {
+                "height": 0.03671875000000002,
+                "width": 0.7777777777777778,
+                "x": 0.08611111111111111,
+                "y": 0.775
+              },
+              "confidence": 0.5,
+              "text": "Save this before p"
+            },
+            {
+              "box": {
+                "height": 0.04062499999999991,
+                "width": 0.7958333333333333,
+                "x": 0.08472222222222223,
+                "y": 0.721875
+              },
+              "confidence": 0.5,
+              "text": "the next toy scroll."
+            },
+            {
+              "box": {
+                "height": 0.05234375000000002,
+                "width": 0.85,
+                "x": 0.12916666666666668,
+                "y": 0.6734375
+              },
+              "confidence": 0.5,
+              "text": "Tlll eniii q Aw4y"
+            },
+            {
+              "box": {
+                "height": 0.022656250000000044,
+                "width": 0.7819444444444444,
+                "x": 0.08472222222222223,
+                "y": 0.671875
+              },
+              "confidence": 0.5,
+              "text": "Screen-free, simple, no pressure"
+            },
+            {
+              "box": {
+                "height": 0.03359374999999998,
+                "width": 0.6305555555555555,
+                "x": 0.22083333333333333,
+                "y": 0.61640625
+              },
+              "confidence": 0.5,
+              "text": "Irum nume."
+            }
+          ],
+          "textCount": 6,
+          "width": 720
+        },
+        "issues": [
+          "slide_6_not_4_5:0.562",
+          "slide_6_saturation_far_from_reference"
+        ]
+      }
+    ]
+  },
+  "visual_qa_issues": [
+    "slide_1_not_4_5:0.562",
+    "slide_1_saturation_far_from_reference",
+    "slide_1_text_too_close_to_edge:1",
+    "slide_1_too_many_text_blocks:6",
+    "slide_2_not_4_5:0.562",
+    "slide_2_saturation_far_from_reference",
+    "slide_3_not_4_5:0.562",
+    "slide_3_saturation_far_from_reference",
+    "slide_4_not_4_5:0.562",
+    "slide_4_saturation_far_from_reference",
+    "slide_5_not_4_5:0.562",
+    "slide_5_saturation_far_from_reference",
+    "slide_6_not_4_5:0.562",
+    "slide_6_saturation_far_from_reference"
   ],
+  "url_issues": [],
+  "url_probes": [],
   "cleaned_bundles": [],
-  "publish_host_sync": {
-    "attempted": true,
-    "provider": "github_pages",
-    "repo": "marccc127/tummy-time-publish-assets",
-    "branch": "gh-pages",
-    "changed": true,
-    "commit": "dab6332cae45cb25999ed591cfb2ba4f5a9e7c25",
-    "push_stdout": ""
-  }
+  "publish_host_sync": null
 }

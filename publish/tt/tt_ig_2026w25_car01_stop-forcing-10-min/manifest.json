@@ -1,6 +1,6 @@
 {
   "manifest_version": 1,
-  "generated_at": "2026-06-19T11:42:37.654010+00:00",
+  "generated_at": "2026-06-19T12:22:37.459128+00:00",
   "account_id": "tt",
   "content_id": "tt_ig_2026w25_car01_stop-forcing-10-min",
   "channel": "carousel",
@@ -40,58 +40,7 @@
   "caption": "Tummy time does not need to become a 10-minute battle. Start tiny, stay close, and end on a calm win.\n\nSave this for the next awake window.",
   "caption_issues": [],
   "url_issues": [],
-  "url_probes": [
-    {
-      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car01_stop-forcing-10-min/tt_ig_2026w25_car01_stop-forcing-10-min-01.jpg",
-      "ok": true,
-      "status": 206,
-      "content_type": "image/jpeg",
-      "content_length": "1"
-    },
-    {
-      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car01_stop-forcing-10-min/tt_ig_2026w25_car01_stop-forcing-10-min-02.jpg",
-      "ok": true,
-      "status": 206,
-      "content_type": "image/jpeg",
-      "content_length": "1"
-    },
-    {
-      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car01_stop-forcing-10-min/tt_ig_2026w25_car01_stop-forcing-10-min-03.jpg",
-      "ok": true,
-      "status": 206,
-      "content_type": "image/jpeg",
-      "content_length": "1"
-    },
-    {
-      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car01_stop-forcing-10-min/tt_ig_2026w25_car01_stop-forcing-10-min-04.jpg",
-      "ok": true,
-      "status": 206,
-      "content_type": "image/jpeg",
-      "content_length": "1"
-    },
-    {
-      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car01_stop-forcing-10-min/tt_ig_2026w25_car01_stop-forcing-10-min-05.jpg",
-      "ok": true,
-      "status": 206,
-      "content_type": "image/jpeg",
-      "content_length": "1"
-    },
-    {
-      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car01_stop-forcing-10-min/tt_ig_2026w25_car01_stop-forcing-10-min-06.jpg",
-      "ok": true,
-      "status": 206,
-      "content_type": "image/jpeg",
-      "content_length": "1"
-    }
-  ],
+  "url_probes": [],
   "cleaned_bundles": [],
-  "publish_host_sync": {
-    "attempted": true,
-    "provider": "github_pages",
-    "repo": "marccc127/tummy-time-publish-assets",
-    "branch": "gh-pages",
-    "changed": true,
-    "commit": "52cdcc9e2383791aafd1baf578c8f3efe98188bf",
-    "push_stdout": ""
-  }
+  "publish_host_sync": null
 }
