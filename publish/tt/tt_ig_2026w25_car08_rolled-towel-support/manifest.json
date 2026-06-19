@@ -1,0 +1,97 @@
+{
+  "manifest_version": 1,
+  "generated_at": "2026-06-19T10:43:03.759490+00:00",
+  "account_id": "tt",
+  "content_id": "tt_ig_2026w25_car08_rolled-towel-support",
+  "channel": "carousel",
+  "source_dir": "review/tt/tt_ig_2026w25_car08_rolled-towel-support",
+  "normalized_files": [
+    "public/publish/tt/tt_ig_2026w25_car08_rolled-towel-support/tt_ig_2026w25_car08_rolled-towel-support-01.jpg",
+    "public/publish/tt/tt_ig_2026w25_car08_rolled-towel-support/tt_ig_2026w25_car08_rolled-towel-support-02.jpg",
+    "public/publish/tt/tt_ig_2026w25_car08_rolled-towel-support/tt_ig_2026w25_car08_rolled-towel-support-03.jpg",
+    "public/publish/tt/tt_ig_2026w25_car08_rolled-towel-support/tt_ig_2026w25_car08_rolled-towel-support-04.jpg",
+    "public/publish/tt/tt_ig_2026w25_car08_rolled-towel-support/tt_ig_2026w25_car08_rolled-towel-support-05.jpg",
+    "public/publish/tt/tt_ig_2026w25_car08_rolled-towel-support/tt_ig_2026w25_car08_rolled-towel-support-06.jpg"
+  ],
+  "relative_urls": [
+    "/publish/tt/tt_ig_2026w25_car08_rolled-towel-support/tt_ig_2026w25_car08_rolled-towel-support-01.jpg",
+    "/publish/tt/tt_ig_2026w25_car08_rolled-towel-support/tt_ig_2026w25_car08_rolled-towel-support-02.jpg",
+    "/publish/tt/tt_ig_2026w25_car08_rolled-towel-support/tt_ig_2026w25_car08_rolled-towel-support-03.jpg",
+    "/publish/tt/tt_ig_2026w25_car08_rolled-towel-support/tt_ig_2026w25_car08_rolled-towel-support-04.jpg",
+    "/publish/tt/tt_ig_2026w25_car08_rolled-towel-support/tt_ig_2026w25_car08_rolled-towel-support-05.jpg",
+    "/publish/tt/tt_ig_2026w25_car08_rolled-towel-support/tt_ig_2026w25_car08_rolled-towel-support-06.jpg"
+  ],
+  "local_preview_urls": [
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car08_rolled-towel-support/tt_ig_2026w25_car08_rolled-towel-support-01.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car08_rolled-towel-support/tt_ig_2026w25_car08_rolled-towel-support-02.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car08_rolled-towel-support/tt_ig_2026w25_car08_rolled-towel-support-03.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car08_rolled-towel-support/tt_ig_2026w25_car08_rolled-towel-support-04.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car08_rolled-towel-support/tt_ig_2026w25_car08_rolled-towel-support-05.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car08_rolled-towel-support/tt_ig_2026w25_car08_rolled-towel-support-06.jpg"
+  ],
+  "public_asset_urls": [
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car08_rolled-towel-support/tt_ig_2026w25_car08_rolled-towel-support-01.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car08_rolled-towel-support/tt_ig_2026w25_car08_rolled-towel-support-02.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car08_rolled-towel-support/tt_ig_2026w25_car08_rolled-towel-support-03.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car08_rolled-towel-support/tt_ig_2026w25_car08_rolled-towel-support-04.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car08_rolled-towel-support/tt_ig_2026w25_car08_rolled-towel-support-05.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car08_rolled-towel-support/tt_ig_2026w25_car08_rolled-towel-support-06.jpg"
+  ],
+  "caption": "Sometimes the smallest setup change makes tummy time feel more manageable. Keep it gentle, supervised, and short.\n\nSave this gentle support idea.",
+  "caption_issues": [],
+  "url_issues": [],
+  "url_probes": [
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car08_rolled-towel-support/tt_ig_2026w25_car08_rolled-towel-support-01.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car08_rolled-towel-support/tt_ig_2026w25_car08_rolled-towel-support-02.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car08_rolled-towel-support/tt_ig_2026w25_car08_rolled-towel-support-03.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car08_rolled-towel-support/tt_ig_2026w25_car08_rolled-towel-support-04.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car08_rolled-towel-support/tt_ig_2026w25_car08_rolled-towel-support-05.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car08_rolled-towel-support/tt_ig_2026w25_car08_rolled-towel-support-06.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    }
+  ],
+  "cleaned_bundles": [],
+  "publish_host_sync": {
+    "attempted": true,
+    "provider": "github_pages",
+    "repo": "marccc127/tummy-time-publish-assets",
+    "branch": "gh-pages",
+    "changed": true,
+    "commit": "14fa4573e66eced0d17c39496ae24c3804ef0364",
+    "push_stdout": ""
+  }
+}
