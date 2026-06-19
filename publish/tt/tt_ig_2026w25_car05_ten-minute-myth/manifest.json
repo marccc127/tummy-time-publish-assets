@@ -1,0 +1,591 @@
+{
+  "manifest_version": 1,
+  "generated_at": "2026-06-19T17:03:03.288954+00:00",
+  "account_id": "tt",
+  "content_id": "tt_ig_2026w25_car05_ten-minute-myth",
+  "channel": "carousel",
+  "source_dir": "review/tt/tt_ig_2026w25_car05_ten-minute-myth",
+  "normalized_files": [
+    "public/publish/tt/tt_ig_2026w25_car05_ten-minute-myth/tt_ig_2026w25_car05_ten-minute-myth-01.jpg",
+    "public/publish/tt/tt_ig_2026w25_car05_ten-minute-myth/tt_ig_2026w25_car05_ten-minute-myth-02.jpg",
+    "public/publish/tt/tt_ig_2026w25_car05_ten-minute-myth/tt_ig_2026w25_car05_ten-minute-myth-03.jpg",
+    "public/publish/tt/tt_ig_2026w25_car05_ten-minute-myth/tt_ig_2026w25_car05_ten-minute-myth-04.jpg",
+    "public/publish/tt/tt_ig_2026w25_car05_ten-minute-myth/tt_ig_2026w25_car05_ten-minute-myth-05.jpg",
+    "public/publish/tt/tt_ig_2026w25_car05_ten-minute-myth/tt_ig_2026w25_car05_ten-minute-myth-06.jpg"
+  ],
+  "relative_urls": [
+    "/publish/tt/tt_ig_2026w25_car05_ten-minute-myth/tt_ig_2026w25_car05_ten-minute-myth-01.jpg",
+    "/publish/tt/tt_ig_2026w25_car05_ten-minute-myth/tt_ig_2026w25_car05_ten-minute-myth-02.jpg",
+    "/publish/tt/tt_ig_2026w25_car05_ten-minute-myth/tt_ig_2026w25_car05_ten-minute-myth-03.jpg",
+    "/publish/tt/tt_ig_2026w25_car05_ten-minute-myth/tt_ig_2026w25_car05_ten-minute-myth-04.jpg",
+    "/publish/tt/tt_ig_2026w25_car05_ten-minute-myth/tt_ig_2026w25_car05_ten-minute-myth-05.jpg",
+    "/publish/tt/tt_ig_2026w25_car05_ten-minute-myth/tt_ig_2026w25_car05_ten-minute-myth-06.jpg"
+  ],
+  "local_preview_urls": [
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car05_ten-minute-myth/tt_ig_2026w25_car05_ten-minute-myth-01.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car05_ten-minute-myth/tt_ig_2026w25_car05_ten-minute-myth-02.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car05_ten-minute-myth/tt_ig_2026w25_car05_ten-minute-myth-03.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car05_ten-minute-myth/tt_ig_2026w25_car05_ten-minute-myth-04.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car05_ten-minute-myth/tt_ig_2026w25_car05_ten-minute-myth-05.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car05_ten-minute-myth/tt_ig_2026w25_car05_ten-minute-myth-06.jpg"
+  ],
+  "public_asset_urls": [
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car05_ten-minute-myth/tt_ig_2026w25_car05_ten-minute-myth-01.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car05_ten-minute-myth/tt_ig_2026w25_car05_ten-minute-myth-02.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car05_ten-minute-myth/tt_ig_2026w25_car05_ten-minute-myth-03.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car05_ten-minute-myth/tt_ig_2026w25_car05_ten-minute-myth-04.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car05_ten-minute-myth/tt_ig_2026w25_car05_ten-minute-myth-05.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car05_ten-minute-myth/tt_ig_2026w25_car05_ten-minute-myth-06.jpg"
+  ],
+  "caption": "Tummy time does not have to be one long session. A few calm, supervised moments can be easier to repeat than one stressful push.\n\nSave this for tomorrow.",
+  "caption_issues": [],
+  "visual_qa": {
+    "status": "passed",
+    "reference": {
+      "dir": "assets/reference/tummy-time",
+      "status": "ready",
+      "median": {
+        "aspect_ratio": 0.8002853067047075,
+        "brightness": 213.79500000000002,
+        "contrast": 29.270000000000003,
+        "saturation": 55.43,
+        "edge_density": 39.09,
+        "dark_ratio": 0.0038
+      }
+    },
+    "issues": [],
+    "slides": [
+      {
+        "index": 1,
+        "path": "public/publish/tt/tt_ig_2026w25_car05_ten-minute-myth/tt_ig_2026w25_car05_ten-minute-myth-01.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car05_ten-minute-myth/tt_ig_2026w25_car05_ten-minute-myth-01.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            231.09,
+            210.45,
+            182.86
+          ],
+          "brightness": 213.48,
+          "contrast": 32.69,
+          "saturation": 52.79,
+          "edge_density": 49.68,
+          "dark_ratio": 0.0088
+        },
+        "vision": {
+          "edgeTextCount": 0,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car05_ten-minute-myth/tt_ig_2026w25_car05_ten-minute-myth-01.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.0641940085592011,
+                "width": 0.6114081996434937,
+                "x": 0.20320855614973263,
+                "y": 0.7553495007132668
+              },
+              "confidence": 0.5,
+              "text": "The 10-minute"
+            },
+            {
+              "box": {
+                "height": 0.07988587731811703,
+                "width": 0.7237076648841355,
+                "x": 0.14260249554367202,
+                "y": 0.6583452211126961
+              },
+              "confidence": 0.5,
+              "text": "tummy time myth"
+            },
+            {
+              "box": {
+                "height": 0.07703281027104136,
+                "width": 0.44563279857397503,
+                "x": 0.2798573975044563,
+                "y": 0.579885877318117
+              },
+              "confidence": 0.5,
+              "text": "is stressing"
+            },
+            {
+              "box": {
+                "height": 0.06990014265335243,
+                "width": 0.4741532976827094,
+                "x": 0.27450980392156865,
+                "y": 0.5014265335235377
+              },
+              "confidence": 0.5,
+              "text": "parents out."
+            }
+          ],
+          "textCount": 4,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 2,
+        "path": "public/publish/tt/tt_ig_2026w25_car05_ten-minute-myth/tt_ig_2026w25_car05_ten-minute-myth-02.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car05_ten-minute-myth/tt_ig_2026w25_car05_ten-minute-myth-02.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            229.66,
+            208.89,
+            180.92
+          ],
+          "brightness": 211.9,
+          "contrast": 29.7,
+          "saturation": 54.44,
+          "edge_density": 38.73,
+          "dark_ratio": 0.0032
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car05_ten-minute-myth/tt_ig_2026w25_car05_ten-minute-myth-02.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.016405135520684788,
+                "width": 0.25401069518716574,
+                "x": 0.37433155080213903,
+                "y": 0.8216833095577746
+              },
+              "confidence": 0.5,
+              "text": "MAKE IT GENTLER"
+            },
+            {
+              "box": {
+                "height": 0.07560627674750364,
+                "width": 0.39928698752228164,
+                "x": 0.30124777183600715,
+                "y": 0.7082738944365192
+              },
+              "confidence": 0.5,
+              "text": "Short reps"
+            },
+            {
+              "box": {
+                "height": 0.07275320970042798,
+                "width": 0.7076648841354723,
+                "x": 0.14795008912655971,
+                "y": 0.6340941512125535
+              },
+              "confidence": 0.5,
+              "text": "are easier to repeat."
+            },
+            {
+              "box": {
+                "height": 0.022824536376604865,
+                "width": 0.5106951871657754,
+                "x": 0.24420677361853832,
+                "y": 0.5927246790299572
+              },
+              "confidence": 0.5,
+              "text": "Smaller and calmer usually works better."
+            },
+            {
+              "box": {
+                "height": 0.020684736091298173,
+                "width": 0.3315508021390375,
+                "x": 0.32085561497326204,
+                "y": 0.04778887303851642
+              },
+              "confidence": 0.5,
+              "text": "Tummy Time: Baby Activities"
+            }
+          ],
+          "textCount": 5,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 3,
+        "path": "public/publish/tt/tt_ig_2026w25_car05_ten-minute-myth/tt_ig_2026w25_car05_ten-minute-myth-03.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car05_ten-minute-myth/tt_ig_2026w25_car05_ten-minute-myth-03.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            235.74,
+            213.73,
+            186.15
+          ],
+          "brightness": 217.15,
+          "contrast": 26.43,
+          "saturation": 53.57,
+          "edge_density": 36.01,
+          "dark_ratio": 0.0046
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car05_ten-minute-myth/tt_ig_2026w25_car05_ten-minute-myth-03.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.015691868758915817,
+                "width": 0.1310160427807487,
+                "x": 0.43404634581105167,
+                "y": 0.8302425106990015
+              },
+              "confidence": 0.5,
+              "text": "TRY THIS"
+            },
+            {
+              "box": {
+                "height": 0.06562054208273893,
+                "width": 0.3297682709447415,
+                "x": 0.33689839572192515,
+                "y": 0.7139800285306706
+              },
+              "confidence": 0.5,
+              "text": "Aim for"
+            },
+            {
+              "box": {
+                "height": 0.06704707560627676,
+                "width": 0.5508021390374331,
+                "x": 0.22638146167557932,
+                "y": 0.6283880171184023
+              },
+              "confidence": 0.5,
+              "text": "one calm win."
+            },
+            {
+              "box": {
+                "height": 0.023537803138373725,
+                "width": 0.464349376114082,
+                "x": 0.26916221033868093,
+                "y": 0.5691868758915835
+              },
+              "confidence": 0.5,
+              "text": "One tiny action is enough for today."
+            },
+            {
+              "box": {
+                "height": 0.0199714693295292,
+                "width": 0.32263814616755787,
+                "x": 0.33511586452762926,
+                "y": 0.05777460770328102
+              },
+              "confidence": 0.5,
+              "text": "Tummy Time: Baby Activities"
+            }
+          ],
+          "textCount": 5,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 4,
+        "path": "public/publish/tt/tt_ig_2026w25_car05_ten-minute-myth/tt_ig_2026w25_car05_ten-minute-myth-04.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car05_ten-minute-myth/tt_ig_2026w25_car05_ten-minute-myth-04.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            236.73,
+            215.86,
+            186.26
+          ],
+          "brightness": 218.75,
+          "contrast": 24.55,
+          "saturation": 54.11,
+          "edge_density": 37.35,
+          "dark_ratio": 0.002
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car05_ten-minute-myth/tt_ig_2026w25_car05_ten-minute-myth-04.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.016405135520684788,
+                "width": 0.1292335115864528,
+                "x": 0.43493761140819964,
+                "y": 0.848074179743224
+              },
+              "confidence": 0.5,
+              "text": "TRY THIS"
+            },
+            {
+              "box": {
+                "height": 0.07132667617689015,
+                "width": 0.5222816399286988,
+                "x": 0.24598930481283424,
+                "y": 0.7382310984308131
+              },
+              "confidence": 0.5,
+              "text": "Add time only"
+            },
+            {
+              "box": {
+                "height": 0.05563480741797422,
+                "width": 0.4563279857397504,
+                "x": 0.27807486631016043,
+                "y": 0.6797432239657633
+              },
+              "confidence": 0.5,
+              "text": "when it feels"
+            },
+            {
+              "box": {
+                "height": 0.0542082738944365,
+                "width": 0.1675579322638146,
+                "x": 0.42424242424242425,
+                "y": 0.5927246790299572
+              },
+              "confidence": 0.5,
+              "text": "easy."
+            },
+            {
+              "box": {
+                "height": 0.022111269614836004,
+                "width": 0.43493761140819964,
+                "x": 0.29590017825311943,
+                "y": 0.5542082738944365
+              },
+              "confidence": 0.5,
+              "text": "One tiny action is enough for today."
+            },
+            {
+              "box": {
+                "height": 0.020684736091298173,
+                "width": 0.3270944741532976,
+                "x": 0.33689839572192515,
+                "y": 0.049928673323823114
+              },
+              "confidence": 0.5,
+              "text": "Tummy Time: Baby Activities"
+            }
+          ],
+          "textCount": 6,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 5,
+        "path": "public/publish/tt/tt_ig_2026w25_car05_ten-minute-myth/tt_ig_2026w25_car05_ten-minute-myth-05.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car05_ten-minute-myth/tt_ig_2026w25_car05_ten-minute-myth-05.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            234.27,
+            210.0,
+            180.43
+          ],
+          "brightness": 213.84,
+          "contrast": 27.0,
+          "saturation": 58.85,
+          "edge_density": 38.91,
+          "dark_ratio": 0.0007
+        },
+        "vision": {
+          "edgeTextCount": 0,
+          "faceBoxes": [
+            {
+              "height": 0.11222757399082184,
+              "width": 0.14023445546627045,
+              "x": 0.49610915780067444,
+              "y": 0.310589998960495
+            }
+          ],
+          "faceCount": 1,
+          "handCount": 2,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car05_ten-minute-myth/tt_ig_2026w25_car05_ten-minute-myth-05.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.05563480741797433,
+                "width": 0.5650623885918004,
+                "x": 0.22103386809269163,
+                "y": 0.7168330955777461
+              },
+              "confidence": 0.5,
+              "text": "Comfort counts"
+            },
+            {
+              "box": {
+                "height": 0.0542082738944365,
+                "width": 0.7076648841354723,
+                "x": 0.14795008912655971,
+                "y": 0.6469329529243937
+              },
+              "confidence": 0.5,
+              "text": "more than the timer."
+            }
+          ],
+          "textCount": 2,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 6,
+        "path": "public/publish/tt/tt_ig_2026w25_car05_ten-minute-myth/tt_ig_2026w25_car05_ten-minute-myth-06.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car05_ten-minute-myth/tt_ig_2026w25_car05_ten-minute-myth-06.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            237.04,
+            215.49,
+            186.33
+          ],
+          "brightness": 218.62,
+          "contrast": 27.4,
+          "saturation": 54.78,
+          "edge_density": 37.4,
+          "dark_ratio": 0.0042
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car05_ten-minute-myth/tt_ig_2026w25_car05_ten-minute-myth-06.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.015691868758915817,
+                "width": 0.20053475935828874,
+                "x": 0.4001782531194296,
+                "y": 0.8159771754636234
+              },
+              "confidence": 0.5,
+              "text": "OPEN THE APP"
+            },
+            {
+              "box": {
+                "height": 0.061340941512125546,
+                "width": 0.5151515151515151,
+                "x": 0.24955436720142601,
+                "y": 0.7182596291012839
+              },
+              "confidence": 0.5,
+              "text": "Save this for"
+            },
+            {
+              "box": {
+                "height": 0.051355206847360946,
+                "width": 0.4331550802139037,
+                "x": 0.29233511586452765,
+                "y": 0.6440798858773181
+              },
+              "confidence": 0.5,
+              "text": "tomorrow."
+            },
+            {
+              "box": {
+                "height": 0.01925820256776034,
+                "width": 0.4839572192513369,
+                "x": 0.2647058823529412,
+                "y": 0.593437945791726
+              },
+              "confidence": 0.5,
+              "text": "Save this for the next awake window."
+            },
+            {
+              "box": {
+                "height": 0.019971469329529312,
+                "width": 0.3663101604278075,
+                "x": 0.3172905525846702,
+                "y": 0.05848787446504988
+              },
+              "confidence": 0.5,
+              "text": "Screen-free, simple, no pressure."
+            }
+          ],
+          "textCount": 5,
+          "width": 1122
+        },
+        "issues": []
+      }
+    ]
+  },
+  "visual_qa_issues": [],
+  "url_issues": [],
+  "url_probes": [
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car05_ten-minute-myth/tt_ig_2026w25_car05_ten-minute-myth-01.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car05_ten-minute-myth/tt_ig_2026w25_car05_ten-minute-myth-02.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car05_ten-minute-myth/tt_ig_2026w25_car05_ten-minute-myth-03.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car05_ten-minute-myth/tt_ig_2026w25_car05_ten-minute-myth-04.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car05_ten-minute-myth/tt_ig_2026w25_car05_ten-minute-myth-05.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car05_ten-minute-myth/tt_ig_2026w25_car05_ten-minute-myth-06.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    }
+  ],
+  "cleaned_bundles": [],
+  "publish_host_sync": {
+    "attempted": true,
+    "provider": "github_pages",
+    "repo": "marccc127/tummy-time-publish-assets",
+    "branch": "gh-pages",
+    "changed": true,
+    "commit": "cdf84b950be9c1938a07cd1a1da259da06d34162",
+    "push_stdout": ""
+  }
+}
