@@ -1,6 +1,6 @@
 {
   "manifest_version": 1,
-  "generated_at": "2026-06-19T17:00:02.952848+00:00",
+  "generated_at": "2026-06-19T17:08:30.604851+00:00",
   "account_id": "tt",
   "content_id": "tt_ig_2026w25_car01_making-it-too-hard",
   "channel": "carousel",
@@ -558,7 +558,7 @@
     "repo": "marccc127/tummy-time-publish-assets",
     "branch": "gh-pages",
     "changed": true,
-    "commit": "3f4f2ec1c61c6d8b5c6e69d7804ac7a5f7a11eb5",
+    "commit": "e665616359115e61acbe48e3de1e049fb5b6dd6a",
     "push_stdout": ""
   }
 }
