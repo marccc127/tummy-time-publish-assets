@@ -1,6 +1,6 @@
 {
   "manifest_version": 1,
-  "generated_at": "2026-06-19T13:01:01.847485+00:00",
+  "generated_at": "2026-06-19T13:06:30.545175+00:00",
   "account_id": "tt",
   "content_id": "tt_ig_2026w25_car02_one-object-is-enough",
   "channel": "carousel",
@@ -758,7 +758,7 @@
     "repo": "marccc127/tummy-time-publish-assets",
     "branch": "gh-pages",
     "changed": true,
-    "commit": "8abaf320dfe5247f5e8e37f752d1afb94d8e97e3",
+    "commit": "a97d6717e4bb9ba09885e16a9d59f74b265bf2d5",
     "push_stdout": ""
   }
 }
