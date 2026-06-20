@@ -1,0 +1,574 @@
+{
+  "manifest_version": 1,
+  "generated_at": "2026-06-20T14:58:21.616488+00:00",
+  "account_id": "tt",
+  "content_id": "tt_ig_2026w25_car19_proof-you-are-enough",
+  "channel": "carousel",
+  "source_dir": "review/tt/tt_ig_2026w25_car19_proof-you-are-enough",
+  "normalized_files": [
+    "public/publish/tt/tt_ig_2026w25_car19_proof-you-are-enough/tt_ig_2026w25_car19_proof-you-are-enough-01.jpg",
+    "public/publish/tt/tt_ig_2026w25_car19_proof-you-are-enough/tt_ig_2026w25_car19_proof-you-are-enough-02.jpg",
+    "public/publish/tt/tt_ig_2026w25_car19_proof-you-are-enough/tt_ig_2026w25_car19_proof-you-are-enough-03.jpg",
+    "public/publish/tt/tt_ig_2026w25_car19_proof-you-are-enough/tt_ig_2026w25_car19_proof-you-are-enough-04.jpg",
+    "public/publish/tt/tt_ig_2026w25_car19_proof-you-are-enough/tt_ig_2026w25_car19_proof-you-are-enough-05.jpg",
+    "public/publish/tt/tt_ig_2026w25_car19_proof-you-are-enough/tt_ig_2026w25_car19_proof-you-are-enough-06.jpg"
+  ],
+  "relative_urls": [
+    "/publish/tt/tt_ig_2026w25_car19_proof-you-are-enough/tt_ig_2026w25_car19_proof-you-are-enough-01.jpg",
+    "/publish/tt/tt_ig_2026w25_car19_proof-you-are-enough/tt_ig_2026w25_car19_proof-you-are-enough-02.jpg",
+    "/publish/tt/tt_ig_2026w25_car19_proof-you-are-enough/tt_ig_2026w25_car19_proof-you-are-enough-03.jpg",
+    "/publish/tt/tt_ig_2026w25_car19_proof-you-are-enough/tt_ig_2026w25_car19_proof-you-are-enough-04.jpg",
+    "/publish/tt/tt_ig_2026w25_car19_proof-you-are-enough/tt_ig_2026w25_car19_proof-you-are-enough-05.jpg",
+    "/publish/tt/tt_ig_2026w25_car19_proof-you-are-enough/tt_ig_2026w25_car19_proof-you-are-enough-06.jpg"
+  ],
+  "local_preview_urls": [
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car19_proof-you-are-enough/tt_ig_2026w25_car19_proof-you-are-enough-01.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car19_proof-you-are-enough/tt_ig_2026w25_car19_proof-you-are-enough-02.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car19_proof-you-are-enough/tt_ig_2026w25_car19_proof-you-are-enough-03.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car19_proof-you-are-enough/tt_ig_2026w25_car19_proof-you-are-enough-04.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car19_proof-you-are-enough/tt_ig_2026w25_car19_proof-you-are-enough-05.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car19_proof-you-are-enough/tt_ig_2026w25_car19_proof-you-are-enough-06.jpg"
+  ],
+  "public_asset_urls": [
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car19_proof-you-are-enough/tt_ig_2026w25_car19_proof-you-are-enough-01.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car19_proof-you-are-enough/tt_ig_2026w25_car19_proof-you-are-enough-02.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car19_proof-you-are-enough/tt_ig_2026w25_car19_proof-you-are-enough-03.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car19_proof-you-are-enough/tt_ig_2026w25_car19_proof-you-are-enough-04.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car19_proof-you-are-enough/tt_ig_2026w25_car19_proof-you-are-enough-05.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car19_proof-you-are-enough/tt_ig_2026w25_car19_proof-you-are-enough-06.jpg"
+  ],
+  "caption": "Tummy time should not become another way to measure yourself. A safe, awake, supervised minute can be enough to come back to tomorrow.\n\nSave this for the next pressure spiral.",
+  "caption_issues": [],
+  "visual_qa": {
+    "status": "passed",
+    "reference": {
+      "dir": "assets/reference/tummy-time",
+      "status": "ready",
+      "median": {
+        "aspect_ratio": 0.8002853067047075,
+        "brightness": 213.06,
+        "contrast": 28.994999999999997,
+        "saturation": 57.89,
+        "edge_density": 38.485,
+        "dark_ratio": 0.0045000000000000005
+      }
+    },
+    "issues": [],
+    "slides": [
+      {
+        "index": 1,
+        "path": "public/publish/tt/tt_ig_2026w25_car19_proof-you-are-enough/tt_ig_2026w25_car19_proof-you-are-enough-01.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car19_proof-you-are-enough/tt_ig_2026w25_car19_proof-you-are-enough-01.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            228.46,
+            207.94,
+            180.88
+          ],
+          "brightness": 211.0,
+          "contrast": 32.57,
+          "saturation": 52.46,
+          "edge_density": 46.87,
+          "dark_ratio": 0.0034
+        },
+        "vision": {
+          "edgeTextCount": 0,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car19_proof-you-are-enough/tt_ig_2026w25_car19_proof-you-are-enough-01.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.06990014265335243,
+                "width": 0.4634581105169341,
+                "x": 0.26916221033868093,
+                "y": 0.7467902995720399
+              },
+              "confidence": 0.5,
+              "text": "Stop turning"
+            },
+            {
+              "box": {
+                "height": 0.06704707560627687,
+                "width": 0.5864527629233511,
+                "x": 0.20677361853832443,
+                "y": 0.6740370898716119
+              },
+              "confidence": 0.5,
+              "text": "tummy time into"
+            },
+            {
+              "box": {
+                "height": 0.0684736091298146,
+                "width": 0.6203208556149733,
+                "x": 0.1889483065953654,
+                "y": 0.5984308131241084
+              },
+              "confidence": 0.5,
+              "text": "proof that you are"
+            },
+            {
+              "box": {
+                "height": 0.0684736091298146,
+                "width": 0.4884135472370766,
+                "x": 0.25846702317290554,
+                "y": 0.5242510699001426
+              },
+              "confidence": 0.5,
+              "text": "doing enough."
+            }
+          ],
+          "textCount": 4,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 2,
+        "path": "public/publish/tt/tt_ig_2026w25_car19_proof-you-are-enough/tt_ig_2026w25_car19_proof-you-are-enough-02.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car19_proof-you-are-enough/tt_ig_2026w25_car19_proof-you-are-enough-02.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            234.04,
+            212.35,
+            184.7
+          ],
+          "brightness": 215.68,
+          "contrast": 28.15,
+          "saturation": 53.53,
+          "edge_density": 41.18,
+          "dark_ratio": 0.0024
+        },
+        "vision": {
+          "edgeTextCount": 0,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car19_proof-you-are-enough/tt_ig_2026w25_car19_proof-you-are-enough-02.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.07417974322396581,
+                "width": 0.3921568627450981,
+                "x": 0.3048128342245989,
+                "y": 0.7368045649072753
+              },
+              "confidence": 0.5,
+              "text": "Your baby"
+            },
+            {
+              "box": {
+                "height": 0.06847360912981448,
+                "width": 0.5918003565062389,
+                "x": 0.20499108734402852,
+                "y": 0.666904422253923
+              },
+              "confidence": 0.5,
+              "text": "feels the pressure"
+            },
+            {
+              "box": {
+                "height": 0.05278174037089867,
+                "width": 0.7326203208556149,
+                "x": 0.1354723707664884,
+                "y": 0.6098430813124108
+              },
+              "confidence": 0.5,
+              "text": "before the timer does."
+            }
+          ],
+          "textCount": 3,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 3,
+        "path": "public/publish/tt/tt_ig_2026w25_car19_proof-you-are-enough/tt_ig_2026w25_car19_proof-you-are-enough-03.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car19_proof-you-are-enough/tt_ig_2026w25_car19_proof-you-are-enough-03.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            237.17,
+            213.21,
+            183.19
+          ],
+          "brightness": 216.93,
+          "contrast": 25.69,
+          "saturation": 57.92,
+          "edge_density": 35.99,
+          "dark_ratio": 0.0042
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car19_proof-you-are-enough/tt_ig_2026w25_car19_proof-you-are-enough-03.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.015691868758915928,
+                "width": 0.13101604278074863,
+                "x": 0.43493761140819964,
+                "y": 0.8316690442225392
+              },
+              "confidence": 0.5,
+              "text": "TRY THIS"
+            },
+            {
+              "box": {
+                "height": 0.05563480741797433,
+                "width": 0.429590017825312,
+                "x": 0.29411764705882354,
+                "y": 0.7368045649072753
+              },
+              "confidence": 0.5,
+              "text": "Choose one"
+            },
+            {
+              "box": {
+                "height": 0.05563480741797444,
+                "width": 0.6702317290552584,
+                "x": 0.17290552584670232,
+                "y": 0.6626248216833095
+              },
+              "confidence": 0.5,
+              "text": "calm floor minute."
+            },
+            {
+              "box": {
+                "height": 0.022824536376604865,
+                "width": 0.45187165775401067,
+                "x": 0.27629233511586454,
+                "y": 0.6027104136947219
+              },
+              "confidence": 0.5,
+              "text": "One tiny action is enough for today."
+            },
+            {
+              "box": {
+                "height": 0.02068473609129806,
+                "width": 0.3288770053475936,
+                "x": 0.3333333333333333,
+                "y": 0.049215406562054254
+              },
+              "confidence": 0.5,
+              "text": "Tummy Time: Baby Activities"
+            }
+          ],
+          "textCount": 5,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 4,
+        "path": "public/publish/tt/tt_ig_2026w25_car19_proof-you-are-enough/tt_ig_2026w25_car19_proof-you-are-enough-04.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car19_proof-you-are-enough/tt_ig_2026w25_car19_proof-you-are-enough-04.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            229.44,
+            202.7,
+            168.46
+          ],
+          "brightness": 206.79,
+          "contrast": 34.06,
+          "saturation": 68.94,
+          "edge_density": 41.06,
+          "dark_ratio": 0.0159
+        },
+        "vision": {
+          "edgeTextCount": 0,
+          "faceBoxes": [
+            {
+              "height": 0.1001439243555069,
+              "width": 0.12513527274131775,
+              "x": 0.3782362937927246,
+              "y": 0.3105827867984772
+            },
+            {
+              "height": 0.07426349818706512,
+              "width": 0.09279628098011017,
+              "x": 0.5015363693237305,
+              "y": 0.30138853192329407
+            }
+          ],
+          "faceCount": 2,
+          "handCount": 2,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car19_proof-you-are-enough/tt_ig_2026w25_car19_proof-you-are-enough-04.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.07132667617689015,
+                "width": 0.5418894830659537,
+                "x": 0.23529411764705882,
+                "y": 0.7482168330955777
+              },
+              "confidence": 0.5,
+              "text": "Keep your face"
+            },
+            {
+              "box": {
+                "height": 0.07132667617689015,
+                "width": 0.5187165775401069,
+                "x": 0.24777183600713013,
+                "y": 0.6754636233951498
+              },
+              "confidence": 0.5,
+              "text": "close and your"
+            },
+            {
+              "box": {
+                "height": 0.05563480741797433,
+                "width": 0.35650623885918004,
+                "x": 0.32976827094474154,
+                "y": 0.6169757489300999
+              },
+              "confidence": 0.5,
+              "text": "voice soft."
+            }
+          ],
+          "textCount": 3,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 5,
+        "path": "public/publish/tt/tt_ig_2026w25_car19_proof-you-are-enough/tt_ig_2026w25_car19_proof-you-are-enough-05.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car19_proof-you-are-enough/tt_ig_2026w25_car19_proof-you-are-enough-05.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            234.32,
+            207.7,
+            174.77
+          ],
+          "brightness": 211.89,
+          "contrast": 29.49,
+          "saturation": 65.18,
+          "edge_density": 38.65,
+          "dark_ratio": 0.0027
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [
+            {
+              "height": 0.09161358326673508,
+              "width": 0.11447615176439285,
+              "x": 0.39935389161109924,
+              "y": 0.286376416683197
+            }
+          ],
+          "faceCount": 1,
+          "handCount": 2,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car19_proof-you-are-enough/tt_ig_2026w25_car19_proof-you-are-enough-05.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.01711840228245365,
+                "width": 0.24777183600713015,
+                "x": 0.3787878787878788,
+                "y": 0.8523537803138374
+              },
+              "confidence": 0.5,
+              "text": "WATCH FOR THIS"
+            },
+            {
+              "box": {
+                "height": 0.05848787446504988,
+                "width": 0.41354723707664887,
+                "x": 0.30124777183600715,
+                "y": 0.7567760342368046
+              },
+              "confidence": 0.5,
+              "text": "End before"
+            },
+            {
+              "box": {
+                "height": 0.06562054208273893,
+                "width": 0.340463458110517,
+                "x": 0.3333333333333333,
+                "y": 0.6711840228245364
+              },
+              "confidence": 0.5,
+              "text": "you start"
+            },
+            {
+              "box": {
+                "height": 0.07132667617689026,
+                "width": 0.447415329768271,
+                "x": 0.28520499108734404,
+                "y": 0.601283880171184
+              },
+              "confidence": 0.5,
+              "text": "performing."
+            },
+            {
+              "box": {
+                "height": 0.022111269614836004,
+                "width": 0.45721925133689834,
+                "x": 0.2807486631016043,
+                "y": 0.5542082738944365
+              },
+              "confidence": 0.5,
+              "text": "Follow your baby's cues, not a timer."
+            },
+            {
+              "box": {
+                "height": 0.020684736091298173,
+                "width": 0.3315508021390374,
+                "x": 0.3342245989304813,
+                "y": 0.04778887303851642
+              },
+              "confidence": 0.5,
+              "text": "Tummy Time: Baby Activities"
+            }
+          ],
+          "textCount": 6,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 6,
+        "path": "public/publish/tt/tt_ig_2026w25_car19_proof-you-are-enough/tt_ig_2026w25_car19_proof-you-are-enough-06.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car19_proof-you-are-enough/tt_ig_2026w25_car19_proof-you-are-enough-06.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            231.19,
+            206.23,
+            171.09
+          ],
+          "brightness": 209.66,
+          "contrast": 30.37,
+          "saturation": 66.59,
+          "edge_density": 42.73,
+          "dark_ratio": 0.0073
+        },
+        "vision": {
+          "edgeTextCount": 0,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car19_proof-you-are-enough/tt_ig_2026w25_car19_proof-you-are-enough-06.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.058487874465049994,
+                "width": 0.572192513368984,
+                "x": 0.2281639928698752,
+                "y": 0.7368045649072753
+              },
+              "confidence": 0.5,
+              "text": "Save this when"
+            },
+            {
+              "box": {
+                "height": 0.05848787446504988,
+                "width": 0.4901960784313726,
+                "x": 0.2727272727272727,
+                "y": 0.6611982881597718
+              },
+              "confidence": 0.5,
+              "text": "the checklist"
+            },
+            {
+              "box": {
+                "height": 0.058487874465049994,
+                "width": 0.40463458110516937,
+                "x": 0.3083778966131907,
+                "y": 0.5855920114122681
+              },
+              "confidence": 0.5,
+              "text": "takes over."
+            }
+          ],
+          "textCount": 3,
+          "width": 1122
+        },
+        "issues": []
+      }
+    ]
+  },
+  "visual_qa_issues": [],
+  "url_issues": [],
+  "url_probes": [
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car19_proof-you-are-enough/tt_ig_2026w25_car19_proof-you-are-enough-01.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car19_proof-you-are-enough/tt_ig_2026w25_car19_proof-you-are-enough-02.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car19_proof-you-are-enough/tt_ig_2026w25_car19_proof-you-are-enough-03.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car19_proof-you-are-enough/tt_ig_2026w25_car19_proof-you-are-enough-04.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car19_proof-you-are-enough/tt_ig_2026w25_car19_proof-you-are-enough-05.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car19_proof-you-are-enough/tt_ig_2026w25_car19_proof-you-are-enough-06.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    }
+  ],
+  "cleaned_bundles": [],
+  "publish_host_sync": {
+    "attempted": true,
+    "provider": "github_pages",
+    "repo": "marccc127/tummy-time-publish-assets",
+    "branch": "gh-pages",
+    "changed": true,
+    "commit": "749df9b634a4577c0ea5a74a315b5af86cf359f6",
+    "push_stdout": ""
+  }
+}
