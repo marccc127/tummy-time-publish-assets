@@ -1,0 +1,657 @@
+{
+  "manifest_version": 1,
+  "generated_at": "2026-06-20T03:51:40.836595+00:00",
+  "account_id": "tt",
+  "content_id": "tt_ig_2026w25_car16_forcing-floor",
+  "channel": "carousel",
+  "source_dir": "review/tt/tt_ig_2026w25_car16_forcing-floor",
+  "normalized_files": [
+    "public/publish/tt/tt_ig_2026w25_car16_forcing-floor/tt_ig_2026w25_car16_forcing-floor-01.jpg",
+    "public/publish/tt/tt_ig_2026w25_car16_forcing-floor/tt_ig_2026w25_car16_forcing-floor-02.jpg",
+    "public/publish/tt/tt_ig_2026w25_car16_forcing-floor/tt_ig_2026w25_car16_forcing-floor-03.jpg",
+    "public/publish/tt/tt_ig_2026w25_car16_forcing-floor/tt_ig_2026w25_car16_forcing-floor-04.jpg",
+    "public/publish/tt/tt_ig_2026w25_car16_forcing-floor/tt_ig_2026w25_car16_forcing-floor-05.jpg",
+    "public/publish/tt/tt_ig_2026w25_car16_forcing-floor/tt_ig_2026w25_car16_forcing-floor-06.jpg"
+  ],
+  "relative_urls": [
+    "/publish/tt/tt_ig_2026w25_car16_forcing-floor/tt_ig_2026w25_car16_forcing-floor-01.jpg",
+    "/publish/tt/tt_ig_2026w25_car16_forcing-floor/tt_ig_2026w25_car16_forcing-floor-02.jpg",
+    "/publish/tt/tt_ig_2026w25_car16_forcing-floor/tt_ig_2026w25_car16_forcing-floor-03.jpg",
+    "/publish/tt/tt_ig_2026w25_car16_forcing-floor/tt_ig_2026w25_car16_forcing-floor-04.jpg",
+    "/publish/tt/tt_ig_2026w25_car16_forcing-floor/tt_ig_2026w25_car16_forcing-floor-05.jpg",
+    "/publish/tt/tt_ig_2026w25_car16_forcing-floor/tt_ig_2026w25_car16_forcing-floor-06.jpg"
+  ],
+  "local_preview_urls": [
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car16_forcing-floor/tt_ig_2026w25_car16_forcing-floor-01.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car16_forcing-floor/tt_ig_2026w25_car16_forcing-floor-02.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car16_forcing-floor/tt_ig_2026w25_car16_forcing-floor-03.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car16_forcing-floor/tt_ig_2026w25_car16_forcing-floor-04.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car16_forcing-floor/tt_ig_2026w25_car16_forcing-floor-05.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car16_forcing-floor/tt_ig_2026w25_car16_forcing-floor-06.jpg"
+  ],
+  "public_asset_urls": [
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car16_forcing-floor/tt_ig_2026w25_car16_forcing-floor-01.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car16_forcing-floor/tt_ig_2026w25_car16_forcing-floor-02.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car16_forcing-floor/tt_ig_2026w25_car16_forcing-floor-03.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car16_forcing-floor/tt_ig_2026w25_car16_forcing-floor-04.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car16_forcing-floor/tt_ig_2026w25_car16_forcing-floor-05.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car16_forcing-floor/tt_ig_2026w25_car16_forcing-floor-06.jpg"
+  ],
+  "caption": "The floor does not have to be step one. Start where baby feels close, then try a tiny floor moment when the mood is softer.\n\nSave this bridge step.",
+  "caption_issues": [],
+  "visual_qa": {
+    "status": "passed",
+    "reference": {
+      "dir": "assets/reference/tummy-time",
+      "status": "ready",
+      "median": {
+        "aspect_ratio": 0.8002853067047075,
+        "brightness": 213.07999999999998,
+        "contrast": 29.13,
+        "saturation": 57.565,
+        "edge_density": 38.855000000000004,
+        "dark_ratio": 0.0046
+      }
+    },
+    "issues": [],
+    "slides": [
+      {
+        "index": 1,
+        "path": "public/publish/tt/tt_ig_2026w25_car16_forcing-floor/tt_ig_2026w25_car16_forcing-floor-01.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car16_forcing-floor/tt_ig_2026w25_car16_forcing-floor-01.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            229.69,
+            206.48,
+            177.83
+          ],
+          "brightness": 210.13,
+          "contrast": 37.17,
+          "saturation": 58.63,
+          "edge_density": 48.18,
+          "dark_ratio": 0.0183
+        },
+        "vision": {
+          "edgeTextCount": 0,
+          "faceBoxes": [
+            {
+              "height": 0.08388273417949677,
+              "width": 0.10481603443622589,
+              "x": 0.5362963080406189,
+              "y": 0.2892228364944458
+            }
+          ],
+          "faceCount": 1,
+          "handCount": 1,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car16_forcing-floor/tt_ig_2026w25_car16_forcing-floor-01.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.07988587731811692,
+                "width": 0.3939393939393939,
+                "x": 0.3172905525846702,
+                "y": 0.7796005706134095
+              },
+              "confidence": 0.5,
+              "text": "If you are"
+            },
+            {
+              "box": {
+                "height": 0.07988587731811703,
+                "width": 0.6452762923351159,
+                "x": 0.1889483065953654,
+                "y": 0.7011412268188302
+              },
+              "confidence": 0.5,
+              "text": "forcing the floor,"
+            },
+            {
+              "box": {
+                "height": 0.07703281027104136,
+                "width": 0.5953654188948306,
+                "x": 0.2192513368983957,
+                "y": 0.6255349500713268
+              },
+              "confidence": 0.5,
+              "text": "you missed the"
+            },
+            {
+              "box": {
+                "height": 0.059914407988587826,
+                "width": 0.4563279857397504,
+                "x": 0.2994652406417112,
+                "y": 0.5656205420827389
+              },
+              "confidence": 0.5,
+              "text": "easier start."
+            }
+          ],
+          "textCount": 4,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 2,
+        "path": "public/publish/tt/tt_ig_2026w25_car16_forcing-floor/tt_ig_2026w25_car16_forcing-floor-02.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car16_forcing-floor/tt_ig_2026w25_car16_forcing-floor-02.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            232.14,
+            205.43,
+            172.81
+          ],
+          "brightness": 209.67,
+          "contrast": 31.71,
+          "saturation": 66.54,
+          "edge_density": 36.4,
+          "dark_ratio": 0.0137
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [
+            {
+              "height": 0.08253192901611328,
+              "width": 0.10312812775373459,
+              "x": 0.5109798908233643,
+              "y": 0.41026997566223145
+            },
+            {
+              "height": 0.0572061650454998,
+              "width": 0.07148221135139465,
+              "x": 0.48819535970687866,
+              "y": 0.3246370553970337
+            }
+          ],
+          "faceCount": 2,
+          "handCount": 1,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car16_forcing-floor/tt_ig_2026w25_car16_forcing-floor-02.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.016405135520684677,
+                "width": 0.250445632798574,
+                "x": 0.3761140819964349,
+                "y": 0.8459343794579173
+              },
+              "confidence": 0.5,
+              "text": "MAKE IT GENTLER"
+            },
+            {
+              "box": {
+                "height": 0.051355206847360946,
+                "width": 0.4973262032085562,
+                "x": 0.2531194295900178,
+                "y": 0.7524964336661911
+              },
+              "confidence": 0.5,
+              "text": "Chest-to-chest"
+            },
+            {
+              "box": {
+                "height": 0.06562054208273893,
+                "width": 0.6042780748663101,
+                "x": 0.21212121212121213,
+                "y": 0.6726105563480742
+              },
+              "confidence": 0.5,
+              "text": "can be the bridge."
+            },
+            {
+              "box": {
+                "height": 0.021398002853067033,
+                "width": 0.5026737967914439,
+                "x": 0.2540106951871658,
+                "y": 0.6340941512125535
+              },
+              "confidence": 0.5,
+              "text": "Smaller and calmer usually works better."
+            },
+            {
+              "box": {
+                "height": 0.01854493580599148,
+                "width": 0.3163992869875223,
+                "x": 0.3404634581105169,
+                "y": 0.03495007132667616
+              },
+              "confidence": 0.5,
+              "text": "Tummy Time: Baby Activities"
+            }
+          ],
+          "textCount": 5,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 3,
+        "path": "public/publish/tt/tt_ig_2026w25_car16_forcing-floor/tt_ig_2026w25_car16_forcing-floor-03.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car16_forcing-floor/tt_ig_2026w25_car16_forcing-floor-03.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            229.83,
+            203.26,
+            170.1
+          ],
+          "brightness": 207.41,
+          "contrast": 33.22,
+          "saturation": 68.07,
+          "edge_density": 36.68,
+          "dark_ratio": 0.0168
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [
+            {
+              "height": 0.11620481312274933,
+              "width": 0.14520423114299774,
+              "x": 0.33118999004364014,
+              "y": 0.36373579502105713
+            },
+            {
+              "height": 0.07171157002449036,
+              "width": 0.08960750699043274,
+              "x": 0.4206261932849884,
+              "y": 0.2742410898208618
+            }
+          ],
+          "faceCount": 2,
+          "handCount": 1,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car16_forcing-floor/tt_ig_2026w25_car16_forcing-floor-03.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.016405135520684788,
+                "width": 0.1292335115864528,
+                "x": 0.43493761140819964,
+                "y": 0.8559201141226819
+              },
+              "confidence": 0.5,
+              "text": "TRY THIS"
+            },
+            {
+              "box": {
+                "height": 0.07560627674750353,
+                "width": 0.5311942959001782,
+                "x": 0.23885918003565063,
+                "y": 0.7453637660485022
+              },
+              "confidence": 0.5,
+              "text": "Start upright"
+            },
+            {
+              "box": {
+                "height": 0.05706134094151216,
+                "width": 0.3939393939393939,
+                "x": 0.3083778966131907,
+                "y": 0.681169757489301
+              },
+              "confidence": 0.5,
+              "text": "and close."
+            },
+            {
+              "box": {
+                "height": 0.022824536376604754,
+                "width": 0.4500891265597148,
+                "x": 0.27450980392156865,
+                "y": 0.6255349500713268
+              },
+              "confidence": 0.5,
+              "text": "One tiny action is enough for today."
+            },
+            {
+              "box": {
+                "height": 0.02068473609129806,
+                "width": 0.3386809269162211,
+                "x": 0.32887700534759357,
+                "y": 0.041369472182596345
+              },
+              "confidence": 0.5,
+              "text": "Tummy Time: Baby Activities"
+            }
+          ],
+          "textCount": 5,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 4,
+        "path": "public/publish/tt/tt_ig_2026w25_car16_forcing-floor/tt_ig_2026w25_car16_forcing-floor-04.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car16_forcing-floor/tt_ig_2026w25_car16_forcing-floor-04.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            231.64,
+            204.97,
+            172.58
+          ],
+          "brightness": 209.24,
+          "contrast": 27.79,
+          "saturation": 65.06,
+          "edge_density": 37.02,
+          "dark_ratio": 0.0032
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [
+            {
+              "height": 0.10474126040935516,
+              "width": 0.13087989389896393,
+              "x": 0.5477387309074402,
+              "y": 0.3220715820789337
+            }
+          ],
+          "faceCount": 1,
+          "handCount": 2,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car16_forcing-floor/tt_ig_2026w25_car16_forcing-floor-04.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.016405135520684788,
+                "width": 0.13012477718360071,
+                "x": 0.43493761140819964,
+                "y": 0.8295292439372325
+              },
+              "confidence": 0.5,
+              "text": "TRY THIS"
+            },
+            {
+              "box": {
+                "height": 0.07060364184970325,
+                "width": 0.5287395948709708,
+                "x": 0.29177693442664393,
+                "y": 0.7211175961025345
+              },
+              "confidence": 0.5,
+              "text": "Try the mat 4*"
+            },
+            {
+              "box": {
+                "height": 0.0542082738944365,
+                "width": 0.7611408199643493,
+                "x": 0.13368983957219252,
+                "y": 0.6569186875891584
+              },
+              "confidence": 0.5,
+              "text": "after one calm minute."
+            },
+            {
+              "box": {
+                "height": 0.022824536376604865,
+                "width": 0.44206773618538325,
+                "x": 0.2789661319073084,
+                "y": 0.6005706134094151
+              },
+              "confidence": 0.5,
+              "text": "One tiny action is enough for today."
+            },
+            {
+              "box": {
+                "height": 0.021398002853067033,
+                "width": 0.3458110516934046,
+                "x": 0.32620320855614976,
+                "y": 0.04636233951497859
+              },
+              "confidence": 0.5,
+              "text": "Tummy Time: Baby Activities"
+            }
+          ],
+          "textCount": 5,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 5,
+        "path": "public/publish/tt/tt_ig_2026w25_car16_forcing-floor/tt_ig_2026w25_car16_forcing-floor-05.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car16_forcing-floor/tt_ig_2026w25_car16_forcing-floor-05.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            226.27,
+            196.76,
+            160.2
+          ],
+          "brightness": 201.4,
+          "contrast": 36.02,
+          "saturation": 76.32,
+          "edge_density": 39.15,
+          "dark_ratio": 0.0234
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [
+            {
+              "height": 0.111430823802948,
+              "width": 0.1392388641834259,
+              "x": 0.30958080291748047,
+              "y": 0.3568507432937622
+            },
+            {
+              "height": 0.0871342122554779,
+              "width": 0.10887893289327621,
+              "x": 0.5689826607704163,
+              "y": 0.2586943507194519
+            }
+          ],
+          "faceCount": 2,
+          "handCount": 2,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car16_forcing-floor/tt_ig_2026w25_car16_forcing-floor-05.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.016405135520684788,
+                "width": 0.24064171122994654,
+                "x": 0.37967914438502676,
+                "y": 0.8409415121255349
+              },
+              "confidence": 0.5,
+              "text": "WATCH FOR THIS"
+            },
+            {
+              "box": {
+                "height": 0.0784593437945792,
+                "width": 0.34581105169340465,
+                "x": 0.32798573975044565,
+                "y": 0.7368045649072753
+              },
+              "confidence": 1,
+              "text": "Keep the"
+            },
+            {
+              "box": {
+                "height": 0.07560627674750364,
+                "width": 0.6310160427807486,
+                "x": 0.18538324420677363,
+                "y": 0.6626248216833095
+              },
+              "confidence": 0.5,
+              "text": "transition gentle."
+            },
+            {
+              "box": {
+                "height": 0.022111269614836004,
+                "width": 0.4536541889483066,
+                "x": 0.2736185383244207,
+                "y": 0.6241084165477888
+              },
+              "confidence": 0.5,
+              "text": "Follow your baby's cues, not a timer."
+            },
+            {
+              "box": {
+                "height": 0.021398002853067033,
+                "width": 0.34313725490196084,
+                "x": 0.3270944741532977,
+                "y": 0.0442225392296719
+              },
+              "confidence": 0.5,
+              "text": "Thmmy Time: Baby Activities"
+            }
+          ],
+          "textCount": 5,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 6,
+        "path": "public/publish/tt/tt_ig_2026w25_car16_forcing-floor/tt_ig_2026w25_car16_forcing-floor-06.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car16_forcing-floor/tt_ig_2026w25_car16_forcing-floor-06.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            231.26,
+            206.51,
+            173.26
+          ],
+          "brightness": 210.11,
+          "contrast": 26.26,
+          "saturation": 64.0,
+          "edge_density": 34.86,
+          "dark_ratio": 0.0056
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car16_forcing-floor/tt_ig_2026w25_car16_forcing-floor-06.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.016405135520684788,
+                "width": 0.2121212121212121,
+                "x": 0.3948306595365419,
+                "y": 0.8352353780313837
+              },
+              "confidence": 0.5,
+              "text": "OPEN THE APP"
+            },
+            {
+              "box": {
+                "height": 0.061340941512125546,
+                "width": 0.36720142602495537,
+                "x": 0.32620320855614976,
+                "y": 0.7396576319543509
+              },
+              "confidence": 0.5,
+              "text": "Save this"
+            },
+            {
+              "box": {
+                "height": 0.07560627674750364,
+                "width": 0.4723707664884136,
+                "x": 0.27807486631016043,
+                "y": 0.6469329529243937
+              },
+              "confidence": 0.5,
+              "text": "bridge step."
+            },
+            {
+              "box": {
+                "height": 0.01925820256776034,
+                "width": 0.47950089126559714,
+                "x": 0.26559714795008915,
+                "y": 0.6162624821683309
+              },
+              "confidence": 0.5,
+              "text": "Save this for the next awake window."
+            },
+            {
+              "box": {
+                "height": 0.021398002853067033,
+                "width": 0.37344028520499106,
+                "x": 0.3137254901960784,
+                "y": 0.041369472182596345
+              },
+              "confidence": 0.5,
+              "text": "Screen-free, simple, no pressure."
+            }
+          ],
+          "textCount": 5,
+          "width": 1122
+        },
+        "issues": []
+      }
+    ]
+  },
+  "visual_qa_issues": [],
+  "url_issues": [],
+  "url_probes": [
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car16_forcing-floor/tt_ig_2026w25_car16_forcing-floor-01.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car16_forcing-floor/tt_ig_2026w25_car16_forcing-floor-02.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car16_forcing-floor/tt_ig_2026w25_car16_forcing-floor-03.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car16_forcing-floor/tt_ig_2026w25_car16_forcing-floor-04.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car16_forcing-floor/tt_ig_2026w25_car16_forcing-floor-05.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car16_forcing-floor/tt_ig_2026w25_car16_forcing-floor-06.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    }
+  ],
+  "cleaned_bundles": [],
+  "publish_host_sync": {
+    "attempted": true,
+    "provider": "github_pages",
+    "repo": "marccc127/tummy-time-publish-assets",
+    "branch": "gh-pages",
+    "changed": true,
+    "commit": "349e53d30482f4693c8508b6f204ece48f0b43a8",
+    "push_stdout": ""
+  }
+}
