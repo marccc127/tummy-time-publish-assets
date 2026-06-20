@@ -1,6 +1,6 @@
 {
   "manifest_version": 1,
-  "generated_at": "2026-06-20T14:58:21.616488+00:00",
+  "generated_at": "2026-06-20T15:03:07.498641+00:00",
   "account_id": "tt",
   "content_id": "tt_ig_2026w25_car19_proof-you-are-enough",
   "channel": "carousel",
@@ -568,7 +568,7 @@
     "repo": "marccc127/tummy-time-publish-assets",
     "branch": "gh-pages",
     "changed": true,
-    "commit": "749df9b634a4577c0ea5a74a315b5af86cf359f6",
+    "commit": "ea5819384b6dcf230767f82fc4060fae28383653",
     "push_stdout": ""
   }
 }
