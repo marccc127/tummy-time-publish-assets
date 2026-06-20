@@ -1,0 +1,620 @@
+{
+  "manifest_version": 1,
+  "generated_at": "2026-06-20T02:55:11.835554+00:00",
+  "account_id": "tt",
+  "content_id": "tt_ig_2026w25_car13_baby-not-failing",
+  "channel": "carousel",
+  "source_dir": "review/tt/tt_ig_2026w25_car13_baby-not-failing",
+  "normalized_files": [
+    "public/publish/tt/tt_ig_2026w25_car13_baby-not-failing/tt_ig_2026w25_car13_baby-not-failing-01.jpg",
+    "public/publish/tt/tt_ig_2026w25_car13_baby-not-failing/tt_ig_2026w25_car13_baby-not-failing-02.jpg",
+    "public/publish/tt/tt_ig_2026w25_car13_baby-not-failing/tt_ig_2026w25_car13_baby-not-failing-03.jpg",
+    "public/publish/tt/tt_ig_2026w25_car13_baby-not-failing/tt_ig_2026w25_car13_baby-not-failing-04.jpg",
+    "public/publish/tt/tt_ig_2026w25_car13_baby-not-failing/tt_ig_2026w25_car13_baby-not-failing-05.jpg",
+    "public/publish/tt/tt_ig_2026w25_car13_baby-not-failing/tt_ig_2026w25_car13_baby-not-failing-06.jpg"
+  ],
+  "relative_urls": [
+    "/publish/tt/tt_ig_2026w25_car13_baby-not-failing/tt_ig_2026w25_car13_baby-not-failing-01.jpg",
+    "/publish/tt/tt_ig_2026w25_car13_baby-not-failing/tt_ig_2026w25_car13_baby-not-failing-02.jpg",
+    "/publish/tt/tt_ig_2026w25_car13_baby-not-failing/tt_ig_2026w25_car13_baby-not-failing-03.jpg",
+    "/publish/tt/tt_ig_2026w25_car13_baby-not-failing/tt_ig_2026w25_car13_baby-not-failing-04.jpg",
+    "/publish/tt/tt_ig_2026w25_car13_baby-not-failing/tt_ig_2026w25_car13_baby-not-failing-05.jpg",
+    "/publish/tt/tt_ig_2026w25_car13_baby-not-failing/tt_ig_2026w25_car13_baby-not-failing-06.jpg"
+  ],
+  "local_preview_urls": [
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car13_baby-not-failing/tt_ig_2026w25_car13_baby-not-failing-01.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car13_baby-not-failing/tt_ig_2026w25_car13_baby-not-failing-02.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car13_baby-not-failing/tt_ig_2026w25_car13_baby-not-failing-03.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car13_baby-not-failing/tt_ig_2026w25_car13_baby-not-failing-04.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car13_baby-not-failing/tt_ig_2026w25_car13_baby-not-failing-05.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car13_baby-not-failing/tt_ig_2026w25_car13_baby-not-failing-06.jpg"
+  ],
+  "public_asset_urls": [
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car13_baby-not-failing/tt_ig_2026w25_car13_baby-not-failing-01.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car13_baby-not-failing/tt_ig_2026w25_car13_baby-not-failing-02.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car13_baby-not-failing/tt_ig_2026w25_car13_baby-not-failing-03.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car13_baby-not-failing/tt_ig_2026w25_car13_baby-not-failing-04.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car13_baby-not-failing/tt_ig_2026w25_car13_baby-not-failing-05.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car13_baby-not-failing/tt_ig_2026w25_car13_baby-not-failing-06.jpg"
+  ],
+  "caption": "If tummy time keeps ending in tears, do not label the whole thing a failure. Make the first step smaller and safer-feeling.\n\nSave this for a hard day.",
+  "caption_issues": [],
+  "visual_qa": {
+    "status": "passed",
+    "reference": {
+      "dir": "assets/reference/tummy-time",
+      "status": "ready",
+      "median": {
+        "aspect_ratio": 0.8002853067047075,
+        "brightness": 213.52,
+        "contrast": 29.125,
+        "saturation": 57.155,
+        "edge_density": 38.94,
+        "dark_ratio": 0.00405
+      }
+    },
+    "issues": [],
+    "slides": [
+      {
+        "index": 1,
+        "path": "public/publish/tt/tt_ig_2026w25_car13_baby-not-failing/tt_ig_2026w25_car13_baby-not-failing-01.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car13_baby-not-failing/tt_ig_2026w25_car13_baby-not-failing-01.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            234.97,
+            215.09,
+            187.62
+          ],
+          "brightness": 217.92,
+          "contrast": 28.41,
+          "saturation": 50.92,
+          "edge_density": 44.92,
+          "dark_ratio": 0.0039
+        },
+        "vision": {
+          "edgeTextCount": 0,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car13_baby-not-failing/tt_ig_2026w25_car13_baby-not-failing-01.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.07275320970042798,
+                "width": 0.6114081996434938,
+                "x": 0.20677361853832443,
+                "y": 0.7396576319543509
+              },
+              "confidence": 0.5,
+              "text": "Your baby is not"
+            },
+            {
+              "box": {
+                "height": 0.07132667617689015,
+                "width": 0.7219251336898396,
+                "x": 0.16399286987522282,
+                "y": 0.666904422253923
+              },
+              "confidence": 0.5,
+              "text": "failing tummy time."
+            },
+            {
+              "box": {
+                "height": 0.07560627674750364,
+                "width": 0.4830659536541889,
+                "x": 0.26559714795008915,
+                "y": 0.5855920114122681
+              },
+              "confidence": 0.5,
+              "text": "The setup is"
+            },
+            {
+              "box": {
+                "height": 0.05848787446504988,
+                "width": 0.40463458110516937,
+                "x": 0.3083778966131907,
+                "y": 0.5299572039942939
+              },
+              "confidence": 0.5,
+              "text": "too much."
+            }
+          ],
+          "textCount": 4,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 2,
+        "path": "public/publish/tt/tt_ig_2026w25_car13_baby-not-failing/tt_ig_2026w25_car13_baby-not-failing-02.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car13_baby-not-failing/tt_ig_2026w25_car13_baby-not-failing-02.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            229.57,
+            208.89,
+            179.02
+          ],
+          "brightness": 211.68,
+          "contrast": 27.89,
+          "saturation": 56.03,
+          "edge_density": 40.07,
+          "dark_ratio": 0.0032
+        },
+        "vision": {
+          "edgeTextCount": 0,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car13_baby-not-failing/tt_ig_2026w25_car13_baby-not-failing-02.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.05848787446504988,
+                "width": 0.518716577540107,
+                "x": 0.24955436720142601,
+                "y": 0.7339514978601998
+              },
+              "confidence": 0.5,
+              "text": "Make the first"
+            },
+            {
+              "box": {
+                "height": 0.07275320970042798,
+                "width": 0.48128342245989303,
+                "x": 0.26737967914438504,
+                "y": 0.645506419400856
+              },
+              "confidence": 0.5,
+              "text": "step easier to"
+            },
+            {
+              "box": {
+                "height": 0.06704707560627676,
+                "width": 0.3725490196078432,
+                "x": 0.3244206773618538,
+                "y": 0.5713266761768901
+              },
+              "confidence": 0.5,
+              "text": "say yes to."
+            }
+          ],
+          "textCount": 3,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 3,
+        "path": "public/publish/tt/tt_ig_2026w25_car13_baby-not-failing/tt_ig_2026w25_car13_baby-not-failing-03.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car13_baby-not-failing/tt_ig_2026w25_car13_baby-not-failing-03.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            237.75,
+            214.45,
+            181.62
+          ],
+          "brightness": 217.66,
+          "contrast": 24.8,
+          "saturation": 60.22,
+          "edge_density": 32.72,
+          "dark_ratio": 0.0054
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 2,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car13_baby-not-failing/tt_ig_2026w25_car13_baby-not-failing-03.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.016405135520684788,
+                "width": 0.1310160427807487,
+                "x": 0.43404634581105167,
+                "y": 0.854493580599144
+              },
+              "confidence": 0.5,
+              "text": "TRY THIS"
+            },
+            {
+              "box": {
+                "height": 0.061340941512125546,
+                "width": 0.3475935828877006,
+                "x": 0.3315508021390374,
+                "y": 0.7596291012838802
+              },
+              "confidence": 0.5,
+              "text": "Start on"
+            },
+            {
+              "box": {
+                "height": 0.0784593437945792,
+                "width": 0.45811051693404636,
+                "x": 0.27450980392156865,
+                "y": 0.666904422253923
+              },
+              "confidence": 0.5,
+              "text": "your chest."
+            },
+            {
+              "box": {
+                "height": 0.023537803138373725,
+                "width": 0.4741532976827094,
+                "x": 0.2629233511586453,
+                "y": 0.6262482168330956
+              },
+              "confidence": 0.5,
+              "text": "One tiny action is enough for today."
+            },
+            {
+              "box": {
+                "height": 0.021398002853067033,
+                "width": 0.34224598930481287,
+                "x": 0.32887700534759357,
+                "y": 0.049215406562054254
+              },
+              "confidence": 0.5,
+              "text": "Tummy Time: Baby Activities"
+            }
+          ],
+          "textCount": 5,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 4,
+        "path": "public/publish/tt/tt_ig_2026w25_car13_baby-not-failing/tt_ig_2026w25_car13_baby-not-failing-04.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car13_baby-not-failing/tt_ig_2026w25_car13_baby-not-failing-04.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            230.92,
+            205.97,
+            173.13
+          ],
+          "brightness": 209.67,
+          "contrast": 31.36,
+          "saturation": 64.88,
+          "edge_density": 39.43,
+          "dark_ratio": 0.0142
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [
+            {
+              "height": 0.08339600265026093,
+              "width": 0.1042078360915184,
+              "x": 0.39507541060447693,
+              "y": 0.4024202823638916
+            },
+            {
+              "height": 0.06334497779607773,
+              "width": 0.07915298640727997,
+              "x": 0.5483839511871338,
+              "y": 0.3749721050262451
+            }
+          ],
+          "faceCount": 2,
+          "handCount": 2,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car13_baby-not-failing/tt_ig_2026w25_car13_baby-not-failing-04.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.015691868758915817,
+                "width": 0.12477718360071294,
+                "x": 0.4358288770053476,
+                "y": 0.8366619115549215
+              },
+              "confidence": 0.5,
+              "text": "TRY THIS"
+            },
+            {
+              "box": {
+                "height": 0.0542082738944365,
+                "width": 0.6292335115864528,
+                "x": 0.19786096256684493,
+                "y": 0.7425106990014265
+              },
+              "confidence": 0.5,
+              "text": "Move to the floor"
+            },
+            {
+              "box": {
+                "height": 0.06847360912981448,
+                "width": 0.6203208556149732,
+                "x": 0.20320855614973263,
+                "y": 0.6554921540656206
+              },
+              "confidence": 0.5,
+              "text": "for one tiny look."
+            },
+            {
+              "box": {
+                "height": 0.022824536376604865,
+                "width": 0.44830659536541884,
+                "x": 0.2807486631016043,
+                "y": 0.6134094151212554
+              },
+              "confidence": 0.5,
+              "text": "One tiny action is enough for today."
+            },
+            {
+              "box": {
+                "height": 0.020684736091298173,
+                "width": 0.33689839572192515,
+                "x": 0.3306595365418895,
+                "y": 0.059201141226818854
+              },
+              "confidence": 0.5,
+              "text": "Tummy Time: Baby Activities"
+            }
+          ],
+          "textCount": 5,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 5,
+        "path": "public/publish/tt/tt_ig_2026w25_car13_baby-not-failing/tt_ig_2026w25_car13_baby-not-failing-05.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car13_baby-not-failing/tt_ig_2026w25_car13_baby-not-failing-05.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            231.11,
+            204.94,
+            171.14
+          ],
+          "brightness": 208.9,
+          "contrast": 32.44,
+          "saturation": 67.58,
+          "edge_density": 38.08,
+          "dark_ratio": 0.0127
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [
+            {
+              "height": 0.07111115753650665,
+              "width": 0.0888572558760643,
+              "x": 0.4757794439792633,
+              "y": 0.28920161724090576
+            },
+            {
+              "height": 0.0976945161819458,
+              "width": 0.12207461148500443,
+              "x": 0.30466428399086,
+              "y": 0.3731173574924469
+            }
+          ],
+          "faceCount": 2,
+          "handCount": 2,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car13_baby-not-failing/tt_ig_2026w25_car13_baby-not-failing-05.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.015691868758915817,
+                "width": 0.23083778966131907,
+                "x": 0.3841354723707665,
+                "y": 0.8352353780313837
+              },
+              "confidence": 0.5,
+              "text": "WATCH FOR THIS"
+            },
+            {
+              "box": {
+                "height": 0.06704707560627665,
+                "width": 0.5418894830659536,
+                "x": 0.23351158645276293,
+                "y": 0.7339514978601998
+              },
+              "confidence": 0.5,
+              "text": "Tiny comfort is"
+            },
+            {
+              "box": {
+                "height": 0.06704707560627665,
+                "width": 0.45989304812834225,
+                "x": 0.27629233511586454,
+                "y": 0.6611982881597718
+              },
+              "confidence": 0.5,
+              "text": "still progress."
+            },
+            {
+              "box": {
+                "height": 0.022111269614836004,
+                "width": 0.4563279857397504,
+                "x": 0.2718360071301248,
+                "y": 0.6198288159771754
+              },
+              "confidence": 0.5,
+              "text": "Follow your baby's cues, not a timer."
+            },
+            {
+              "box": {
+                "height": 0.007845934379457908,
+                "width": 0.04099821746880572,
+                "x": 0.482174688057041,
+                "y": 0.10199714693295292
+              },
+              "confidence": 0.5,
+              "text": "p/\"r"
+            },
+            {
+              "box": {
+                "height": 0.01925820256776034,
+                "width": 0.3288770053475936,
+                "x": 0.3333333333333333,
+                "y": 0.0442225392296719
+              },
+              "confidence": 0.5,
+              "text": "Tummy Time: Baby Activities"
+            }
+          ],
+          "textCount": 6,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 6,
+        "path": "public/publish/tt/tt_ig_2026w25_car13_baby-not-failing/tt_ig_2026w25_car13_baby-not-failing-06.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car13_baby-not-failing/tt_ig_2026w25_car13_baby-not-failing-06.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            229.47,
+            205.59,
+            170.53
+          ],
+          "brightness": 208.71,
+          "contrast": 30.17,
+          "saturation": 65.86,
+          "edge_density": 40.05,
+          "dark_ratio": 0.0093
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car13_baby-not-failing/tt_ig_2026w25_car13_baby-not-failing-06.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.015691868758915817,
+                "width": 0.19964349376114082,
+                "x": 0.4001782531194296,
+                "y": 0.8323823109843081
+              },
+              "confidence": 0.5,
+              "text": "OPEN THE APP"
+            },
+            {
+              "box": {
+                "height": 0.061340941512125546,
+                "width": 0.3761140819964349,
+                "x": 0.3137254901960784,
+                "y": 0.7325249643366619
+              },
+              "confidence": 0.5,
+              "text": "Save this"
+            },
+            {
+              "box": {
+                "height": 0.0784593437945793,
+                "width": 0.6007130124777184,
+                "x": 0.21568627450980393,
+                "y": 0.6355206847360912
+              },
+              "confidence": 0.5,
+              "text": "for a hard day."
+            },
+            {
+              "box": {
+                "height": 0.017118402282453538,
+                "width": 0.44385026737967914,
+                "x": 0.2816399286987522,
+                "y": 0.6034236804564908
+              },
+              "confidence": 0.5,
+              "text": "Save this for the next awake window."
+            },
+            {
+              "box": {
+                "height": 0.021398002853067033,
+                "width": 0.3805704099821747,
+                "x": 0.3146167557932264,
+                "y": 0.04564907275320973
+              },
+              "confidence": 0.5,
+              "text": "Screen-free, simple, no pressure."
+            }
+          ],
+          "textCount": 5,
+          "width": 1122
+        },
+        "issues": []
+      }
+    ]
+  },
+  "visual_qa_issues": [],
+  "url_issues": [],
+  "url_probes": [
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car13_baby-not-failing/tt_ig_2026w25_car13_baby-not-failing-01.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car13_baby-not-failing/tt_ig_2026w25_car13_baby-not-failing-02.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car13_baby-not-failing/tt_ig_2026w25_car13_baby-not-failing-03.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car13_baby-not-failing/tt_ig_2026w25_car13_baby-not-failing-04.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car13_baby-not-failing/tt_ig_2026w25_car13_baby-not-failing-05.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car13_baby-not-failing/tt_ig_2026w25_car13_baby-not-failing-06.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    }
+  ],
+  "cleaned_bundles": [],
+  "publish_host_sync": {
+    "attempted": true,
+    "provider": "github_pages",
+    "repo": "marccc127/tummy-time-publish-assets",
+    "branch": "gh-pages",
+    "changed": true,
+    "commit": "342ed510dfbb6cddd8e63d208eaf0e2f43995912",
+    "push_stdout": ""
+  }
+}
