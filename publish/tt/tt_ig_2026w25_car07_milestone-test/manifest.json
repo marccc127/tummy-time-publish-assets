@@ -1,0 +1,594 @@
+{
+  "manifest_version": 1,
+  "generated_at": "2026-06-20T02:19:29.594432+00:00",
+  "account_id": "tt",
+  "content_id": "tt_ig_2026w25_car07_milestone-test",
+  "channel": "carousel",
+  "source_dir": "review/tt/tt_ig_2026w25_car07_milestone-test",
+  "normalized_files": [
+    "public/publish/tt/tt_ig_2026w25_car07_milestone-test/tt_ig_2026w25_car07_milestone-test-01.jpg",
+    "public/publish/tt/tt_ig_2026w25_car07_milestone-test/tt_ig_2026w25_car07_milestone-test-02.jpg",
+    "public/publish/tt/tt_ig_2026w25_car07_milestone-test/tt_ig_2026w25_car07_milestone-test-03.jpg",
+    "public/publish/tt/tt_ig_2026w25_car07_milestone-test/tt_ig_2026w25_car07_milestone-test-04.jpg",
+    "public/publish/tt/tt_ig_2026w25_car07_milestone-test/tt_ig_2026w25_car07_milestone-test-05.jpg",
+    "public/publish/tt/tt_ig_2026w25_car07_milestone-test/tt_ig_2026w25_car07_milestone-test-06.jpg"
+  ],
+  "relative_urls": [
+    "/publish/tt/tt_ig_2026w25_car07_milestone-test/tt_ig_2026w25_car07_milestone-test-01.jpg",
+    "/publish/tt/tt_ig_2026w25_car07_milestone-test/tt_ig_2026w25_car07_milestone-test-02.jpg",
+    "/publish/tt/tt_ig_2026w25_car07_milestone-test/tt_ig_2026w25_car07_milestone-test-03.jpg",
+    "/publish/tt/tt_ig_2026w25_car07_milestone-test/tt_ig_2026w25_car07_milestone-test-04.jpg",
+    "/publish/tt/tt_ig_2026w25_car07_milestone-test/tt_ig_2026w25_car07_milestone-test-05.jpg",
+    "/publish/tt/tt_ig_2026w25_car07_milestone-test/tt_ig_2026w25_car07_milestone-test-06.jpg"
+  ],
+  "local_preview_urls": [
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car07_milestone-test/tt_ig_2026w25_car07_milestone-test-01.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car07_milestone-test/tt_ig_2026w25_car07_milestone-test-02.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car07_milestone-test/tt_ig_2026w25_car07_milestone-test-03.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car07_milestone-test/tt_ig_2026w25_car07_milestone-test-04.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car07_milestone-test/tt_ig_2026w25_car07_milestone-test-05.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car07_milestone-test/tt_ig_2026w25_car07_milestone-test-06.jpg"
+  ],
+  "public_asset_urls": [
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car07_milestone-test/tt_ig_2026w25_car07_milestone-test-01.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car07_milestone-test/tt_ig_2026w25_car07_milestone-test-02.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car07_milestone-test/tt_ig_2026w25_car07_milestone-test-03.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car07_milestone-test/tt_ig_2026w25_car07_milestone-test-04.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car07_milestone-test/tt_ig_2026w25_car07_milestone-test-05.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car07_milestone-test/tt_ig_2026w25_car07_milestone-test-06.jpg"
+  ],
+  "caption": "If every awake window feels like a checklist, tummy time will start feeling heavier than it needs to. One safe, supervised, tiny moment is enough to build from.\n\nSave this before the next wake window.",
+  "caption_issues": [],
+  "visual_qa": {
+    "status": "passed",
+    "reference": {
+      "dir": "assets/reference/tummy-time",
+      "status": "ready",
+      "median": {
+        "aspect_ratio": 0.8002853067047075,
+        "brightness": 213.585,
+        "contrast": 29.05,
+        "saturation": 56.75,
+        "edge_density": 38.94,
+        "dark_ratio": 0.0038
+      }
+    },
+    "issues": [],
+    "slides": [
+      {
+        "index": 1,
+        "path": "public/publish/tt/tt_ig_2026w25_car07_milestone-test/tt_ig_2026w25_car07_milestone-test-01.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car07_milestone-test/tt_ig_2026w25_car07_milestone-test-01.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            228.54,
+            206.75,
+            176.6
+          ],
+          "brightness": 209.84,
+          "contrast": 32.34,
+          "saturation": 57.85,
+          "edge_density": 46.26,
+          "dark_ratio": 0.0029
+        },
+        "vision": {
+          "edgeTextCount": 0,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car07_milestone-test/tt_ig_2026w25_car07_milestone-test-01.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.07417974322396581,
+                "width": 0.5222816399286988,
+                "x": 0.24955436720142601,
+                "y": 0.7211126961483595
+              },
+              "confidence": 0.5,
+              "text": "Stop treating"
+            },
+            {
+              "box": {
+                "height": 0.07275320970042798,
+                "width": 0.786096256684492,
+                "x": 0.1319073083778966,
+                "y": 0.6440798858773181
+              },
+              "confidence": 0.5,
+              "text": "every awake window"
+            },
+            {
+              "box": {
+                "height": 0.05706134094151205,
+                "width": 0.7575757575757576,
+                "x": 0.1408199643493761,
+                "y": 0.5827389443651926
+              },
+              "confidence": 0.5,
+              "text": "like a milestone test."
+            }
+          ],
+          "textCount": 3,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 2,
+        "path": "public/publish/tt/tt_ig_2026w25_car07_milestone-test/tt_ig_2026w25_car07_milestone-test-02.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car07_milestone-test/tt_ig_2026w25_car07_milestone-test-02.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            230.6,
+            208.51,
+            177.68
+          ],
+          "brightness": 211.61,
+          "contrast": 31.18,
+          "saturation": 58.62,
+          "edge_density": 39.0,
+          "dark_ratio": 0.0007
+        },
+        "vision": {
+          "edgeTextCount": 0,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car07_milestone-test/tt_ig_2026w25_car07_milestone-test-02.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.07275320970042798,
+                "width": 0.5846702317290552,
+                "x": 0.22103386809269163,
+                "y": 0.7125534950071326
+              },
+              "confidence": 0.5,
+              "text": "Your baby needs"
+            },
+            {
+              "box": {
+                "height": 0.07275320970042798,
+                "width": 0.7415329768270945,
+                "x": 0.15151515151515152,
+                "y": 0.6398002853067046
+              },
+              "confidence": 0.5,
+              "text": "rhythm, not pressure."
+            }
+          ],
+          "textCount": 2,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 3,
+        "path": "public/publish/tt/tt_ig_2026w25_car07_milestone-test/tt_ig_2026w25_car07_milestone-test-03.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car07_milestone-test/tt_ig_2026w25_car07_milestone-test-03.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            231.32,
+            207.23,
+            173.69
+          ],
+          "brightness": 210.59,
+          "contrast": 27.82,
+          "saturation": 63.77,
+          "edge_density": 36.51,
+          "dark_ratio": 0.0015
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car07_milestone-test/tt_ig_2026w25_car07_milestone-test-03.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.015691868758915817,
+                "width": 0.1292335115864528,
+                "x": 0.43493761140819964,
+                "y": 0.8309557774607703
+              },
+              "confidence": 0.5,
+              "text": "TRY THIS"
+            },
+            {
+              "box": {
+                "height": 0.05563480741797433,
+                "width": 0.5258467023172906,
+                "x": 0.24598930481283424,
+                "y": 0.7353780313837375
+              },
+              "confidence": 0.5,
+              "text": "Pick one small"
+            },
+            {
+              "box": {
+                "height": 0.05563480741797422,
+                "width": 0.5169340463458111,
+                "x": 0.2549019607843137,
+                "y": 0.6640513552068474
+              },
+              "confidence": 0.5,
+              "text": "floor moment."
+            },
+            {
+              "box": {
+                "height": 0.022111269614836004,
+                "width": 0.44206773618538325,
+                "x": 0.2789661319073084,
+                "y": 0.6048502139800285
+              },
+              "confidence": 0.5,
+              "text": "One tiny action is enough for today."
+            },
+            {
+              "box": {
+                "height": 0.004279600570613384,
+                "width": 0.0089126559714795,
+                "x": 0.714795008912656,
+                "y": 0.2653352353780314
+              },
+              "confidence": 0.5,
+              "text": "*Y"
+            },
+            {
+              "box": {
+                "height": 0.019971469329529312,
+                "width": 0.3163992869875223,
+                "x": 0.3342245989304813,
+                "y": 0.05278174037089867
+              },
+              "confidence": 0.5,
+              "text": "Tummy Time: Baby Activities"
+            }
+          ],
+          "textCount": 6,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 4,
+        "path": "public/publish/tt/tt_ig_2026w25_car07_milestone-test/tt_ig_2026w25_car07_milestone-test-04.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car07_milestone-test/tt_ig_2026w25_car07_milestone-test-04.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            230.44,
+            206.66,
+            175.28
+          ],
+          "brightness": 210.22,
+          "contrast": 35.55,
+          "saturation": 62.76,
+          "edge_density": 36.73,
+          "dark_ratio": 0.02
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [
+            {
+              "height": 0.10284192115068436,
+              "width": 0.12850657105445862,
+              "x": 0.4655454456806183,
+              "y": 0.3749856650829315
+            },
+            {
+              "height": 0.06789156794548035,
+              "width": 0.08483421057462692,
+              "x": 0.4756198823451996,
+              "y": 0.28753662109375
+            }
+          ],
+          "faceCount": 2,
+          "handCount": 1,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car07_milestone-test/tt_ig_2026w25_car07_milestone-test-04.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.016405135520684788,
+                "width": 0.12834224598930483,
+                "x": 0.43672014260249553,
+                "y": 0.8509272467902995
+              },
+              "confidence": 0.5,
+              "text": "TRY THIS"
+            },
+            {
+              "box": {
+                "height": 0.06704707560627687,
+                "width": 0.48484848484848486,
+                "x": 0.2638146167557932,
+                "y": 0.7396576319543509
+              },
+              "confidence": 0.5,
+              "text": "Stay close and"
+            },
+            {
+              "box": {
+                "height": 0.06704707560627665,
+                "width": 0.6702317290552584,
+                "x": 0.16755793226381463,
+                "y": 0.6726105563480742
+              },
+              "confidence": 0.5,
+              "text": "keep your voice soft."
+            },
+            {
+              "box": {
+                "height": 0.022824536376604865,
+                "width": 0.4581105169340463,
+                "x": 0.2709447415329768,
+                "y": 0.6312410841654779
+              },
+              "confidence": 0.5,
+              "text": "One tiny action is enough for today."
+            },
+            {
+              "box": {
+                "height": 0.01854493580599148,
+                "width": 0.3484848484848485,
+                "x": 0.3431372549019608,
+                "y": 0.040656205420827374
+              },
+              "confidence": 0.5,
+              "text": "Tummy Time: Baby Activities F,,,."
+            }
+          ],
+          "textCount": 5,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 5,
+        "path": "public/publish/tt/tt_ig_2026w25_car07_milestone-test/tt_ig_2026w25_car07_milestone-test-05.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car07_milestone-test/tt_ig_2026w25_car07_milestone-test-05.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            229.75,
+            204.35,
+            170.39
+          ],
+          "brightness": 208.08,
+          "contrast": 28.65,
+          "saturation": 66.18,
+          "edge_density": 39.81,
+          "dark_ratio": 0.0015
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [
+            {
+              "height": 0.11805935204029083,
+              "width": 0.14752158522605896,
+              "x": 0.2325790375471115,
+              "y": 0.3230147361755371
+            }
+          ],
+          "faceCount": 1,
+          "handCount": 2,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car07_milestone-test/tt_ig_2026w25_car07_milestone-test-05.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.01711840228245365,
+                "width": 0.24688057040998213,
+                "x": 0.38146167557932265,
+                "y": 0.8430813124108416
+              },
+              "confidence": 0.5,
+              "text": "WATCH FOR THIS"
+            },
+            {
+              "box": {
+                "height": 0.05420827389443661,
+                "width": 0.46702317290552586,
+                "x": 0.27450980392156865,
+                "y": 0.7510699001426533
+              },
+              "confidence": 0.5,
+              "text": "End before it"
+            },
+            {
+              "box": {
+                "height": 0.06704707560627665,
+                "width": 0.6470588235294117,
+                "x": 0.19429590017825313,
+                "y": 0.6640513552068474
+              },
+              "confidence": 0.5,
+              "text": "turns into proving."
+            },
+            {
+              "box": {
+                "height": 0.023537803138373725,
+                "width": 0.4616755793226382,
+                "x": 0.27718360071301246,
+                "y": 0.62339514978602
+              },
+              "confidence": 0.5,
+              "text": "Follow your baby's cues, not a timer."
+            },
+            {
+              "box": {
+                "height": 0.020684736091298173,
+                "width": 0.31907308377896615,
+                "x": 0.339572192513369,
+                "y": 0.05278174037089867
+              },
+              "confidence": 0.5,
+              "text": "Tummy Time: Baby Activities"
+            }
+          ],
+          "textCount": 5,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 6,
+        "path": "public/publish/tt/tt_ig_2026w25_car07_milestone-test/tt_ig_2026w25_car07_milestone-test-06.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car07_milestone-test/tt_ig_2026w25_car07_milestone-test-06.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            231.0,
+            207.95,
+            177.7
+          ],
+          "brightness": 211.39,
+          "contrast": 29.19,
+          "saturation": 59.17,
+          "edge_density": 40.65,
+          "dark_ratio": 0.0022
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car07_milestone-test/tt_ig_2026w25_car07_milestone-test-06.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.015691868758915817,
+                "width": 0.20499108734402854,
+                "x": 0.39750445632798576,
+                "y": 0.8238231098430813
+              },
+              "confidence": 0.5,
+              "text": "OPEN THE APP"
+            },
+            {
+              "box": {
+                "height": 0.05848787446504988,
+                "width": 0.4795008912655972,
+                "x": 0.2709447415329768,
+                "y": 0.7310984308131241
+              },
+              "confidence": 0.5,
+              "text": "Save this for"
+            },
+            {
+              "box": {
+                "height": 0.058487874465049994,
+                "width": 0.5454545454545454,
+                "x": 0.23885918003565063,
+                "y": 0.6597717546362339
+              },
+              "confidence": 0.5,
+              "text": "a calmer start."
+            },
+            {
+              "box": {
+                "height": 0.01783166904422251,
+                "width": 0.4661319073083779,
+                "x": 0.26737967914438504,
+                "y": 0.6105563480741798
+              },
+              "confidence": 0.5,
+              "text": "Save this for the next awake window."
+            },
+            {
+              "box": {
+                "height": 0.0199714693295292,
+                "width": 0.3645276292335116,
+                "x": 0.3181818181818182,
+                "y": 0.05777460770328102
+              },
+              "confidence": 0.5,
+              "text": "Screen-free, simple, no pressure."
+            }
+          ],
+          "textCount": 5,
+          "width": 1122
+        },
+        "issues": []
+      }
+    ]
+  },
+  "visual_qa_issues": [],
+  "url_issues": [],
+  "url_probes": [
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car07_milestone-test/tt_ig_2026w25_car07_milestone-test-01.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car07_milestone-test/tt_ig_2026w25_car07_milestone-test-02.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car07_milestone-test/tt_ig_2026w25_car07_milestone-test-03.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car07_milestone-test/tt_ig_2026w25_car07_milestone-test-04.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car07_milestone-test/tt_ig_2026w25_car07_milestone-test-05.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car07_milestone-test/tt_ig_2026w25_car07_milestone-test-06.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    }
+  ],
+  "cleaned_bundles": [],
+  "publish_host_sync": {
+    "attempted": true,
+    "provider": "github_pages",
+    "repo": "marccc127/tummy-time-publish-assets",
+    "branch": "gh-pages",
+    "changed": true,
+    "commit": "236f808b58214a1eed7ba3acd0df0cf81cabee9a",
+    "push_stdout": ""
+  }
+}
