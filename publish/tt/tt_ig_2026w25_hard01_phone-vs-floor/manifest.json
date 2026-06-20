@@ -1,0 +1,576 @@
+{
+  "manifest_version": 1,
+  "generated_at": "2026-06-20T22:02:17.832269+00:00",
+  "account_id": "tt",
+  "content_id": "tt_ig_2026w25_hard01_phone-vs-floor",
+  "channel": "carousel",
+  "source_dir": "review/tt/tt_ig_2026w25_hard01_phone-vs-floor",
+  "normalized_files": [
+    "public/publish/tt/tt_ig_2026w25_hard01_phone-vs-floor/tt_ig_2026w25_hard01_phone-vs-floor-01.jpg",
+    "public/publish/tt/tt_ig_2026w25_hard01_phone-vs-floor/tt_ig_2026w25_hard01_phone-vs-floor-02.jpg",
+    "public/publish/tt/tt_ig_2026w25_hard01_phone-vs-floor/tt_ig_2026w25_hard01_phone-vs-floor-03.jpg",
+    "public/publish/tt/tt_ig_2026w25_hard01_phone-vs-floor/tt_ig_2026w25_hard01_phone-vs-floor-04.jpg"
+  ],
+  "relative_urls": [
+    "/publish/tt/tt_ig_2026w25_hard01_phone-vs-floor/tt_ig_2026w25_hard01_phone-vs-floor-01.jpg",
+    "/publish/tt/tt_ig_2026w25_hard01_phone-vs-floor/tt_ig_2026w25_hard01_phone-vs-floor-02.jpg",
+    "/publish/tt/tt_ig_2026w25_hard01_phone-vs-floor/tt_ig_2026w25_hard01_phone-vs-floor-03.jpg",
+    "/publish/tt/tt_ig_2026w25_hard01_phone-vs-floor/tt_ig_2026w25_hard01_phone-vs-floor-04.jpg"
+  ],
+  "local_preview_urls": [
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_hard01_phone-vs-floor/tt_ig_2026w25_hard01_phone-vs-floor-01.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_hard01_phone-vs-floor/tt_ig_2026w25_hard01_phone-vs-floor-02.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_hard01_phone-vs-floor/tt_ig_2026w25_hard01_phone-vs-floor-03.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_hard01_phone-vs-floor/tt_ig_2026w25_hard01_phone-vs-floor-04.jpg"
+  ],
+  "public_asset_urls": [
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_hard01_phone-vs-floor/tt_ig_2026w25_hard01_phone-vs-floor-01.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_hard01_phone-vs-floor/tt_ig_2026w25_hard01_phone-vs-floor-02.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_hard01_phone-vs-floor/tt_ig_2026w25_hard01_phone-vs-floor-03.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_hard01_phone-vs-floor/tt_ig_2026w25_hard01_phone-vs-floor-04.jpg"
+  ],
+  "caption": "You do not need a perfect tummy time routine. You need one tiny repeatable moment. Put the blanket down, stay close, and stop before it becomes a battle.\n\nSave this for tomorrow's first awake window.",
+  "caption_issues": [],
+  "visual_qa": {
+    "status": "passed",
+    "reference": {
+      "dir": "assets/reference/tummy-time",
+      "status": "ready",
+      "median": {
+        "aspect_ratio": 0.8002853067047075,
+        "brightness": 213.06,
+        "contrast": 28.994999999999997,
+        "saturation": 57.89,
+        "edge_density": 38.485,
+        "dark_ratio": 0.0045000000000000005
+      }
+    },
+    "issues": [],
+    "slides": [
+      {
+        "index": 1,
+        "path": "public/publish/tt/tt_ig_2026w25_hard01_phone-vs-floor/tt_ig_2026w25_hard01_phone-vs-floor-01.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_hard01_phone-vs-floor/tt_ig_2026w25_hard01_phone-vs-floor-01.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            228.7,
+            219.81,
+            198.93
+          ],
+          "brightness": 220.11,
+          "contrast": 40.76,
+          "saturation": 34.02,
+          "edge_density": 50.37,
+          "dark_ratio": 0.0161
+        },
+        "vision": {
+          "edgeTextCount": 0,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_hard01_phone-vs-floor/tt_ig_2026w25_hard01_phone-vs-floor-01.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.014978601997146845,
+                "width": 0.2281639928698752,
+                "x": 0.12121212121212122,
+                "y": 0.8972895863052782
+              },
+              "confidence": 0.5,
+              "text": "TUMMY TIME"
+            },
+            {
+              "box": {
+                "height": 0.04636233951497859,
+                "width": 0.6577540106951871,
+                "x": 0.11853832442067737,
+                "y": 0.8266761768901569
+              },
+              "confidence": 0.5,
+              "text": "You remembered"
+            },
+            {
+              "box": {
+                "height": 0.058487874465049994,
+                "width": 0.679144385026738,
+                "x": 0.11942959001782531,
+                "y": 0.7582025677603423
+              },
+              "confidence": 0.5,
+              "text": "your phone today."
+            },
+            {
+              "box": {
+                "height": 0.05848787446504988,
+                "width": 0.2887700534759358,
+                "x": 0.12299465240641712,
+                "y": 0.7025677603423681
+              },
+              "confidence": 0.5,
+              "text": "Did you"
+            },
+            {
+              "box": {
+                "height": 0.05777460770328102,
+                "width": 0.6844919786096257,
+                "x": 0.12210338680926916,
+                "y": 0.6469329529243937
+              },
+              "confidence": 0.5,
+              "text": "remember tummy"
+            },
+            {
+              "box": {
+                "height": 0.04564907275320962,
+                "width": 0.20766488413547235,
+                "x": 0.12121212121212122,
+                "y": 0.6027104136947219
+              },
+              "confidence": 0.5,
+              "text": "time?"
+            },
+            {
+              "box": {
+                "height": 0.021398002853066922,
+                "width": 0.4376114081996435,
+                "x": 0.12210338680926916,
+                "y": 0.5492154065620543
+              },
+              "confidence": 0.5,
+              "text": "One calm minute is enough to start."
+            }
+          ],
+          "textCount": 7,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 2,
+        "path": "public/publish/tt/tt_ig_2026w25_hard01_phone-vs-floor/tt_ig_2026w25_hard01_phone-vs-floor-02.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_hard01_phone-vs-floor/tt_ig_2026w25_hard01_phone-vs-floor-02.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            236.26,
+            225.57,
+            203.95
+          ],
+          "brightness": 226.27,
+          "contrast": 34.08,
+          "saturation": 35.99,
+          "edge_density": 43.64,
+          "dark_ratio": 0.0107
+        },
+        "vision": {
+          "edgeTextCount": 2,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_hard01_phone-vs-floor/tt_ig_2026w25_hard01_phone-vs-floor-02.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.017118402282453538,
+                "width": 0.2540106951871658,
+                "x": 0.3698752228163993,
+                "y": 0.891583452211127
+              },
+              "confidence": 0.5,
+              "text": "START SMALL"
+            },
+            {
+              "box": {
+                "height": 0.04564907275320973,
+                "width": 0.7950089126559715,
+                "x": 0.10338680926916222,
+                "y": 0.8195435092724679
+              },
+              "confidence": 0.5,
+              "text": "Put the blanket down."
+            },
+            {
+              "box": {
+                "height": 0.024251069900142697,
+                "width": 0.5686274509803921,
+                "x": 0.21657754010695188,
+                "y": 0.7631954350927247
+              },
+              "confidence": 0.5,
+              "text": "Baby awake.You close by. One soft object"
+            },
+            {
+              "box": {
+                "height": 0.023537803138373836,
+                "width": 0.09803921568627455,
+                "x": 0.45098039215686275,
+                "y": 0.7353780313837375
+              },
+              "confidence": 0.5,
+              "text": "nearby."
+            },
+            {
+              "box": {
+                "height": 0.01854493580599148,
+                "width": 0.1408199643493761,
+                "x": 0.1497326203208556,
+                "y": 0.12196861626248212
+              },
+              "confidence": 0.5,
+              "text": "0 1 mlnute"
+            },
+            {
+              "box": {
+                "height": 0.01925820256776034,
+                "width": 0.15240641711229946,
+                "x": 0.42424242424242425,
+                "y": 0.12125534950071326
+              },
+              "confidence": 0.5,
+              "text": "O Stsy cl•s•"
+            },
+            {
+              "box": {
+                "height": 0.01711840228245365,
+                "width": 0.13636363636363635,
+                "x": 0.732620320855615,
+                "y": 0.12125534950071326
+              },
+              "confidence": 0.5,
+              "text": "N• pr•ssure"
+            },
+            {
+              "box": {
+                "height": 0.02781740370898711,
+                "width": 0.5231729055258467,
+                "x": 0.23796791443850268,
+                "y": 0.04564907275320973
+              },
+              "confidence": 0.5,
+              "text": "Tummy Time: Baby Activities"
+            },
+            {
+              "box": {
+                "height": 0.01783166904422251,
+                "width": 0.24242424242424243,
+                "x": 0.3787878787878788,
+                "y": 0.01925820256776034
+              },
+              "confidence": 0.5,
+              "text": "One tiny play idea a day."
+            }
+          ],
+          "textCount": 9,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 3,
+        "path": "public/publish/tt/tt_ig_2026w25_hard01_phone-vs-floor/tt_ig_2026w25_hard01_phone-vs-floor-03.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_hard01_phone-vs-floor/tt_ig_2026w25_hard01_phone-vs-floor-03.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            233.57,
+            224.04,
+            202.91
+          ],
+          "brightness": 224.49,
+          "contrast": 37.6,
+          "saturation": 34.59,
+          "edge_density": 45.9,
+          "dark_ratio": 0.0151
+        },
+        "vision": {
+          "edgeTextCount": 2,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_hard01_phone-vs-floor/tt_ig_2026w25_hard01_phone-vs-floor-03.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.017118402282453538,
+                "width": 0.213903743315508,
+                "x": 0.39037433155080214,
+                "y": 0.891583452211127
+              },
+              "confidence": 0.5,
+              "text": "LESS STUFF"
+            },
+            {
+              "box": {
+                "height": 0.05848787446504988,
+                "width": 0.7290552584670231,
+                "x": 0.1497326203208556,
+                "y": 0.8067047075606277
+              },
+              "confidence": 0.5,
+              "text": "Your baby does not_"
+            },
+            {
+              "box": {
+                "height": 0.05706134094151216,
+                "width": 0.6969696969696969,
+                "x": 0.1532976827094474,
+                "y": 0.7524964336661911
+              },
+              "confidence": 0.5,
+              "text": "need the whole toy"
+            },
+            {
+              "box": {
+                "height": 0.04564907275320973,
+                "width": 0.2620320855614973,
+                "x": 0.3689839572192513,
+                "y": 0.7111269614835949
+              },
+              "confidence": 0.5,
+              "text": "basket."
+            },
+            {
+              "box": {
+                "height": 0.024251069900142697,
+                "width": 0.6631016042780749,
+                "x": 0.16844919786096257,
+                "y": 0.6554921540656206
+              },
+              "confidence": 0.5,
+              "text": "Pick one safe object and let them notice it slowly."
+            },
+            {
+              "box": {
+                "height": 0.01925820256776034,
+                "width": 0.1639928698752228,
+                "x": 0.13814616755793227,
+                "y": 0.12125534950071326
+              },
+              "confidence": 0.5,
+              "text": "O One obJecQ"
+            },
+            {
+              "box": {
+                "height": 0.01925820256776034,
+                "width": 0.15508021390374338,
+                "x": 0.4233511586452763,
+                "y": 0.12125534950071326
+              },
+              "confidence": 0.5,
+              "text": "O Sl•w pace"
+            },
+            {
+              "box": {
+                "height": 0.01925820256776034,
+                "width": 0.13903743315508021,
+                "x": 0.7112299465240641,
+                "y": 0.12125534950071326
+              },
+              "confidence": 0.5,
+              "text": "O Baby.led"
+            },
+            {
+              "box": {
+                "height": 0.02781740370898711,
+                "width": 0.4750445632798574,
+                "x": 0.28609625668449196,
+                "y": 0.04564907275320973
+              },
+              "confidence": 0.5,
+              "text": "mmy Time: Baby ActiTrryties"
+            },
+            {
+              "box": {
+                "height": 0.01783166904422251,
+                "width": 0.24242424242424243,
+                "x": 0.3787878787878788,
+                "y": 0.01925820256776034
+              },
+              "confidence": 0.5,
+              "text": "One tiny play idea a day."
+            }
+          ],
+          "textCount": 10,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 4,
+        "path": "public/publish/tt/tt_ig_2026w25_hard01_phone-vs-floor/tt_ig_2026w25_hard01_phone-vs-floor-04.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_hard01_phone-vs-floor/tt_ig_2026w25_hard01_phone-vs-floor-04.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            238.48,
+            221.41,
+            196.61
+          ],
+          "brightness": 223.65,
+          "contrast": 29.66,
+          "saturation": 45.14,
+          "edge_density": 39.12,
+          "dark_ratio": 0.009
+        },
+        "vision": {
+          "edgeTextCount": 2,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_hard01_phone-vs-floor/tt_ig_2026w25_hard01_phone-vs-floor-04.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.017118402282453538,
+                "width": 0.22994652406417115,
+                "x": 0.38235294117647056,
+                "y": 0.891583452211127
+              },
+              "confidence": 0.5,
+              "text": "STOP EARLY"
+            },
+            {
+              "box": {
+                "height": 0.04707560627674756,
+                "width": 0.8003565062388592,
+                "x": 0.10160427807486631,
+                "y": 0.8195435092724679
+              },
+              "confidence": 0.5,
+              "text": "End before it becomes"
+            },
+            {
+              "box": {
+                "height": 0.059914407988587715,
+                "width": 0.2566844919786096,
+                "x": 0.37076648841354726,
+                "y": 0.7524964336661911
+              },
+              "confidence": 0.5,
+              "text": "a fight."
+            },
+            {
+              "box": {
+                "height": 0.024251069900142697,
+                "width": 0.6016042780748664,
+                "x": 0.19875222816399288,
+                "y": 0.7097004279600571
+              },
+              "confidence": 0.5,
+              "text": "A tiny calm win is easier to repeat tomorrow."
+            },
+            {
+              "box": {
+                "height": 0.013552068473609125,
+                "width": 0.06595365418894827,
+                "x": 0.20677361853832443,
+                "y": 0.12482168330955778
+              },
+              "confidence": 0.5,
+              "text": "Pause"
+            },
+            {
+              "box": {
+                "height": 0.01925820256776034,
+                "width": 0.13279857397504458,
+                "x": 0.43493761140819964,
+                "y": 0.12125534950071326
+              },
+              "confidence": 0.5,
+              "text": "O Try later"
+            },
+            {
+              "box": {
+                "height": 0.01854493580599148,
+                "width": 0.14884135472370763,
+                "x": 0.7067736185383244,
+                "y": 0.12196861626248212
+              },
+              "confidence": 0.5,
+              "text": "O C•lebrate"
+            },
+            {
+              "box": {
+                "height": 0.02781740370898711,
+                "width": 0.4750445632798574,
+                "x": 0.28609625668449196,
+                "y": 0.04564907275320973
+              },
+              "confidence": 0.5,
+              "text": "mmyTime: Baby Activities"
+            },
+            {
+              "box": {
+                "height": 0.01783166904422251,
+                "width": 0.24242424242424243,
+                "x": 0.3787878787878788,
+                "y": 0.01925820256776034
+              },
+              "confidence": 0.5,
+              "text": "One tiny play idea a day."
+            }
+          ],
+          "textCount": 9,
+          "width": 1122
+        },
+        "issues": []
+      }
+    ]
+  },
+  "visual_qa_issues": [],
+  "url_issues": [],
+  "url_probes": [
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_hard01_phone-vs-floor/tt_ig_2026w25_hard01_phone-vs-floor-01.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_hard01_phone-vs-floor/tt_ig_2026w25_hard01_phone-vs-floor-02.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_hard01_phone-vs-floor/tt_ig_2026w25_hard01_phone-vs-floor-03.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_hard01_phone-vs-floor/tt_ig_2026w25_hard01_phone-vs-floor-04.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    }
+  ],
+  "cleaned_bundles": [],
+  "publish_host_sync": {
+    "attempted": true,
+    "provider": "github_pages",
+    "repo": "marccc127/tummy-time-publish-assets",
+    "branch": "gh-pages",
+    "changed": true,
+    "commit": "6d746e75393d10d59dabfee506e52f64d870c80f",
+    "push_stdout": ""
+  }
+}
