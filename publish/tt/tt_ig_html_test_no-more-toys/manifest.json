@@ -1,0 +1,546 @@
+{
+  "manifest_version": 1,
+  "generated_at": "2026-06-20T20:16:19.741787+00:00",
+  "account_id": "tt",
+  "content_id": "tt_ig_html_test_no-more-toys",
+  "channel": "carousel",
+  "source_dir": "review/tt/tt_ig_html_test_no-more-toys",
+  "normalized_files": [
+    "public/publish/tt/tt_ig_html_test_no-more-toys/tt_ig_html_test_no-more-toys-01.jpg",
+    "public/publish/tt/tt_ig_html_test_no-more-toys/tt_ig_html_test_no-more-toys-02.jpg",
+    "public/publish/tt/tt_ig_html_test_no-more-toys/tt_ig_html_test_no-more-toys-03.jpg",
+    "public/publish/tt/tt_ig_html_test_no-more-toys/tt_ig_html_test_no-more-toys-04.jpg"
+  ],
+  "relative_urls": [
+    "/publish/tt/tt_ig_html_test_no-more-toys/tt_ig_html_test_no-more-toys-01.jpg",
+    "/publish/tt/tt_ig_html_test_no-more-toys/tt_ig_html_test_no-more-toys-02.jpg",
+    "/publish/tt/tt_ig_html_test_no-more-toys/tt_ig_html_test_no-more-toys-03.jpg",
+    "/publish/tt/tt_ig_html_test_no-more-toys/tt_ig_html_test_no-more-toys-04.jpg"
+  ],
+  "local_preview_urls": [
+    "http://127.0.0.1:3000/publish/tt/tt_ig_html_test_no-more-toys/tt_ig_html_test_no-more-toys-01.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_html_test_no-more-toys/tt_ig_html_test_no-more-toys-02.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_html_test_no-more-toys/tt_ig_html_test_no-more-toys-03.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_html_test_no-more-toys/tt_ig_html_test_no-more-toys-04.jpg"
+  ],
+  "public_asset_urls": [
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_html_test_no-more-toys/tt_ig_html_test_no-more-toys-01.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_html_test_no-more-toys/tt_ig_html_test_no-more-toys-02.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_html_test_no-more-toys/tt_ig_html_test_no-more-toys-03.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_html_test_no-more-toys/tt_ig_html_test_no-more-toys-04.jpg"
+  ],
+  "caption": "You do not need more baby toys for tummy time. Start with one calm object, stay close, and stop before it becomes a struggle. Save this for your next awake window.",
+  "caption_issues": [],
+  "visual_qa": {
+    "status": "passed",
+    "reference": {
+      "dir": "assets/reference/tummy-time",
+      "status": "ready",
+      "median": {
+        "aspect_ratio": 0.8002853067047075,
+        "brightness": 213.06,
+        "contrast": 28.994999999999997,
+        "saturation": 57.89,
+        "edge_density": 38.485,
+        "dark_ratio": 0.0045000000000000005
+      }
+    },
+    "issues": [],
+    "slides": [
+      {
+        "index": 1,
+        "path": "public/publish/tt/tt_ig_html_test_no-more-toys/tt_ig_html_test_no-more-toys-01.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_html_test_no-more-toys/tt_ig_html_test_no-more-toys-01.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            236.92,
+            218.58,
+            193.23
+          ],
+          "brightness": 221.14,
+          "contrast": 34.71,
+          "saturation": 48.12,
+          "edge_density": 38.65,
+          "dark_ratio": 0.0176
+        },
+        "vision": {
+          "edgeTextCount": 0,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_html_test_no-more-toys/tt_ig_html_test_no-more-toys-01.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.01711840228245365,
+                "width": 0.2531194295900179,
+                "x": 0.3698752228163993,
+                "y": 0.8922967189728959
+              },
+              "confidence": 0.5,
+              "text": "TUMMY TIME"
+            },
+            {
+              "box": {
+                "height": 0.04564907275320973,
+                "width": 0.6987522281639929,
+                "x": 0.1497326203208556,
+                "y": 0.8195435092724679
+              },
+              "confidence": 0.5,
+              "text": "Your bab does not"
+            },
+            {
+              "box": {
+                "height": 0.0442225392296719,
+                "width": 0.3582887700534759,
+                "x": 0.10249554367201426,
+                "y": 0.7660485021398002
+              },
+              "confidence": 0.5,
+              "text": "need anot"
+            },
+            {
+              "box": {
+                "height": 0.059914407988587715,
+                "width": 0.3885918003565063,
+                "x": 0.5098039215686274,
+                "y": 0.7524964336661911
+              },
+              "confidence": 0.5,
+              "text": "er toy pile."
+            },
+            {
+              "box": {
+                "height": 0.024251069900142697,
+                "width": 0.5383244206773619,
+                "x": 0.22994652406417113,
+                "y": 0.7061340941512125
+              },
+              "confidence": 0.5,
+              "text": "A calmer setup usually beats more stuff."
+            }
+          ],
+          "textCount": 5,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 2,
+        "path": "public/publish/tt/tt_ig_html_test_no-more-toys/tt_ig_html_test_no-more-toys-02.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_html_test_no-more-toys/tt_ig_html_test_no-more-toys-02.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            234.62,
+            218.27,
+            192.08
+          ],
+          "brightness": 220.16,
+          "contrast": 34.88,
+          "saturation": 47.5,
+          "edge_density": 42.38,
+          "dark_ratio": 0.0151
+        },
+        "vision": {
+          "edgeTextCount": 2,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_html_test_no-more-toys/tt_ig_html_test_no-more-toys-02.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.01783166904422251,
+                "width": 0.3110516934046346,
+                "x": 0.3413547237076649,
+                "y": 0.8922967189728959
+              },
+              "confidence": 0.5,
+              "text": "START SMALLER"
+            },
+            {
+              "box": {
+                "height": 0.059914407988587715,
+                "width": 0.5115864527629232,
+                "x": 0.24420677361853832,
+                "y": 0.8067047075606277
+              },
+              "confidence": 0.5,
+              "text": "One soft thing"
+            },
+            {
+              "box": {
+                "height": 0.05848787446504988,
+                "width": 0.64349376114082,
+                "x": 0.17825311942959002,
+                "y": 0.753922967189729
+              },
+              "confidence": 0.5,
+              "text": "nearby is enough."
+            },
+            {
+              "box": {
+                "height": 0.024251069900142697,
+                "width": 0.590017825311943,
+                "x": 0.20499108734402852,
+                "y": 0.7061340941512125
+              },
+              "confidence": 0.5,
+              "text": "Let your baby notice. reach, pause, and rest."
+            },
+            {
+              "box": {
+                "height": 0.01925820256776034,
+                "width": 0.1497326203208556,
+                "x": 0.1497326203208556,
+                "y": 0.12553495007132665
+              },
+              "confidence": 0.5,
+              "text": "O Low prep"
+            },
+            {
+              "box": {
+                "height": 0.01854493580599137,
+                "width": 0.1746880570409982,
+                "x": 0.41354723707664887,
+                "y": 0.12624821683309562
+              },
+              "confidence": 0.5,
+              "text": "O Scre•n4ree"
+            },
+            {
+              "box": {
+                "height": 0.01925820256776034,
+                "width": 0.14349376114082002,
+                "x": 0.7049910873440285,
+                "y": 0.12553495007132665
+              },
+              "confidence": 0.5,
+              "text": "O Baby.led"
+            },
+            {
+              "box": {
+                "height": 0.02853067047075608,
+                "width": 0.18181818181818177,
+                "x": 0.5677361853832442,
+                "y": 0.04778887303851642
+              },
+              "confidence": 0.5,
+              "text": "y Activitie"
+            },
+            {
+              "box": {
+                "height": 0.022111269614836004,
+                "width": 0.18627450980392157,
+                "x": 0.43493761140819964,
+                "y": 0.01925820256776034
+              },
+              "confidence": 0.5,
+              "text": "Inylp ay idea a day."
+            }
+          ],
+          "textCount": 9,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 3,
+        "path": "public/publish/tt/tt_ig_html_test_no-more-toys/tt_ig_html_test_no-more-toys-03.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_html_test_no-more-toys/tt_ig_html_test_no-more-toys-03.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            235.31,
+            217.74,
+            191.19
+          ],
+          "brightness": 219.97,
+          "contrast": 34.81,
+          "saturation": 48.83,
+          "edge_density": 45.41,
+          "dark_ratio": 0.0181
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_html_test_no-more-toys/tt_ig_html_test_no-more-toys-03.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.01783166904422251,
+                "width": 0.29946524064171126,
+                "x": 0.34759358288770054,
+                "y": 0.8922967189728959
+              },
+              "confidence": 0.5,
+              "text": "LESS PRESSURE"
+            },
+            {
+              "box": {
+                "height": 0.059914407988587715,
+                "width": 0.7593582887700535,
+                "x": 0.11942959001782531,
+                "y": 0.8067047075606277
+              },
+              "confidence": 0.5,
+              "text": "Stop turning practice"
+            },
+            {
+              "box": {
+                "height": 0.05848787446504988,
+                "width": 0.7049910873440285,
+                "x": 0.14795008912655971,
+                "y": 0.753922967189729
+              },
+              "confidence": 0.5,
+              "text": "into a performance."
+            },
+            {
+              "box": {
+                "height": 0.024251069900142697,
+                "width": 0.6345811051693404,
+                "x": 0.18270944741532977,
+                "y": 0.7061340941512125
+              },
+              "confidence": 0.5,
+              "text": "Short, calm repeats help tummy time feel safer."
+            },
+            {
+              "box": {
+                "height": 0.008559201141226769,
+                "width": 0.02049910873440286,
+                "x": 0.8351158645276292,
+                "y": 0.2011412268188303
+              },
+              "confidence": 0.5,
+              "text": "<Y4"
+            },
+            {
+              "box": {
+                "height": 0.01925820256776034,
+                "width": 0.1568627450980392,
+                "x": 0.14616755793226383,
+                "y": 0.12553495007132665
+              },
+              "confidence": 0.5,
+              "text": "O Stay cl•s•"
+            },
+            {
+              "box": {
+                "height": 0.01854493580599137,
+                "width": 0.17201426024955435,
+                "x": 0.4144385026737968,
+                "y": 0.12624821683309562
+              },
+              "confidence": 0.5,
+              "text": "O Watth cues"
+            },
+            {
+              "box": {
+                "height": 0.01925820256776034,
+                "width": 0.11497326203208558,
+                "x": 0.7379679144385026,
+                "y": 0.12553495007132665
+              },
+              "confidence": 0.5,
+              "text": "Tinywins"
+            },
+            {
+              "box": {
+                "height": 0.033523537803138326,
+                "width": 0.39304812834224595,
+                "x": 0.40641711229946526,
+                "y": 0.04778887303851642
+              },
+              "confidence": 0.5,
+              "text": "ime: BabyAttivitles .'"
+            }
+          ],
+          "textCount": 9,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 4,
+        "path": "public/publish/tt/tt_ig_html_test_no-more-toys/tt_ig_html_test_no-more-toys-04.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_html_test_no-more-toys/tt_ig_html_test_no-more-toys-04.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            238.47,
+            220.71,
+            195.4
+          ],
+          "brightness": 223.11,
+          "contrast": 31.79,
+          "saturation": 46.92,
+          "edge_density": 38.74,
+          "dark_ratio": 0.0134
+        },
+        "vision": {
+          "edgeTextCount": 2,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_html_test_no-more-toys/tt_ig_html_test_no-more-toys-04.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.01783166904422251,
+                "width": 0.22370766488413552,
+                "x": 0.3850267379679144,
+                "y": 0.8922967189728959
+              },
+              "confidence": 0.5,
+              "text": "TINY RESET"
+            },
+            {
+              "box": {
+                "height": 0.04707560627674756,
+                "width": 0.4616755793226382,
+                "x": 0.2709447415329768,
+                "y": 0.8195435092724679
+              },
+              "confidence": 0.5,
+              "text": "End before it"
+            },
+            {
+              "box": {
+                "height": 0.05848787446504988,
+                "width": 0.5935828877005347,
+                "x": 0.20320855614973263,
+                "y": 0.753922967189729
+              },
+              "confidence": 0.5,
+              "text": "becomes a fight."
+            },
+            {
+              "box": {
+                "height": 0.024251069900142697,
+                "width": 0.642602495543672,
+                "x": 0.17825311942959002,
+                "y": 0.7061340941512125
+              },
+              "confidence": 0.5,
+              "text": "Save the next awake window for one gentle try."
+            },
+            {
+              "box": {
+                "height": 0.01925820256776034,
+                "width": 0.16042780748663102,
+                "x": 0.1443850267379679,
+                "y": 0.12553495007132665
+              },
+              "confidence": 0.5,
+              "text": "O St•p •arly"
+            },
+            {
+              "box": {
+                "height": 0.01925820256776034,
+                "width": 0.1363636363636363,
+                "x": 0.43315508021390375,
+                "y": 0.12553495007132665
+              },
+              "confidence": 0.5,
+              "text": "O Try later"
+            },
+            {
+              "box": {
+                "height": 0.01854493580599137,
+                "width": 0.15418894830659546,
+                "x": 0.6996434937611408,
+                "y": 0.12624821683309562
+              },
+              "confidence": 0.5,
+              "text": "O Celebrate"
+            },
+            {
+              "box": {
+                "height": 0.02853067047075608,
+                "width": 0.4866310160427807,
+                "x": 0.2807486631016043,
+                "y": 0.04778887303851642
+              },
+              "confidence": 0.5,
+              "text": "mmy Time: Baby Activities"
+            },
+            {
+              "box": {
+                "height": 0.01783166904422251,
+                "width": 0.24242424242424243,
+                "x": 0.3787878787878788,
+                "y": 0.01925820256776034
+              },
+              "confidence": 0.5,
+              "text": "One tiny play idea a day."
+            }
+          ],
+          "textCount": 9,
+          "width": 1122
+        },
+        "issues": []
+      }
+    ]
+  },
+  "visual_qa_issues": [],
+  "url_issues": [],
+  "url_probes": [
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_html_test_no-more-toys/tt_ig_html_test_no-more-toys-01.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_html_test_no-more-toys/tt_ig_html_test_no-more-toys-02.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_html_test_no-more-toys/tt_ig_html_test_no-more-toys-03.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_html_test_no-more-toys/tt_ig_html_test_no-more-toys-04.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    }
+  ],
+  "cleaned_bundles": [],
+  "publish_host_sync": {
+    "attempted": true,
+    "provider": "github_pages",
+    "repo": "marccc127/tummy-time-publish-assets",
+    "branch": "gh-pages",
+    "changed": true,
+    "commit": "ac0c6abd74af8f0ee2f363cebe60a213f3dd45a0",
+    "push_stdout": ""
+  }
+}
