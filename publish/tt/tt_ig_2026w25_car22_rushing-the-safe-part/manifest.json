@@ -1,0 +1,611 @@
+{
+  "manifest_version": 1,
+  "generated_at": "2026-06-20T15:00:33.223331+00:00",
+  "account_id": "tt",
+  "content_id": "tt_ig_2026w25_car22_rushing-the-safe-part",
+  "channel": "carousel",
+  "source_dir": "review/tt/tt_ig_2026w25_car22_rushing-the-safe-part",
+  "normalized_files": [
+    "public/publish/tt/tt_ig_2026w25_car22_rushing-the-safe-part/tt_ig_2026w25_car22_rushing-the-safe-part-01.jpg",
+    "public/publish/tt/tt_ig_2026w25_car22_rushing-the-safe-part/tt_ig_2026w25_car22_rushing-the-safe-part-02.jpg",
+    "public/publish/tt/tt_ig_2026w25_car22_rushing-the-safe-part/tt_ig_2026w25_car22_rushing-the-safe-part-03.jpg",
+    "public/publish/tt/tt_ig_2026w25_car22_rushing-the-safe-part/tt_ig_2026w25_car22_rushing-the-safe-part-04.jpg",
+    "public/publish/tt/tt_ig_2026w25_car22_rushing-the-safe-part/tt_ig_2026w25_car22_rushing-the-safe-part-05.jpg",
+    "public/publish/tt/tt_ig_2026w25_car22_rushing-the-safe-part/tt_ig_2026w25_car22_rushing-the-safe-part-06.jpg"
+  ],
+  "relative_urls": [
+    "/publish/tt/tt_ig_2026w25_car22_rushing-the-safe-part/tt_ig_2026w25_car22_rushing-the-safe-part-01.jpg",
+    "/publish/tt/tt_ig_2026w25_car22_rushing-the-safe-part/tt_ig_2026w25_car22_rushing-the-safe-part-02.jpg",
+    "/publish/tt/tt_ig_2026w25_car22_rushing-the-safe-part/tt_ig_2026w25_car22_rushing-the-safe-part-03.jpg",
+    "/publish/tt/tt_ig_2026w25_car22_rushing-the-safe-part/tt_ig_2026w25_car22_rushing-the-safe-part-04.jpg",
+    "/publish/tt/tt_ig_2026w25_car22_rushing-the-safe-part/tt_ig_2026w25_car22_rushing-the-safe-part-05.jpg",
+    "/publish/tt/tt_ig_2026w25_car22_rushing-the-safe-part/tt_ig_2026w25_car22_rushing-the-safe-part-06.jpg"
+  ],
+  "local_preview_urls": [
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car22_rushing-the-safe-part/tt_ig_2026w25_car22_rushing-the-safe-part-01.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car22_rushing-the-safe-part/tt_ig_2026w25_car22_rushing-the-safe-part-02.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car22_rushing-the-safe-part/tt_ig_2026w25_car22_rushing-the-safe-part-03.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car22_rushing-the-safe-part/tt_ig_2026w25_car22_rushing-the-safe-part-04.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car22_rushing-the-safe-part/tt_ig_2026w25_car22_rushing-the-safe-part-05.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car22_rushing-the-safe-part/tt_ig_2026w25_car22_rushing-the-safe-part-06.jpg"
+  ],
+  "public_asset_urls": [
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car22_rushing-the-safe-part/tt_ig_2026w25_car22_rushing-the-safe-part-01.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car22_rushing-the-safe-part/tt_ig_2026w25_car22_rushing-the-safe-part-02.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car22_rushing-the-safe-part/tt_ig_2026w25_car22_rushing-the-safe-part-03.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car22_rushing-the-safe-part/tt_ig_2026w25_car22_rushing-the-safe-part-04.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car22_rushing-the-safe-part/tt_ig_2026w25_car22_rushing-the-safe-part-05.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car22_rushing-the-safe-part/tt_ig_2026w25_car22_rushing-the-safe-part-06.jpg"
+  ],
+  "caption": "Before tummy time becomes a skill, it has to feel possible. Make the moment smaller, softer, and easier to repeat.\n\nSave this when you catch yourself rushing.",
+  "caption_issues": [],
+  "visual_qa": {
+    "status": "passed",
+    "reference": {
+      "dir": "assets/reference/tummy-time",
+      "status": "ready",
+      "median": {
+        "aspect_ratio": 0.8002853067047075,
+        "brightness": 213.06,
+        "contrast": 28.994999999999997,
+        "saturation": 57.89,
+        "edge_density": 38.485,
+        "dark_ratio": 0.0045000000000000005
+      }
+    },
+    "issues": [],
+    "slides": [
+      {
+        "index": 1,
+        "path": "public/publish/tt/tt_ig_2026w25_car22_rushing-the-safe-part/tt_ig_2026w25_car22_rushing-the-safe-part-01.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car22_rushing-the-safe-part/tt_ig_2026w25_car22_rushing-the-safe-part-01.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            228.55,
+            207.95,
+            181.29
+          ],
+          "brightness": 211.04,
+          "contrast": 32.99,
+          "saturation": 52.44,
+          "edge_density": 45.54,
+          "dark_ratio": 0.0105
+        },
+        "vision": {
+          "edgeTextCount": 0,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car22_rushing-the-safe-part/tt_ig_2026w25_car22_rushing-the-safe-part-01.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.07703281027104147,
+                "width": 0.6327985739750446,
+                "x": 0.18716577540106952,
+                "y": 0.7396576319543509
+              },
+              "confidence": 0.5,
+              "text": "You are rushing"
+            },
+            {
+              "box": {
+                "height": 0.07703281027104136,
+                "width": 0.4919786096256684,
+                "x": 0.2549019607843137,
+                "y": 0.6640513552068474
+              },
+              "confidence": 1,
+              "text": "the part that"
+            },
+            {
+              "box": {
+                "height": 0.07703281027104136,
+                "width": 0.5579322638146167,
+                "x": 0.22638146167557932,
+                "y": 0.5884450784593438
+              },
+              "confidence": 0.5,
+              "text": "makes tummy"
+            },
+            {
+              "box": {
+                "height": 0.059914407988587604,
+                "width": 0.41354723707664887,
+                "x": 0.30124777183600715,
+                "y": 0.5299572039942939
+              },
+              "confidence": 0.5,
+              "text": "time work."
+            }
+          ],
+          "textCount": 4,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 2,
+        "path": "public/publish/tt/tt_ig_2026w25_car22_rushing-the-safe-part/tt_ig_2026w25_car22_rushing-the-safe-part-02.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car22_rushing-the-safe-part/tt_ig_2026w25_car22_rushing-the-safe-part-02.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            233.37,
+            210.88,
+            180.2
+          ],
+          "brightness": 214.1,
+          "contrast": 26.65,
+          "saturation": 57.92,
+          "edge_density": 40.53,
+          "dark_ratio": 0.0024
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car22_rushing-the-safe-part/tt_ig_2026w25_car22_rushing-the-safe-part-02.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.015691868758915817,
+                "width": 0.2459893048128342,
+                "x": 0.38146167557932265,
+                "y": 0.8131241084165478
+              },
+              "confidence": 0.5,
+              "text": "MAKE IT GENTLER"
+            },
+            {
+              "box": {
+                "height": 0.05848787446504988,
+                "width": 0.5828877005347595,
+                "x": 0.22638146167557932,
+                "y": 0.7054208273894437
+              },
+              "confidence": 0.5,
+              "text": "Comfort comes"
+            },
+            {
+              "box": {
+                "height": 0.07417974322396581,
+                "width": 0.7522281639928698,
+                "x": 0.1568627450980392,
+                "y": 0.6098430813124108
+              },
+              "confidence": 0.5,
+              "text": "before perforn]ance."
+            },
+            {
+              "box": {
+                "height": 0.022111269614835893,
+                "width": 0.5035650623885919,
+                "x": 0.2647058823529412,
+                "y": 0.5649072753209701
+              },
+              "confidence": 0.5,
+              "text": "Smaller and calmer usually works better."
+            },
+            {
+              "box": {
+                "height": 0.01925820256776034,
+                "width": 0.3092691622103387,
+                "x": 0.3449197860962567,
+                "y": 0.03780313837375182
+              },
+              "confidence": 0.5,
+              "text": "Tummy Time: Baby Activities"
+            }
+          ],
+          "textCount": 5,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 3,
+        "path": "public/publish/tt/tt_ig_2026w25_car22_rushing-the-safe-part/tt_ig_2026w25_car22_rushing-the-safe-part-03.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car22_rushing-the-safe-part/tt_ig_2026w25_car22_rushing-the-safe-part-03.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            236.38,
+            211.08,
+            177.41
+          ],
+          "brightness": 214.81,
+          "contrast": 26.42,
+          "saturation": 63.59,
+          "edge_density": 38.36,
+          "dark_ratio": 0.0061
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 1,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car22_rushing-the-safe-part/tt_ig_2026w25_car22_rushing-the-safe-part-03.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.015691868758915817,
+                "width": 0.12834224598930477,
+                "x": 0.43493761140819964,
+                "y": 0.8288159771754636
+              },
+              "confidence": 0.5,
+              "text": "TRY THIS"
+            },
+            {
+              "box": {
+                "height": 0.08416547788873041,
+                "width": 0.43315508021390375,
+                "x": 0.28520499108734404,
+                "y": 0.7111269614835949
+              },
+              "confidence": 0.5,
+              "text": "Slow your"
+            },
+            {
+              "box": {
+                "height": 0.06419400855920121,
+                "width": 0.48663101604278075,
+                "x": 0.2620320855614973,
+                "y": 0.6426533523537803
+              },
+              "confidence": 0.5,
+              "text": "hands first."
+            },
+            {
+              "box": {
+                "height": 0.022824536376604865,
+                "width": 0.44206773618538325,
+                "x": 0.2789661319073084,
+                "y": 0.5813124108416547
+              },
+              "confidence": 0.5,
+              "text": "One tiny action is enough for today."
+            },
+            {
+              "box": {
+                "height": 0.0199714693295292,
+                "width": 0.3253119429590018,
+                "x": 0.3306595365418895,
+                "y": 0.06348074179743224
+              },
+              "confidence": 0.5,
+              "text": "Tummy Time: Baby Activities"
+            }
+          ],
+          "textCount": 5,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 4,
+        "path": "public/publish/tt/tt_ig_2026w25_car22_rushing-the-safe-part/tt_ig_2026w25_car22_rushing-the-safe-part-04.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car22_rushing-the-safe-part/tt_ig_2026w25_car22_rushing-the-safe-part-04.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            233.65,
+            212.2,
+            183.9
+          ],
+          "brightness": 215.36,
+          "contrast": 27.5,
+          "saturation": 54.51,
+          "edge_density": 37.56,
+          "dark_ratio": 0.002
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car22_rushing-the-safe-part/tt_ig_2026w25_car22_rushing-the-safe-part-04.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.015691868758915928,
+                "width": 0.12566844919786097,
+                "x": 0.43672014260249553,
+                "y": 0.8088445078459343
+              },
+              "confidence": 0.5,
+              "text": "TRY THIS"
+            },
+            {
+              "box": {
+                "height": 0.05563480741797433,
+                "width": 0.5026737967914439,
+                "x": 0.24777183600713013,
+                "y": 0.7196861626248217
+              },
+              "confidence": 0.5,
+              "text": "Use one voice"
+            },
+            {
+              "box": {
+                "height": 0.07132667617689026,
+                "width": 0.5561497326203209,
+                "x": 0.22638146167557932,
+                "y": 0.6312410841654779
+              },
+              "confidence": 0.5,
+              "text": "and one object."
+            },
+            {
+              "box": {
+                "height": 0.022824536376604865,
+                "width": 0.44563279857397503,
+                "x": 0.27718360071301246,
+                "y": 0.5898716119828815
+              },
+              "confidence": 0.5,
+              "text": "One tiny action is enough for today."
+            },
+            {
+              "box": {
+                "height": 0.01925820256776034,
+                "width": 0.3146167557932264,
+                "x": 0.3422459893048128,
+                "y": 0.05634807417974319
+              },
+              "confidence": 0.5,
+              "text": "Tummy Time: Baby Activities"
+            }
+          ],
+          "textCount": 5,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 5,
+        "path": "public/publish/tt/tt_ig_2026w25_car22_rushing-the-safe-part/tt_ig_2026w25_car22_rushing-the-safe-part-05.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car22_rushing-the-safe-part/tt_ig_2026w25_car22_rushing-the-safe-part-05.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            234.56,
+            209.65,
+            175.89
+          ],
+          "brightness": 213.24,
+          "contrast": 27.82,
+          "saturation": 64.17,
+          "edge_density": 37.64,
+          "dark_ratio": 0.0027
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [
+            {
+              "height": 0.1026168018579483,
+              "width": 0.12822528183460236,
+              "x": 0.47838130593299866,
+              "y": 0.3414076268672943
+            }
+          ],
+          "faceCount": 1,
+          "handCount": 2,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car22_rushing-the-safe-part/tt_ig_2026w25_car22_rushing-the-safe-part-05.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.015691868758915817,
+                "width": 0.23975044563279863,
+                "x": 0.3805704099821747,
+                "y": 0.8095577746077033
+              },
+              "confidence": 0.5,
+              "text": "WATCH FOR THIS"
+            },
+            {
+              "box": {
+                "height": 0.06990014265335232,
+                "width": 0.5811051693404635,
+                "x": 0.2103386809269162,
+                "y": 0.7039942938659058
+              },
+              "confidence": 0.5,
+              "text": "Watch the body,"
+            },
+            {
+              "box": {
+                "height": 0.06990014265335232,
+                "width": 0.5008912655971479,
+                "x": 0.2549019607843137,
+                "y": 0.6298145506419401
+              },
+              "confidence": 0.5,
+              "text": "not your plan."
+            },
+            {
+              "box": {
+                "height": 0.022111269614836004,
+                "width": 0.4554367201426025,
+                "x": 0.27540106951871657,
+                "y": 0.5898716119828815
+              },
+              "confidence": 0.5,
+              "text": "Follow your baby's cues, not a timer."
+            },
+            {
+              "box": {
+                "height": 0.020684736091298173,
+                "width": 0.32442067736185387,
+                "x": 0.33778966131907306,
+                "y": 0.05848787446504988
+              },
+              "confidence": 0.5,
+              "text": "Tummy Time: Baby Activities"
+            }
+          ],
+          "textCount": 5,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 6,
+        "path": "public/publish/tt/tt_ig_2026w25_car22_rushing-the-safe-part/tt_ig_2026w25_car22_rushing-the-safe-part-06.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car22_rushing-the-safe-part/tt_ig_2026w25_car22_rushing-the-safe-part-06.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            230.97,
+            209.52,
+            179.55
+          ],
+          "brightness": 212.54,
+          "contrast": 28.61,
+          "saturation": 56.81,
+          "edge_density": 37.2,
+          "dark_ratio": 0.0024
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car22_rushing-the-safe-part/tt_ig_2026w25_car22_rushing-the-safe-part-06.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.016405135520684677,
+                "width": 0.2014260249554367,
+                "x": 0.39928698752228164,
+                "y": 0.8266761768901569
+              },
+              "confidence": 0.5,
+              "text": "OPEN THE APP"
+            },
+            {
+              "box": {
+                "height": 0.05848787446504988,
+                "width": 0.3547237076648841,
+                "x": 0.32620320855614976,
+                "y": 0.7325249643366619
+              },
+              "confidence": 0.5,
+              "text": "Save this"
+            },
+            {
+              "box": {
+                "height": 0.05848787446504988,
+                "width": 0.6060606060606061,
+                "x": 0.21390374331550802,
+                "y": 0.6569186875891584
+              },
+              "confidence": 0.5,
+              "text": "slow-down cue."
+            },
+            {
+              "box": {
+                "height": 0.01854493580599148,
+                "width": 0.47147950089126556,
+                "x": 0.27807486631016043,
+                "y": 0.6048502139800285
+              },
+              "confidence": 0.5,
+              "text": "Save this for the next awake window."
+            },
+            {
+              "box": {
+                "height": 0.01925820256776034,
+                "width": 0.3449197860962567,
+                "x": 0.3333333333333333,
+                "y": 0.05278174037089867
+              },
+              "confidence": 0.5,
+              "text": "Screen-free, simple, no pressure."
+            }
+          ],
+          "textCount": 5,
+          "width": 1122
+        },
+        "issues": []
+      }
+    ]
+  },
+  "visual_qa_issues": [],
+  "url_issues": [],
+  "url_probes": [
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car22_rushing-the-safe-part/tt_ig_2026w25_car22_rushing-the-safe-part-01.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car22_rushing-the-safe-part/tt_ig_2026w25_car22_rushing-the-safe-part-02.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car22_rushing-the-safe-part/tt_ig_2026w25_car22_rushing-the-safe-part-03.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car22_rushing-the-safe-part/tt_ig_2026w25_car22_rushing-the-safe-part-04.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car22_rushing-the-safe-part/tt_ig_2026w25_car22_rushing-the-safe-part-05.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car22_rushing-the-safe-part/tt_ig_2026w25_car22_rushing-the-safe-part-06.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    }
+  ],
+  "cleaned_bundles": [],
+  "publish_host_sync": {
+    "attempted": true,
+    "provider": "github_pages",
+    "repo": "marccc127/tummy-time-publish-assets",
+    "branch": "gh-pages",
+    "changed": true,
+    "commit": "50ed5af536d24b1a50e1ad8fa27715460a18afd3",
+    "push_stdout": ""
+  }
+}
