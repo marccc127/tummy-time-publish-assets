@@ -1,0 +1,638 @@
+{
+  "manifest_version": 1,
+  "generated_at": "2026-06-20T03:09:37.929347+00:00",
+  "account_id": "tt",
+  "content_id": "tt_ig_2026w25_car14_timer-deciding",
+  "channel": "carousel",
+  "source_dir": "review/tt/tt_ig_2026w25_car14_timer-deciding",
+  "normalized_files": [
+    "public/publish/tt/tt_ig_2026w25_car14_timer-deciding/tt_ig_2026w25_car14_timer-deciding-01.jpg",
+    "public/publish/tt/tt_ig_2026w25_car14_timer-deciding/tt_ig_2026w25_car14_timer-deciding-02.jpg",
+    "public/publish/tt/tt_ig_2026w25_car14_timer-deciding/tt_ig_2026w25_car14_timer-deciding-03.jpg",
+    "public/publish/tt/tt_ig_2026w25_car14_timer-deciding/tt_ig_2026w25_car14_timer-deciding-04.jpg",
+    "public/publish/tt/tt_ig_2026w25_car14_timer-deciding/tt_ig_2026w25_car14_timer-deciding-05.jpg",
+    "public/publish/tt/tt_ig_2026w25_car14_timer-deciding/tt_ig_2026w25_car14_timer-deciding-06.jpg"
+  ],
+  "relative_urls": [
+    "/publish/tt/tt_ig_2026w25_car14_timer-deciding/tt_ig_2026w25_car14_timer-deciding-01.jpg",
+    "/publish/tt/tt_ig_2026w25_car14_timer-deciding/tt_ig_2026w25_car14_timer-deciding-02.jpg",
+    "/publish/tt/tt_ig_2026w25_car14_timer-deciding/tt_ig_2026w25_car14_timer-deciding-03.jpg",
+    "/publish/tt/tt_ig_2026w25_car14_timer-deciding/tt_ig_2026w25_car14_timer-deciding-04.jpg",
+    "/publish/tt/tt_ig_2026w25_car14_timer-deciding/tt_ig_2026w25_car14_timer-deciding-05.jpg",
+    "/publish/tt/tt_ig_2026w25_car14_timer-deciding/tt_ig_2026w25_car14_timer-deciding-06.jpg"
+  ],
+  "local_preview_urls": [
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car14_timer-deciding/tt_ig_2026w25_car14_timer-deciding-01.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car14_timer-deciding/tt_ig_2026w25_car14_timer-deciding-02.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car14_timer-deciding/tt_ig_2026w25_car14_timer-deciding-03.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car14_timer-deciding/tt_ig_2026w25_car14_timer-deciding-04.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car14_timer-deciding/tt_ig_2026w25_car14_timer-deciding-05.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car14_timer-deciding/tt_ig_2026w25_car14_timer-deciding-06.jpg"
+  ],
+  "public_asset_urls": [
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car14_timer-deciding/tt_ig_2026w25_car14_timer-deciding-01.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car14_timer-deciding/tt_ig_2026w25_car14_timer-deciding-02.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car14_timer-deciding/tt_ig_2026w25_car14_timer-deciding-03.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car14_timer-deciding/tt_ig_2026w25_car14_timer-deciding-04.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car14_timer-deciding/tt_ig_2026w25_car14_timer-deciding-05.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car14_timer-deciding/tt_ig_2026w25_car14_timer-deciding-06.jpg"
+  ],
+  "caption": "A timer can help you remember, but it should not override your baby's cues. A calm ending makes the next try easier.\n\nSave this cue-led reset.",
+  "caption_issues": [],
+  "visual_qa": {
+    "status": "passed",
+    "reference": {
+      "dir": "assets/reference/tummy-time",
+      "status": "ready",
+      "median": {
+        "aspect_ratio": 0.8002853067047075,
+        "brightness": 213.52,
+        "contrast": 28.93,
+        "saturation": 57.155,
+        "edge_density": 38.894999999999996,
+        "dark_ratio": 0.0042
+      }
+    },
+    "issues": [],
+    "slides": [
+      {
+        "index": 1,
+        "path": "public/publish/tt/tt_ig_2026w25_car14_timer-deciding/tt_ig_2026w25_car14_timer-deciding-01.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car14_timer-deciding/tt_ig_2026w25_car14_timer-deciding-01.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            228.33,
+            207.96,
+            180.79
+          ],
+          "brightness": 210.97,
+          "contrast": 32.19,
+          "saturation": 52.61,
+          "edge_density": 46.45,
+          "dark_ratio": 0.0083
+        },
+        "vision": {
+          "edgeTextCount": 0,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car14_timer-deciding/tt_ig_2026w25_car14_timer-deciding-01.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.07703281027104136,
+                "width": 0.4919786096256684,
+                "x": 0.26916221033868093,
+                "y": 0.7296718972895864
+              },
+              "confidence": 0.5,
+              "text": "Stop letting"
+            },
+            {
+              "box": {
+                "height": 0.059914407988587826,
+                "width": 0.5828877005347594,
+                "x": 0.22994652406417113,
+                "y": 0.6697574893009985
+              },
+              "confidence": 0.5,
+              "text": "a timer decide"
+            },
+            {
+              "box": {
+                "height": 0.07845934379457908,
+                "width": 0.6648841354723707,
+                "x": 0.19429590017825313,
+                "y": 0.5756062767475036
+              },
+              "confidence": 0.5,
+              "text": "when your baby"
+            },
+            {
+              "box": {
+                "height": 0.061340941512125546,
+                "width": 0.3208556149732621,
+                "x": 0.3672014260249554,
+                "y": 0.5156918687589158
+              },
+              "confidence": 0.5,
+              "text": "is done."
+            }
+          ],
+          "textCount": 4,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 2,
+        "path": "public/publish/tt/tt_ig_2026w25_car14_timer-deciding/tt_ig_2026w25_car14_timer-deciding-02.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car14_timer-deciding/tt_ig_2026w25_car14_timer-deciding-02.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            234.39,
+            213.13,
+            183.84
+          ],
+          "brightness": 216.16,
+          "contrast": 27.45,
+          "saturation": 54.9,
+          "edge_density": 38.83,
+          "dark_ratio": 0.0015
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car14_timer-deciding/tt_ig_2026w25_car14_timer-deciding-02.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.015691868758915817,
+                "width": 0.24598930481283426,
+                "x": 0.3770053475935829,
+                "y": 0.8245363766048502
+              },
+              "confidence": 0.5,
+              "text": "MAKE IT GENTLER"
+            },
+            {
+              "box": {
+                "height": 0.05563480741797433,
+                "width": 0.4848484848484848,
+                "x": 0.2709447415329768,
+                "y": 0.7253922967189729
+              },
+              "confidence": 0.5,
+              "text": "Cues are more"
+            },
+            {
+              "box": {
+                "height": 0.05706134094151216,
+                "width": 0.7040998217468806,
+                "x": 0.14795008912655971,
+                "y": 0.6497860199714693
+              },
+              "confidence": 0.5,
+              "text": "useful than numbers."
+            },
+            {
+              "box": {
+                "height": 0.021398002853066922,
+                "width": 0.5044563279857397,
+                "x": 0.24777183600713013,
+                "y": 0.5834522111269616
+              },
+              "confidence": 0.5,
+              "text": "Smaller and calmer usually works better."
+            },
+            {
+              "box": {
+                "height": 0.01925820256776034,
+                "width": 0.31907308377896615,
+                "x": 0.3404634581105169,
+                "y": 0.052068473609129806
+              },
+              "confidence": 0.5,
+              "text": "Tummy Time: Baby Activities"
+            }
+          ],
+          "textCount": 5,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 3,
+        "path": "public/publish/tt/tt_ig_2026w25_car14_timer-deciding/tt_ig_2026w25_car14_timer-deciding-03.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car14_timer-deciding/tt_ig_2026w25_car14_timer-deciding-03.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            233.62,
+            212.17,
+            184.25
+          ],
+          "brightness": 215.36,
+          "contrast": 27.73,
+          "saturation": 53.88,
+          "edge_density": 37.74,
+          "dark_ratio": 0.0071
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car14_timer-deciding/tt_ig_2026w25_car14_timer-deciding-03.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.016405135520684788,
+                "width": 0.1310160427807487,
+                "x": 0.43404634581105167,
+                "y": 0.8195435092724679
+              },
+              "confidence": 0.5,
+              "text": "TRY THIS"
+            },
+            {
+              "box": {
+                "height": 0.0641940085592011,
+                "width": 0.35294117647058826,
+                "x": 0.32620320855614976,
+                "y": 0.7168330955777461
+              },
+              "confidence": 0.5,
+              "text": "Look for"
+            },
+            {
+              "box": {
+                "height": 0.0641940085592011,
+                "width": 0.5828877005347594,
+                "x": 0.21568627450980393,
+                "y": 0.6326676176890157
+              },
+              "confidence": 0.5,
+              "text": "soft effort first."
+            },
+            {
+              "box": {
+                "height": 0.022111269614836004,
+                "width": 0.44652406417112295,
+                "x": 0.2789661319073084,
+                "y": 0.5706134094151212
+              },
+              "confidence": 0.5,
+              "text": "One tiny action is enough for today."
+            },
+            {
+              "box": {
+                "height": 0.0199714693295292,
+                "width": 0.3244206773618538,
+                "x": 0.32976827094474154,
+                "y": 0.059201141226818854
+              },
+              "confidence": 0.5,
+              "text": "Tummy Time: Baby Activities"
+            }
+          ],
+          "textCount": 5,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 4,
+        "path": "public/publish/tt/tt_ig_2026w25_car14_timer-deciding/tt_ig_2026w25_car14_timer-deciding-04.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car14_timer-deciding/tt_ig_2026w25_car14_timer-deciding-04.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            232.75,
+            206.46,
+            171.54
+          ],
+          "brightness": 210.32,
+          "contrast": 25.84,
+          "saturation": 67.06,
+          "edge_density": 36.5,
+          "dark_ratio": 0.0042
+        },
+        "vision": {
+          "edgeTextCount": 2,
+          "faceBoxes": [
+            {
+              "height": 0.09920734912157059,
+              "width": 0.12396497279405594,
+              "x": 0.6231274604797363,
+              "y": 0.19586695730686188
+            }
+          ],
+          "faceCount": 1,
+          "handCount": 1,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car14_timer-deciding/tt_ig_2026w25_car14_timer-deciding-04.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.016405135520684788,
+                "width": 0.1292335115864528,
+                "x": 0.43493761140819964,
+                "y": 0.8088445078459343
+              },
+              "confidence": 0.5,
+              "text": "TRY THIS"
+            },
+            {
+              "box": {
+                "height": 0.05848787446504988,
+                "width": 0.4670231729055258,
+                "x": 0.26737967914438504,
+                "y": 0.7182596291012839
+              },
+              "confidence": 0.5,
+              "text": "Pause when"
+            },
+            {
+              "box": {
+                "height": 0.09415121255349512,
+                "width": 0.8021390374331551,
+                "x": 0.1746880570409982,
+                "y": 0.608416547788873
+              },
+              "confidence": 0.5,
+              "text": "the body stiffens..."
+            },
+            {
+              "box": {
+                "height": 0.022824536376604865,
+                "width": 0.4554367201426025,
+                "x": 0.2727272727272727,
+                "y": 0.587018544935806
+              },
+              "confidence": 0.5,
+              "text": "One tiny action is enough for today."
+            },
+            {
+              "box": {
+                "height": 0.01925820256776034,
+                "width": 0.30570409982174696,
+                "x": 0.34670231729055256,
+                "y": 0.0542082738944365
+              },
+              "confidence": 0.5,
+              "text": "Tummy Time: Baby Activities"
+            }
+          ],
+          "textCount": 5,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 5,
+        "path": "public/publish/tt/tt_ig_2026w25_car14_timer-deciding/tt_ig_2026w25_car14_timer-deciding-05.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car14_timer-deciding/tt_ig_2026w25_car14_timer-deciding-05.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            233.66,
+            205.89,
+            172.23
+          ],
+          "brightness": 210.35,
+          "contrast": 28.47,
+          "saturation": 66.88,
+          "edge_density": 38.99,
+          "dark_ratio": 0.0088
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [
+            {
+              "height": 0.09286116808652878,
+              "width": 0.1160350814461708,
+              "x": 0.6307888627052307,
+              "y": 0.24025341868400574
+            }
+          ],
+          "faceCount": 1,
+          "handCount": 1,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car14_timer-deciding/tt_ig_2026w25_car14_timer-deciding-05.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.016405135520684677,
+                "width": 0.2433155080213904,
+                "x": 0.3778966131907308,
+                "y": 0.855206847360913
+              },
+              "confidence": 0.5,
+              "text": "WATCH FOR THIS"
+            },
+            {
+              "box": {
+                "height": 0.058487874465049994,
+                "width": 0.44563279857397503,
+                "x": 0.27629233511586454,
+                "y": 0.7639087018544936
+              },
+              "confidence": 0.5,
+              "text": "End on the"
+            },
+            {
+              "box": {
+                "height": 0.058487874465049994,
+                "width": 0.31372549019607837,
+                "x": 0.34402852049910876,
+                "y": 0.6897289586305277
+              },
+              "confidence": 0.5,
+              "text": "calmest"
+            },
+            {
+              "box": {
+                "height": 0.07275320970042798,
+                "width": 0.5240641711229946,
+                "x": 0.24064171122994651,
+                "y": 0.601283880171184
+              },
+              "confidence": 0.5,
+              "text": "possible note."
+            },
+            {
+              "box": {
+                "height": 0.022824536376604865,
+                "width": 0.4554367201426025,
+                "x": 0.2727272727272727,
+                "y": 0.5613409415121255
+              },
+              "confidence": 0.5,
+              "text": "Follow your baby's cues, not a timer."
+            },
+            {
+              "box": {
+                "height": 0.01925820256776034,
+                "width": 0.30570409982174696,
+                "x": 0.34670231729055256,
+                "y": 0.05492154065620547
+              },
+              "confidence": 0.5,
+              "text": "Tummy Time: Baby Activities"
+            }
+          ],
+          "textCount": 6,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 6,
+        "path": "public/publish/tt/tt_ig_2026w25_car14_timer-deciding/tt_ig_2026w25_car14_timer-deciding-06.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car14_timer-deciding/tt_ig_2026w25_car14_timer-deciding-06.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            235.48,
+            212.57,
+            181.7
+          ],
+          "brightness": 215.89,
+          "contrast": 27.96,
+          "saturation": 58.19,
+          "edge_density": 36.56,
+          "dark_ratio": 0.0093
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car14_timer-deciding/tt_ig_2026w25_car14_timer-deciding-06.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.016405135520684677,
+                "width": 0.21301247771836007,
+                "x": 0.3939393939393939,
+                "y": 0.8052781740370899
+              },
+              "confidence": 0.5,
+              "text": "OPEN THE APP"
+            },
+            {
+              "box": {
+                "height": 0.06704707560627676,
+                "width": 0.4081996434937612,
+                "x": 0.2976827094474153,
+                "y": 0.7054208273894437
+              },
+              "confidence": 0.5,
+              "text": "Save this"
+            },
+            {
+              "box": {
+                "height": 0.06704707560627665,
+                "width": 0.5989304812834225,
+                "x": 0.20499108734402852,
+                "y": 0.6184022824536377
+              },
+              "confidence": 0.5,
+              "text": "cue-led reset."
+            },
+            {
+              "box": {
+                "height": 0.01783166904422262,
+                "width": 0.46434937611408206,
+                "x": 0.26827094474153296,
+                "y": 0.5663338088445078
+              },
+              "confidence": 0.5,
+              "text": "Save this for the next awake window."
+            },
+            {
+              "box": {
+                "height": 0.004279600570613495,
+                "width": 0.0089126559714795,
+                "x": 0.6381461675579323,
+                "y": 0.22396576319543504
+              },
+              "confidence": 1,
+              "text": "-A"
+            },
+            {
+              "box": {
+                "height": 0.01925820256776034,
+                "width": 0.3582887700534759,
+                "x": 0.32174688057041,
+                "y": 0.05492154065620547
+              },
+              "confidence": 0.5,
+              "text": "Screen-free, simple, no pressure."
+            }
+          ],
+          "textCount": 6,
+          "width": 1122
+        },
+        "issues": []
+      }
+    ]
+  },
+  "visual_qa_issues": [],
+  "url_issues": [],
+  "url_probes": [
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car14_timer-deciding/tt_ig_2026w25_car14_timer-deciding-01.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car14_timer-deciding/tt_ig_2026w25_car14_timer-deciding-02.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car14_timer-deciding/tt_ig_2026w25_car14_timer-deciding-03.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car14_timer-deciding/tt_ig_2026w25_car14_timer-deciding-04.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car14_timer-deciding/tt_ig_2026w25_car14_timer-deciding-05.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car14_timer-deciding/tt_ig_2026w25_car14_timer-deciding-06.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    }
+  ],
+  "cleaned_bundles": [],
+  "publish_host_sync": {
+    "attempted": true,
+    "provider": "github_pages",
+    "repo": "marccc127/tummy-time-publish-assets",
+    "branch": "gh-pages",
+    "changed": true,
+    "commit": "8b5e5669f76b5a02eae4ec6b6bba4f981e30270d",
+    "push_stdout": ""
+  }
+}
