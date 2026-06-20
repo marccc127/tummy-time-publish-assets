@@ -1,6 +1,6 @@
 {
   "manifest_version": 1,
-  "generated_at": "2026-06-20T14:59:53.484885+00:00",
+  "generated_at": "2026-06-20T15:03:36.884026+00:00",
   "account_id": "tt",
   "content_id": "tt_ig_2026w25_car21_crying-not-progress",
   "channel": "carousel",
@@ -605,7 +605,7 @@
     "repo": "marccc127/tummy-time-publish-assets",
     "branch": "gh-pages",
     "changed": true,
-    "commit": "49f822c7dd9319ad265f4eb23a68b3c3069afbda",
+    "commit": "0904fe8b4c75adf50758fb00fe4f7d8b40ee868e",
     "push_stdout": ""
   }
 }
