@@ -1,0 +1,581 @@
+{
+  "manifest_version": 1,
+  "generated_at": "2026-06-20T02:20:44.485363+00:00",
+  "account_id": "tt",
+  "content_id": "tt_ig_2026w25_car09_perfect-mat-lie",
+  "channel": "carousel",
+  "source_dir": "review/tt/tt_ig_2026w25_car09_perfect-mat-lie",
+  "normalized_files": [
+    "public/publish/tt/tt_ig_2026w25_car09_perfect-mat-lie/tt_ig_2026w25_car09_perfect-mat-lie-01.jpg",
+    "public/publish/tt/tt_ig_2026w25_car09_perfect-mat-lie/tt_ig_2026w25_car09_perfect-mat-lie-02.jpg",
+    "public/publish/tt/tt_ig_2026w25_car09_perfect-mat-lie/tt_ig_2026w25_car09_perfect-mat-lie-03.jpg",
+    "public/publish/tt/tt_ig_2026w25_car09_perfect-mat-lie/tt_ig_2026w25_car09_perfect-mat-lie-04.jpg",
+    "public/publish/tt/tt_ig_2026w25_car09_perfect-mat-lie/tt_ig_2026w25_car09_perfect-mat-lie-05.jpg",
+    "public/publish/tt/tt_ig_2026w25_car09_perfect-mat-lie/tt_ig_2026w25_car09_perfect-mat-lie-06.jpg"
+  ],
+  "relative_urls": [
+    "/publish/tt/tt_ig_2026w25_car09_perfect-mat-lie/tt_ig_2026w25_car09_perfect-mat-lie-01.jpg",
+    "/publish/tt/tt_ig_2026w25_car09_perfect-mat-lie/tt_ig_2026w25_car09_perfect-mat-lie-02.jpg",
+    "/publish/tt/tt_ig_2026w25_car09_perfect-mat-lie/tt_ig_2026w25_car09_perfect-mat-lie-03.jpg",
+    "/publish/tt/tt_ig_2026w25_car09_perfect-mat-lie/tt_ig_2026w25_car09_perfect-mat-lie-04.jpg",
+    "/publish/tt/tt_ig_2026w25_car09_perfect-mat-lie/tt_ig_2026w25_car09_perfect-mat-lie-05.jpg",
+    "/publish/tt/tt_ig_2026w25_car09_perfect-mat-lie/tt_ig_2026w25_car09_perfect-mat-lie-06.jpg"
+  ],
+  "local_preview_urls": [
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car09_perfect-mat-lie/tt_ig_2026w25_car09_perfect-mat-lie-01.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car09_perfect-mat-lie/tt_ig_2026w25_car09_perfect-mat-lie-02.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car09_perfect-mat-lie/tt_ig_2026w25_car09_perfect-mat-lie-03.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car09_perfect-mat-lie/tt_ig_2026w25_car09_perfect-mat-lie-04.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car09_perfect-mat-lie/tt_ig_2026w25_car09_perfect-mat-lie-05.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car09_perfect-mat-lie/tt_ig_2026w25_car09_perfect-mat-lie-06.jpg"
+  ],
+  "public_asset_urls": [
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car09_perfect-mat-lie/tt_ig_2026w25_car09_perfect-mat-lie-01.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car09_perfect-mat-lie/tt_ig_2026w25_car09_perfect-mat-lie-02.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car09_perfect-mat-lie/tt_ig_2026w25_car09_perfect-mat-lie-03.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car09_perfect-mat-lie/tt_ig_2026w25_car09_perfect-mat-lie-04.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car09_perfect-mat-lie/tt_ig_2026w25_car09_perfect-mat-lie-05.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car09_perfect-mat-lie/tt_ig_2026w25_car09_perfect-mat-lie-06.jpg"
+  ],
+  "caption": "A beautiful mat can still feel like too much. Before you add another thing, try making the space calmer and easier to notice.\n\nSave this no-buy reset.",
+  "caption_issues": [],
+  "visual_qa": {
+    "status": "passed",
+    "reference": {
+      "dir": "assets/reference/tummy-time",
+      "status": "ready",
+      "median": {
+        "aspect_ratio": 0.8002853067047075,
+        "brightness": 213.585,
+        "contrast": 29.05,
+        "saturation": 56.75,
+        "edge_density": 38.94,
+        "dark_ratio": 0.0038
+      }
+    },
+    "issues": [],
+    "slides": [
+      {
+        "index": 1,
+        "path": "public/publish/tt/tt_ig_2026w25_car09_perfect-mat-lie/tt_ig_2026w25_car09_perfect-mat-lie-01.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car09_perfect-mat-lie/tt_ig_2026w25_car09_perfect-mat-lie-01.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            232.46,
+            212.54,
+            186.33
+          ],
+          "brightness": 215.49,
+          "contrast": 28.74,
+          "saturation": 50.66,
+          "edge_density": 42.02,
+          "dark_ratio": 0.0051
+        },
+        "vision": {
+          "edgeTextCount": 0,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car09_perfect-mat-lie/tt_ig_2026w25_car09_perfect-mat-lie-01.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.07275320970042798,
+                "width": 0.4848484848484848,
+                "x": 0.25846702317290554,
+                "y": 0.7439372325249644
+              },
+              "confidence": 0.5,
+              "text": "Your perfect"
+            },
+            {
+              "box": {
+                "height": 0.05706134094151216,
+                "width": 0.38324420677361853,
+                "x": 0.31194295900178254,
+                "y": 0.6868758915834522
+              },
+              "confidence": 0.5,
+              "text": "mat is not"
+            },
+            {
+              "box": {
+                "height": 0.07275320970042798,
+                "width": 0.3636363636363636,
+                "x": 0.32085561497326204,
+                "y": 0.5998573466476462
+              },
+              "confidence": 0.5,
+              "text": "fixing the"
+            },
+            {
+              "box": {
+                "height": 0.07132667617689004,
+                "width": 0.3404634581105169,
+                "x": 0.33689839572192515,
+                "y": 0.5299572039942939
+              },
+              "confidence": 0.5,
+              "text": "probiem."
+            }
+          ],
+          "textCount": 4,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 2,
+        "path": "public/publish/tt/tt_ig_2026w25_car09_perfect-mat-lie/tt_ig_2026w25_car09_perfect-mat-lie-02.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car09_perfect-mat-lie/tt_ig_2026w25_car09_perfect-mat-lie-02.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            234.4,
+            211.54,
+            182.9
+          ],
+          "brightness": 215.08,
+          "contrast": 26.22,
+          "saturation": 55.79,
+          "edge_density": 40.51,
+          "dark_ratio": 0.0046
+        },
+        "vision": {
+          "edgeTextCount": 0,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car09_perfect-mat-lie/tt_ig_2026w25_car09_perfect-mat-lie-02.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.07275320970042798,
+                "width": 0.3903743315508022,
+                "x": 0.3065953654188948,
+                "y": 0.7225392296718973
+              },
+              "confidence": 0.5,
+              "text": "The setup"
+            },
+            {
+              "box": {
+                "height": 0.05706134094151216,
+                "width": 0.4616755793226382,
+                "x": 0.2709447415329768,
+                "y": 0.6626248216833095
+              },
+              "confidence": 0.5,
+              "text": "matters less"
+            },
+            {
+              "box": {
+                "height": 0.05563480741797433,
+                "width": 0.5828877005347594,
+                "x": 0.21568627450980393,
+                "y": 0.5884450784593438
+              },
+              "confidence": 0.5,
+              "text": "than the mood."
+            }
+          ],
+          "textCount": 3,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 3,
+        "path": "public/publish/tt/tt_ig_2026w25_car09_perfect-mat-lie/tt_ig_2026w25_car09_perfect-mat-lie-03.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car09_perfect-mat-lie/tt_ig_2026w25_car09_perfect-mat-lie-03.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            231.3,
+            209.69,
+            180.72
+          ],
+          "brightness": 212.84,
+          "contrast": 25.6,
+          "saturation": 55.74,
+          "edge_density": 36.92,
+          "dark_ratio": 0.0042
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car09_perfect-mat-lie/tt_ig_2026w25_car09_perfect-mat-lie-03.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.01711840228245365,
+                "width": 0.13012477718360071,
+                "x": 0.43493761140819964,
+                "y": 0.8430813124108416
+              },
+              "confidence": 0.5,
+              "text": "TRY THIS"
+            },
+            {
+              "box": {
+                "height": 0.05848787446504988,
+                "width": 0.3957219251336898,
+                "x": 0.31194295900178254,
+                "y": 0.7496433666191156
+              },
+              "confidence": 0.5,
+              "text": "Clear half"
+            },
+            {
+              "box": {
+                "height": 0.07275320970042798,
+                "width": 0.5311942959001783,
+                "x": 0.24955436720142601,
+                "y": 0.6611982881597718
+              },
+              "confidence": 0.5,
+              "text": "the toys away."
+            },
+            {
+              "box": {
+                "height": 0.023537803138373836,
+                "width": 0.45721925133689845,
+                "x": 0.2905525846702317,
+                "y": 0.6205420827389443
+              },
+              "confidence": 0.5,
+              "text": "One tiny action is enough for today."
+            },
+            {
+              "box": {
+                "height": 0.004992867332382245,
+                "width": 0.017825311942959,
+                "x": 0.40730837789661317,
+                "y": 0.27246790299572043
+              },
+              "confidence": 0.5,
+              "text": "iX"
+            },
+            {
+              "box": {
+                "height": 0.004992867332382245,
+                "width": 0.009803921568627416,
+                "x": 0.679144385026738,
+                "y": 0.24179743223965766
+              },
+              "confidence": 0.5,
+              "text": "Y*"
+            },
+            {
+              "box": {
+                "height": 0.021398002853067033,
+                "width": 0.33957219251336895,
+                "x": 0.3324420677361854,
+                "y": 0.042082738944365206
+              },
+              "confidence": 0.5,
+              "text": "Tummy Time: Baby Activities"
+            }
+          ],
+          "textCount": 7,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 4,
+        "path": "public/publish/tt/tt_ig_2026w25_car09_perfect-mat-lie/tt_ig_2026w25_car09_perfect-mat-lie-04.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car09_perfect-mat-lie/tt_ig_2026w25_car09_perfect-mat-lie-04.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            231.97,
+            210.42,
+            178.48
+          ],
+          "brightness": 213.21,
+          "contrast": 27.89,
+          "saturation": 58.86,
+          "edge_density": 37.23,
+          "dark_ratio": 0.0027
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car09_perfect-mat-lie/tt_ig_2026w25_car09_perfect-mat-lie-04.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.016405135520684788,
+                "width": 0.12834224598930483,
+                "x": 0.4358288770053476,
+                "y": 0.8138373751783167
+              },
+              "confidence": 0.5,
+              "text": "TRY THIS"
+            },
+            {
+              "box": {
+                "height": 0.058487874465049994,
+                "width": 0.322638146167558,
+                "x": 0.3422459893048128,
+                "y": 0.7196861626248217
+              },
+              "confidence": 0.5,
+              "text": "Add one"
+            },
+            {
+              "box": {
+                "height": 0.07703281027104136,
+                "width": 0.5704099821746881,
+                "x": 0.22994652406417113,
+                "y": 0.6241084165477888
+              },
+              "confidence": 0.5,
+              "text": "familiar object."
+            },
+            {
+              "box": {
+                "height": 0.022824536376604754,
+                "width": 0.45365418894830656,
+                "x": 0.2807486631016043,
+                "y": 0.5863052781740371
+              },
+              "confidence": 0.5,
+              "text": "One tiny action is enough for today."
+            },
+            {
+              "box": {
+                "height": 0.01925820256776034,
+                "width": 0.31461675579322634,
+                "x": 0.33689839572192515,
+                "y": 0.05848787446504988
+              },
+              "confidence": 0.5,
+              "text": "Tummy Time: Baby Activities"
+            }
+          ],
+          "textCount": 5,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 5,
+        "path": "public/publish/tt/tt_ig_2026w25_car09_perfect-mat-lie/tt_ig_2026w25_car09_perfect-mat-lie-05.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car09_perfect-mat-lie/tt_ig_2026w25_car09_perfect-mat-lie-05.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            233.04,
+            212.02,
+            182.61
+          ],
+          "brightness": 214.93,
+          "contrast": 30.68,
+          "saturation": 55.97,
+          "edge_density": 42.01,
+          "dark_ratio": 0.001
+        },
+        "vision": {
+          "edgeTextCount": 0,
+          "faceBoxes": [
+            {
+              "height": 0.12319610267877579,
+              "width": 0.15394023060798645,
+              "x": 0.4450295865535736,
+              "y": 0.3194552958011627
+            }
+          ],
+          "faceCount": 1,
+          "handCount": 2,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car09_perfect-mat-lie/tt_ig_2026w25_car09_perfect-mat-lie-05.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.06990014265335243,
+                "width": 0.5579322638146168,
+                "x": 0.23351158645276293,
+                "y": 0.7253922967189729
+              },
+              "confidence": 0.5,
+              "text": "Let baby notice"
+            },
+            {
+              "box": {
+                "height": 0.07132667617689015,
+                "width": 0.7130124777183601,
+                "x": 0.1568627450980392,
+                "y": 0.6497860199714693
+              },
+              "confidence": 0.5,
+              "text": "before you perform."
+            }
+          ],
+          "textCount": 2,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 6,
+        "path": "public/publish/tt/tt_ig_2026w25_car09_perfect-mat-lie/tt_ig_2026w25_car09_perfect-mat-lie-06.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car09_perfect-mat-lie/tt_ig_2026w25_car09_perfect-mat-lie-06.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            233.82,
+            211.3,
+            180.24
+          ],
+          "brightness": 214.49,
+          "contrast": 26.82,
+          "saturation": 58.38,
+          "edge_density": 37.02,
+          "dark_ratio": 0.0061
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car09_perfect-mat-lie/tt_ig_2026w25_car09_perfect-mat-lie-06.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.01711840228245376,
+                "width": 0.21212121212121215,
+                "x": 0.3939393939393939,
+                "y": 0.789586305278174
+              },
+              "confidence": 0.5,
+              "text": "OPEN THE APP"
+            },
+            {
+              "box": {
+                "height": 0.0684736091298146,
+                "width": 0.4135472370766488,
+                "x": 0.2887700534759358,
+                "y": 0.6754636233951498
+              },
+              "confidence": 0.5,
+              "text": "Save this"
+            },
+            {
+              "box": {
+                "height": 0.08559201141226813,
+                "width": 0.6007130124777184,
+                "x": 0.22103386809269163,
+                "y": 0.572753209700428
+              },
+              "confidence": 0.5,
+              "text": "no-buy reset."
+            },
+            {
+              "box": {
+                "height": 0.01925820256776034,
+                "width": 0.48128342245989303,
+                "x": 0.27629233511586454,
+                "y": 0.535663338088445
+              },
+              "confidence": 0.5,
+              "text": "Save this for the next awake window."
+            },
+            {
+              "box": {
+                "height": 0.01854493580599148,
+                "width": 0.3449197860962567,
+                "x": 0.3360071301247772,
+                "y": 0.0442225392296719
+              },
+              "confidence": 0.5,
+              "text": "Screen-f ree, simple, no pressure."
+            }
+          ],
+          "textCount": 5,
+          "width": 1122
+        },
+        "issues": []
+      }
+    ]
+  },
+  "visual_qa_issues": [],
+  "url_issues": [],
+  "url_probes": [
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car09_perfect-mat-lie/tt_ig_2026w25_car09_perfect-mat-lie-01.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car09_perfect-mat-lie/tt_ig_2026w25_car09_perfect-mat-lie-02.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car09_perfect-mat-lie/tt_ig_2026w25_car09_perfect-mat-lie-03.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car09_perfect-mat-lie/tt_ig_2026w25_car09_perfect-mat-lie-04.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car09_perfect-mat-lie/tt_ig_2026w25_car09_perfect-mat-lie-05.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car09_perfect-mat-lie/tt_ig_2026w25_car09_perfect-mat-lie-06.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    }
+  ],
+  "cleaned_bundles": [],
+  "publish_host_sync": {
+    "attempted": true,
+    "provider": "github_pages",
+    "repo": "marccc127/tummy-time-publish-assets",
+    "branch": "gh-pages",
+    "changed": true,
+    "commit": "e7dfb06c9992667f5d7d073d24cbda86c290bd27",
+    "push_stdout": ""
+  }
+}
