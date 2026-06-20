@@ -1,0 +1,591 @@
+{
+  "manifest_version": 1,
+  "generated_at": "2026-06-20T02:22:29.860326+00:00",
+  "account_id": "tt",
+  "content_id": "tt_ig_2026w25_car12_overstimulating-calm",
+  "channel": "carousel",
+  "source_dir": "review/tt/tt_ig_2026w25_car12_overstimulating-calm",
+  "normalized_files": [
+    "public/publish/tt/tt_ig_2026w25_car12_overstimulating-calm/tt_ig_2026w25_car12_overstimulating-calm-01.jpg",
+    "public/publish/tt/tt_ig_2026w25_car12_overstimulating-calm/tt_ig_2026w25_car12_overstimulating-calm-02.jpg",
+    "public/publish/tt/tt_ig_2026w25_car12_overstimulating-calm/tt_ig_2026w25_car12_overstimulating-calm-03.jpg",
+    "public/publish/tt/tt_ig_2026w25_car12_overstimulating-calm/tt_ig_2026w25_car12_overstimulating-calm-04.jpg",
+    "public/publish/tt/tt_ig_2026w25_car12_overstimulating-calm/tt_ig_2026w25_car12_overstimulating-calm-05.jpg",
+    "public/publish/tt/tt_ig_2026w25_car12_overstimulating-calm/tt_ig_2026w25_car12_overstimulating-calm-06.jpg"
+  ],
+  "relative_urls": [
+    "/publish/tt/tt_ig_2026w25_car12_overstimulating-calm/tt_ig_2026w25_car12_overstimulating-calm-01.jpg",
+    "/publish/tt/tt_ig_2026w25_car12_overstimulating-calm/tt_ig_2026w25_car12_overstimulating-calm-02.jpg",
+    "/publish/tt/tt_ig_2026w25_car12_overstimulating-calm/tt_ig_2026w25_car12_overstimulating-calm-03.jpg",
+    "/publish/tt/tt_ig_2026w25_car12_overstimulating-calm/tt_ig_2026w25_car12_overstimulating-calm-04.jpg",
+    "/publish/tt/tt_ig_2026w25_car12_overstimulating-calm/tt_ig_2026w25_car12_overstimulating-calm-05.jpg",
+    "/publish/tt/tt_ig_2026w25_car12_overstimulating-calm/tt_ig_2026w25_car12_overstimulating-calm-06.jpg"
+  ],
+  "local_preview_urls": [
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car12_overstimulating-calm/tt_ig_2026w25_car12_overstimulating-calm-01.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car12_overstimulating-calm/tt_ig_2026w25_car12_overstimulating-calm-02.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car12_overstimulating-calm/tt_ig_2026w25_car12_overstimulating-calm-03.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car12_overstimulating-calm/tt_ig_2026w25_car12_overstimulating-calm-04.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car12_overstimulating-calm/tt_ig_2026w25_car12_overstimulating-calm-05.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car12_overstimulating-calm/tt_ig_2026w25_car12_overstimulating-calm-06.jpg"
+  ],
+  "public_asset_urls": [
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car12_overstimulating-calm/tt_ig_2026w25_car12_overstimulating-calm-01.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car12_overstimulating-calm/tt_ig_2026w25_car12_overstimulating-calm-02.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car12_overstimulating-calm/tt_ig_2026w25_car12_overstimulating-calm-03.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car12_overstimulating-calm/tt_ig_2026w25_car12_overstimulating-calm-04.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car12_overstimulating-calm/tt_ig_2026w25_car12_overstimulating-calm-05.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car12_overstimulating-calm/tt_ig_2026w25_car12_overstimulating-calm-06.jpg"
+  ],
+  "caption": "A busy setup can turn a simple practice into a lot to process. Try one texture, one voice, and one short moment.\n\nSave this calmer version.",
+  "caption_issues": [],
+  "visual_qa": {
+    "status": "passed",
+    "reference": {
+      "dir": "assets/reference/tummy-time",
+      "status": "ready",
+      "median": {
+        "aspect_ratio": 0.8002853067047075,
+        "brightness": 213.585,
+        "contrast": 29.05,
+        "saturation": 56.75,
+        "edge_density": 38.94,
+        "dark_ratio": 0.0038
+      }
+    },
+    "issues": [],
+    "slides": [
+      {
+        "index": 1,
+        "path": "public/publish/tt/tt_ig_2026w25_car12_overstimulating-calm/tt_ig_2026w25_car12_overstimulating-calm-01.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car12_overstimulating-calm/tt_ig_2026w25_car12_overstimulating-calm-01.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            227.42,
+            205.6,
+            177.62
+          ],
+          "brightness": 208.9,
+          "contrast": 31.92,
+          "saturation": 55.6,
+          "edge_density": 45.23,
+          "dark_ratio": 0.0066
+        },
+        "vision": {
+          "edgeTextCount": 0,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car12_overstimulating-calm/tt_ig_2026w25_car12_overstimulating-calm-01.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.05706134094151205,
+                "width": 0.30124777183600715,
+                "x": 0.3493761140819964,
+                "y": 0.7667617689015692
+              },
+              "confidence": 0.5,
+              "text": "You are"
+            },
+            {
+              "box": {
+                "height": 0.07560627674750353,
+                "width": 0.6149732620320856,
+                "x": 0.19786096256684493,
+                "y": 0.6768901569186876
+              },
+              "confidence": 0.5,
+              "text": "overstimulating"
+            },
+            {
+              "box": {
+                "height": 0.07275320970042787,
+                "width": 0.6185383244206774,
+                "x": 0.19786096256684493,
+                "y": 0.6055634807417974
+              },
+              "confidence": 0.5,
+              "text": "the moment you"
+            },
+            {
+              "box": {
+                "height": 0.05706134094151216,
+                "width": 0.5240641711229947,
+                "x": 0.24420677361853832,
+                "y": 0.5470756062767475
+              },
+              "confidence": 0.5,
+              "text": "want to calm."
+            }
+          ],
+          "textCount": 4,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 2,
+        "path": "public/publish/tt/tt_ig_2026w25_car12_overstimulating-calm/tt_ig_2026w25_car12_overstimulating-calm-02.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car12_overstimulating-calm/tt_ig_2026w25_car12_overstimulating-calm-02.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            232.44,
+            210.94,
+            181.48
+          ],
+          "brightness": 213.99,
+          "contrast": 28.71,
+          "saturation": 55.86,
+          "edge_density": 39.79,
+          "dark_ratio": 0.0002
+        },
+        "vision": {
+          "edgeTextCount": 0,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car12_overstimulating-calm/tt_ig_2026w25_car12_overstimulating-calm-02.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.05563480741797433,
+                "width": 0.35472370766488415,
+                "x": 0.3226381461675579,
+                "y": 0.7467902995720399
+              },
+              "confidence": 0.5,
+              "text": "Too much"
+            },
+            {
+              "box": {
+                "height": 0.06562054208273893,
+                "width": 0.5739750445632799,
+                "x": 0.20855614973262032,
+                "y": 0.666904422253923
+              },
+              "confidence": 0.5,
+              "text": "novelty can make"
+            },
+            {
+              "box": {
+                "height": 0.06562054208273893,
+                "width": 0.6417112299465241,
+                "x": 0.17825311942959002,
+                "y": 0.5998573466476462
+              },
+              "confidence": 0.5,
+              "text": "tummy time harder."
+            }
+          ],
+          "textCount": 3,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 3,
+        "path": "public/publish/tt/tt_ig_2026w25_car12_overstimulating-calm/tt_ig_2026w25_car12_overstimulating-calm-03.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car12_overstimulating-calm/tt_ig_2026w25_car12_overstimulating-calm-03.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            234.32,
+            212.68,
+            182.48
+          ],
+          "brightness": 215.7,
+          "contrast": 27.75,
+          "saturation": 56.48,
+          "edge_density": 36.75,
+          "dark_ratio": 0.0032
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car12_overstimulating-calm/tt_ig_2026w25_car12_overstimulating-calm-03.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.015691868758915817,
+                "width": 0.12388591800356508,
+                "x": 0.4376114081996435,
+                "y": 0.8373751783166905
+              },
+              "confidence": 0.5,
+              "text": "TRY THIS"
+            },
+            {
+              "box": {
+                "height": 0.07417974322396581,
+                "width": 0.5508021390374331,
+                "x": 0.22994652406417113,
+                "y": 0.7211126961483595
+              },
+              "confidence": 0.5,
+              "text": "Dim the setup,"
+            },
+            {
+              "box": {
+                "height": 0.058487874465049994,
+                "width": 0.5062388591800356,
+                "x": 0.25133689839572193,
+                "y": 0.6583452211126961
+              },
+              "confidence": 0.5,
+              "text": "not the room."
+            },
+            {
+              "box": {
+                "height": 0.023537803138373725,
+                "width": 0.45721925133689834,
+                "x": 0.2718360071301248,
+                "y": 0.5977175463623395
+              },
+              "confidence": 0.5,
+              "text": "One tiny action is enough for today."
+            },
+            {
+              "box": {
+                "height": 0.0199714693295292,
+                "width": 0.31907308377896615,
+                "x": 0.339572192513369,
+                "y": 0.05492154065620547
+              },
+              "confidence": 0.5,
+              "text": "Tummy Time: Baby Activities"
+            }
+          ],
+          "textCount": 5,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 4,
+        "path": "public/publish/tt/tt_ig_2026w25_car12_overstimulating-calm/tt_ig_2026w25_car12_overstimulating-calm-04.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car12_overstimulating-calm/tt_ig_2026w25_car12_overstimulating-calm-04.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            229.69,
+            204.02,
+            170.95
+          ],
+          "brightness": 207.91,
+          "contrast": 29.12,
+          "saturation": 65.68,
+          "edge_density": 38.24,
+          "dark_ratio": 0.0042
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 1,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car12_overstimulating-calm/tt_ig_2026w25_car12_overstimulating-calm-04.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.015691868758915817,
+                "width": 0.12834224598930488,
+                "x": 0.4385026737967914,
+                "y": 0.833808844507846
+              },
+              "confidence": 0.5,
+              "text": "TRY THIS"
+            },
+            {
+              "box": {
+                "height": 0.06704707560627665,
+                "width": 0.6381461675579322,
+                "x": 0.18538324420677363,
+                "y": 0.7339514978601998
+              },
+              "confidence": 0.5,
+              "text": "Use one texture,"
+            },
+            {
+              "box": {
+                "height": 0.059914407988587715,
+                "width": 0.38680926916221037,
+                "x": 0.31016042780748665,
+                "y": 0.666904422253923
+              },
+              "confidence": 0.5,
+              "text": "one voice."
+            },
+            {
+              "box": {
+                "height": 0.022111269614835893,
+                "width": 0.44563279857397503,
+                "x": 0.27718360071301246,
+                "y": 0.6141226818830243
+              },
+              "confidence": 0.5,
+              "text": "One tiny action is enough for today."
+            },
+            {
+              "box": {
+                "height": 0.02068473609129806,
+                "width": 0.3163992869875223,
+                "x": 0.33689839572192515,
+                "y": 0.049215406562054254
+              },
+              "confidence": 0.5,
+              "text": "Tummy Time: Baby Activities"
+            }
+          ],
+          "textCount": 5,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 5,
+        "path": "public/publish/tt/tt_ig_2026w25_car12_overstimulating-calm/tt_ig_2026w25_car12_overstimulating-calm-05.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car12_overstimulating-calm/tt_ig_2026w25_car12_overstimulating-calm-05.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            226.69,
+            203.86,
+            173.2
+          ],
+          "brightness": 207.2,
+          "contrast": 34.18,
+          "saturation": 61.59,
+          "edge_density": 41.92,
+          "dark_ratio": 0.0205
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [
+            {
+              "height": 0.09068206697702408,
+              "width": 0.11331217736005783,
+              "x": 0.3160831332206726,
+              "y": 0.35961347818374634
+            }
+          ],
+          "faceCount": 1,
+          "handCount": 2,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car12_overstimulating-calm/tt_ig_2026w25_car12_overstimulating-calm-05.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.016405135520684788,
+                "width": 0.23440285204991085,
+                "x": 0.38235294117647056,
+                "y": 0.8273894436519258
+              },
+              "confidence": 0.5,
+              "text": "WATCH FOR THIS"
+            },
+            {
+              "box": {
+                "height": 0.06562054208273893,
+                "width": 0.46167557932263814,
+                "x": 0.27807486631016043,
+                "y": 0.7182596291012839
+              },
+              "confidence": 0.5,
+              "text": "Watch for"
+            },
+            {
+              "box": {
+                "height": 0.08131241084165475,
+                "width": 0.6007130124777184,
+                "x": 0.20677361853832443,
+                "y": 0.6169757489300999
+              },
+              "confidence": 0.5,
+              "text": "turning away."
+            },
+            {
+              "box": {
+                "height": 0.022824536376604865,
+                "width": 0.4563279857397505,
+                "x": 0.2736185383244207,
+                "y": 0.5770328102710414
+              },
+              "confidence": 0.5,
+              "text": "Follow your baby's cues, not a timer."
+            },
+            {
+              "box": {
+                "height": 0.02068473609129806,
+                "width": 0.3324420677361854,
+                "x": 0.32085561497326204,
+                "y": 0.04350927246790304
+              },
+              "confidence": 0.5,
+              "text": "Tummy Time: Baby Activities"
+            }
+          ],
+          "textCount": 5,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 6,
+        "path": "public/publish/tt/tt_ig_2026w25_car12_overstimulating-calm/tt_ig_2026w25_car12_overstimulating-calm-06.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car12_overstimulating-calm/tt_ig_2026w25_car12_overstimulating-calm-06.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            233.33,
+            209.74,
+            177.0
+          ],
+          "brightness": 213.06,
+          "contrast": 27.39,
+          "saturation": 61.71,
+          "edge_density": 37.08,
+          "dark_ratio": 0.0024
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car12_overstimulating-calm/tt_ig_2026w25_car12_overstimulating-calm-06.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.015691868758915817,
+                "width": 0.19073083778966132,
+                "x": 0.4090909090909091,
+                "y": 0.8081312410841655
+              },
+              "confidence": 0.5,
+              "text": "OPEN THE APP"
+            },
+            {
+              "box": {
+                "height": 0.061340941512125435,
+                "width": 0.3654188948306596,
+                "x": 0.3226381461675579,
+                "y": 0.7139800285306706
+              },
+              "confidence": 0.5,
+              "text": "Save this"
+            },
+            {
+              "box": {
+                "height": 0.059914407988587826,
+                "width": 0.6221033868092691,
+                "x": 0.2014260249554367,
+                "y": 0.6398002853067046
+              },
+              "confidence": 0.5,
+              "text": "calmer version."
+            },
+            {
+              "box": {
+                "height": 0.01783166904422262,
+                "width": 0.45811051693404636,
+                "x": 0.29233511586452765,
+                "y": 0.5884450784593438
+              },
+              "confidence": 0.5,
+              "text": "Save this for the next awake window."
+            },
+            {
+              "box": {
+                "height": 0.020684736091298173,
+                "width": 0.36363636363636365,
+                "x": 0.3253119429590018,
+                "y": 0.06704707560627676
+              },
+              "confidence": 0.5,
+              "text": "Screen-free, simple, no pressure."
+            }
+          ],
+          "textCount": 5,
+          "width": 1122
+        },
+        "issues": []
+      }
+    ]
+  },
+  "visual_qa_issues": [],
+  "url_issues": [],
+  "url_probes": [
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car12_overstimulating-calm/tt_ig_2026w25_car12_overstimulating-calm-01.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car12_overstimulating-calm/tt_ig_2026w25_car12_overstimulating-calm-02.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car12_overstimulating-calm/tt_ig_2026w25_car12_overstimulating-calm-03.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car12_overstimulating-calm/tt_ig_2026w25_car12_overstimulating-calm-04.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car12_overstimulating-calm/tt_ig_2026w25_car12_overstimulating-calm-05.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car12_overstimulating-calm/tt_ig_2026w25_car12_overstimulating-calm-06.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    }
+  ],
+  "cleaned_bundles": [],
+  "publish_host_sync": {
+    "attempted": true,
+    "provider": "github_pages",
+    "repo": "marccc127/tummy-time-publish-assets",
+    "branch": "gh-pages",
+    "changed": true,
+    "commit": "10fae5938dc76cdb7c37fbc596783f1e9ad08fbc",
+    "push_stdout": ""
+  }
+}
