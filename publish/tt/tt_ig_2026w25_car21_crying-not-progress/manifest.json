@@ -1,0 +1,611 @@
+{
+  "manifest_version": 1,
+  "generated_at": "2026-06-20T14:59:53.484885+00:00",
+  "account_id": "tt",
+  "content_id": "tt_ig_2026w25_car21_crying-not-progress",
+  "channel": "carousel",
+  "source_dir": "review/tt/tt_ig_2026w25_car21_crying-not-progress",
+  "normalized_files": [
+    "public/publish/tt/tt_ig_2026w25_car21_crying-not-progress/tt_ig_2026w25_car21_crying-not-progress-01.jpg",
+    "public/publish/tt/tt_ig_2026w25_car21_crying-not-progress/tt_ig_2026w25_car21_crying-not-progress-02.jpg",
+    "public/publish/tt/tt_ig_2026w25_car21_crying-not-progress/tt_ig_2026w25_car21_crying-not-progress-03.jpg",
+    "public/publish/tt/tt_ig_2026w25_car21_crying-not-progress/tt_ig_2026w25_car21_crying-not-progress-04.jpg",
+    "public/publish/tt/tt_ig_2026w25_car21_crying-not-progress/tt_ig_2026w25_car21_crying-not-progress-05.jpg",
+    "public/publish/tt/tt_ig_2026w25_car21_crying-not-progress/tt_ig_2026w25_car21_crying-not-progress-06.jpg"
+  ],
+  "relative_urls": [
+    "/publish/tt/tt_ig_2026w25_car21_crying-not-progress/tt_ig_2026w25_car21_crying-not-progress-01.jpg",
+    "/publish/tt/tt_ig_2026w25_car21_crying-not-progress/tt_ig_2026w25_car21_crying-not-progress-02.jpg",
+    "/publish/tt/tt_ig_2026w25_car21_crying-not-progress/tt_ig_2026w25_car21_crying-not-progress-03.jpg",
+    "/publish/tt/tt_ig_2026w25_car21_crying-not-progress/tt_ig_2026w25_car21_crying-not-progress-04.jpg",
+    "/publish/tt/tt_ig_2026w25_car21_crying-not-progress/tt_ig_2026w25_car21_crying-not-progress-05.jpg",
+    "/publish/tt/tt_ig_2026w25_car21_crying-not-progress/tt_ig_2026w25_car21_crying-not-progress-06.jpg"
+  ],
+  "local_preview_urls": [
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car21_crying-not-progress/tt_ig_2026w25_car21_crying-not-progress-01.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car21_crying-not-progress/tt_ig_2026w25_car21_crying-not-progress-02.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car21_crying-not-progress/tt_ig_2026w25_car21_crying-not-progress-03.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car21_crying-not-progress/tt_ig_2026w25_car21_crying-not-progress-04.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car21_crying-not-progress/tt_ig_2026w25_car21_crying-not-progress-05.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car21_crying-not-progress/tt_ig_2026w25_car21_crying-not-progress-06.jpg"
+  ],
+  "public_asset_urls": [
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car21_crying-not-progress/tt_ig_2026w25_car21_crying-not-progress-01.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car21_crying-not-progress/tt_ig_2026w25_car21_crying-not-progress-02.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car21_crying-not-progress/tt_ig_2026w25_car21_crying-not-progress-03.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car21_crying-not-progress/tt_ig_2026w25_car21_crying-not-progress-04.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car21_crying-not-progress/tt_ig_2026w25_car21_crying-not-progress-05.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car21_crying-not-progress/tt_ig_2026w25_car21_crying-not-progress-06.jpg"
+  ],
+  "caption": "Pushing through every time can make the next try heavier. Short, safe, supervised, and calm is easier to repeat.\n\nSave this gentle reset.",
+  "caption_issues": [],
+  "visual_qa": {
+    "status": "passed",
+    "reference": {
+      "dir": "assets/reference/tummy-time",
+      "status": "ready",
+      "median": {
+        "aspect_ratio": 0.8002853067047075,
+        "brightness": 213.06,
+        "contrast": 28.994999999999997,
+        "saturation": 57.89,
+        "edge_density": 38.485,
+        "dark_ratio": 0.0045000000000000005
+      }
+    },
+    "issues": [],
+    "slides": [
+      {
+        "index": 1,
+        "path": "public/publish/tt/tt_ig_2026w25_car21_crying-not-progress/tt_ig_2026w25_car21_crying-not-progress-01.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car21_crying-not-progress/tt_ig_2026w25_car21_crying-not-progress-01.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            229.02,
+            212.0,
+            187.95
+          ],
+          "brightness": 214.38,
+          "contrast": 33.82,
+          "saturation": 45.88,
+          "edge_density": 47.17,
+          "dark_ratio": 0.0054
+        },
+        "vision": {
+          "edgeTextCount": 0,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car21_crying-not-progress/tt_ig_2026w25_car21_crying-not-progress-01.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.07560627674750353,
+                "width": 0.6203208556149732,
+                "x": 0.19429590017825313,
+                "y": 0.7368045649072753
+              },
+              "confidence": 0.5,
+              "text": "Stop pretending"
+            },
+            {
+              "box": {
+                "height": 0.07560627674750353,
+                "width": 0.5739750445632799,
+                "x": 0.21568627450980393,
+                "y": 0.6597717546362339
+              },
+              "confidence": 0.5,
+              "text": "crying through"
+            },
+            {
+              "box": {
+                "height": 0.07417974322396581,
+                "width": 0.5704099821746881,
+                "x": 0.2192513368983957,
+                "y": 0.5855920114122681
+              },
+              "confidence": 0.5,
+              "text": "tummy time is"
+            },
+            {
+              "box": {
+                "height": 0.06276747503566327,
+                "width": 0.35472370766488415,
+                "x": 0.32798573975044565,
+                "y": 0.5114122681883024
+              },
+              "confidence": 0.5,
+              "text": "progress."
+            }
+          ],
+          "textCount": 4,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 2,
+        "path": "public/publish/tt/tt_ig_2026w25_car21_crying-not-progress/tt_ig_2026w25_car21_crying-not-progress-02.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car21_crying-not-progress/tt_ig_2026w25_car21_crying-not-progress-02.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            232.85,
+            212.03,
+            185.5
+          ],
+          "brightness": 215.19,
+          "contrast": 28.3,
+          "saturation": 51.92,
+          "edge_density": 36.64,
+          "dark_ratio": 0.0032
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car21_crying-not-progress/tt_ig_2026w25_car21_crying-not-progress-02.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.016405135520684788,
+                "width": 0.19340463458110518,
+                "x": 0.4037433155080214,
+                "y": 0.8195435092724679
+              },
+              "confidence": 0.5,
+              "text": "START SMALL"
+            },
+            {
+              "box": {
+                "height": 0.07703281027104136,
+                "width": 0.4260249554367202,
+                "x": 0.2887700534759358,
+                "y": 0.7054208273894437
+              },
+              "confidence": 0.5,
+              "text": "Repeatable"
+            },
+            {
+              "box": {
+                "height": 0.058487874465049994,
+                "width": 0.5686274509803921,
+                "x": 0.2192513368983957,
+                "y": 0.6469329529243937
+              },
+              "confidence": 0.5,
+              "text": "beats dramatic."
+            },
+            {
+              "box": {
+                "height": 0.022111269614836004,
+                "width": 0.49732620320855614,
+                "x": 0.25133689839572193,
+                "y": 0.5848787446504993
+              },
+              "confidence": 0.5,
+              "text": "Smaller and calmer usually works better."
+            },
+            {
+              "box": {
+                "height": 0.020684736091298173,
+                "width": 0.32709447415329773,
+                "x": 0.3342245989304813,
+                "y": 0.052068473609129806
+              },
+              "confidence": 0.5,
+              "text": "Tummy Time: Baby Activities"
+            }
+          ],
+          "textCount": 5,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 3,
+        "path": "public/publish/tt/tt_ig_2026w25_car21_crying-not-progress/tt_ig_2026w25_car21_crying-not-progress-03.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car21_crying-not-progress/tt_ig_2026w25_car21_crying-not-progress-03.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            228.4,
+            202.21,
+            168.84
+          ],
+          "brightness": 206.24,
+          "contrast": 33.54,
+          "saturation": 68.45,
+          "edge_density": 35.6,
+          "dark_ratio": 0.0178
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [
+            {
+              "height": 0.08507204055786133,
+              "width": 0.10630214214324951,
+              "x": 0.42448878288269043,
+              "y": 0.4109271168708801
+            }
+          ],
+          "faceCount": 1,
+          "handCount": 1,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car21_crying-not-progress/tt_ig_2026w25_car21_crying-not-progress-03.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.015691868758915817,
+                "width": 0.1292335115864528,
+                "x": 0.43493761140819964,
+                "y": 0.8345221112696148
+              },
+              "confidence": 0.5,
+              "text": "TRY THIS"
+            },
+            {
+              "box": {
+                "height": 0.05706134094151216,
+                "width": 0.6541889483065954,
+                "x": 0.18716577540106952,
+                "y": 0.7396576319543509
+              },
+              "confidence": 0.5,
+              "text": "Start closer first."
+            },
+            {
+              "box": {
+                "height": 0.022824536376604865,
+                "width": 0.4572192513368984,
+                "x": 0.2736185383244207,
+                "y": 0.6847360912981455
+              },
+              "confidence": 0.5,
+              "text": "One tiny action is enough for today."
+            },
+            {
+              "box": {
+                "height": 0.021398002853067033,
+                "width": 0.3155080213903743,
+                "x": 0.3360071301247772,
+                "y": 0.03780313837375182
+              },
+              "confidence": 0.5,
+              "text": "Tummy Time: Baby Activities"
+            }
+          ],
+          "textCount": 4,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 4,
+        "path": "public/publish/tt/tt_ig_2026w25_car21_crying-not-progress/tt_ig_2026w25_car21_crying-not-progress-04.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car21_crying-not-progress/tt_ig_2026w25_car21_crying-not-progress-04.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            236.57,
+            213.09,
+            179.89
+          ],
+          "brightness": 216.29,
+          "contrast": 23.29,
+          "saturation": 60.99,
+          "edge_density": 34.15,
+          "dark_ratio": 0.0039
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 1,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car21_crying-not-progress/tt_ig_2026w25_car21_crying-not-progress-04.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.014978601997146956,
+                "width": 0.12210338680926913,
+                "x": 0.4385026737967914,
+                "y": 0.8273894436519258
+              },
+              "confidence": 0.5,
+              "text": "TRY THIS"
+            },
+            {
+              "box": {
+                "height": 0.08131241084165486,
+                "width": 0.3422459893048128,
+                "x": 0.32620320855614976,
+                "y": 0.7125534950071326
+              },
+              "confidence": 0.5,
+              "text": "Try one"
+            },
+            {
+              "box": {
+                "height": 0.08273894436519258,
+                "width": 0.5490196078431373,
+                "x": 0.2887700534759358,
+                "y": 0.630527817403709
+              },
+              "confidence": 0.5,
+              "text": "tiny reset. j"
+            },
+            {
+              "box": {
+                "height": 0.022824536376604865,
+                "width": 0.44830659536541895,
+                "x": 0.27540106951871657,
+                "y": 0.5905848787446505
+              },
+              "confidence": 0.5,
+              "text": "One tiny action is enough for today."
+            },
+            {
+              "box": {
+                "height": 0.007132667617689048,
+                "width": 0.010695187165775444,
+                "x": 0.6417112299465241,
+                "y": 0.17118402282453637
+              },
+              "confidence": 0.5,
+              "text": "kT"
+            },
+            {
+              "box": {
+                "height": 0.020684736091298173,
+                "width": 0.33600713012477723,
+                "x": 0.3315508021390374,
+                "y": 0.050641940085591974
+              },
+              "confidence": 0.5,
+              "text": "Tummy Time: Baby Activities"
+            }
+          ],
+          "textCount": 6,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 5,
+        "path": "public/publish/tt/tt_ig_2026w25_car21_crying-not-progress/tt_ig_2026w25_car21_crying-not-progress-05.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car21_crying-not-progress/tt_ig_2026w25_car21_crying-not-progress-05.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            228.15,
+            204.81,
+            173.42
+          ],
+          "brightness": 208.2,
+          "contrast": 30.21,
+          "saturation": 62.34,
+          "edge_density": 38.44,
+          "dark_ratio": 0.0049
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 2,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car21_crying-not-progress/tt_ig_2026w25_car21_crying-not-progress-05.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.015691868758915817,
+                "width": 0.2388591800356506,
+                "x": 0.3805704099821747,
+                "y": 0.833095577746077
+              },
+              "confidence": 0.5,
+              "text": "WATCH FOR THIS"
+            },
+            {
+              "box": {
+                "height": 0.07988587731811692,
+                "width": 0.49732620320855614,
+                "x": 0.26024955436720143,
+                "y": 0.7211126961483595
+              },
+              "confidence": 0.5,
+              "text": "Quit before"
+            },
+            {
+              "box": {
+                "height": 0.0641940085592011,
+                "width": 0.3903743315508022,
+                "x": 0.3155080213903743,
+                "y": 0.6554921540656206
+              },
+              "confidence": 0.5,
+              "text": "the tears."
+            },
+            {
+              "box": {
+                "height": 0.023537803138373836,
+                "width": 0.45543672014260245,
+                "x": 0.2700534759358289,
+                "y": 0.601283880171184
+              },
+              "confidence": 0.5,
+              "text": "Follow your baby's cues, not a timer."
+            },
+            {
+              "box": {
+                "height": 0.019971469329529312,
+                "width": 0.3119429590017826,
+                "x": 0.33778966131907306,
+                "y": 0.04850213980028528
+              },
+              "confidence": 0.5,
+              "text": "Tummy Time: Baby Activities"
+            }
+          ],
+          "textCount": 5,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 6,
+        "path": "public/publish/tt/tt_ig_2026w25_car21_crying-not-progress/tt_ig_2026w25_car21_crying-not-progress-06.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car21_crying-not-progress/tt_ig_2026w25_car21_crying-not-progress-06.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            233.0,
+            210.04,
+            181.39
+          ],
+          "brightness": 213.61,
+          "contrast": 27.74,
+          "saturation": 56.71,
+          "edge_density": 38.41,
+          "dark_ratio": 0.0042
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car21_crying-not-progress/tt_ig_2026w25_car21_crying-not-progress-06.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.016405135520684677,
+                "width": 0.21122994652406413,
+                "x": 0.393048128342246,
+                "y": 0.8166904422253923
+              },
+              "confidence": 0.5,
+              "text": "OPEN THE APP"
+            },
+            {
+              "box": {
+                "height": 0.05706134094151216,
+                "width": 0.4777183600713012,
+                "x": 0.26559714795008915,
+                "y": 0.7225392296718973
+              },
+              "confidence": 0.5,
+              "text": "Save this for"
+            },
+            {
+              "box": {
+                "height": 0.07275320970042798,
+                "width": 0.3939393939393939,
+                "x": 0.3083778966131907,
+                "y": 0.6326676176890157
+              },
+              "confidence": 0.5,
+              "text": "hard days."
+            },
+            {
+              "box": {
+                "height": 0.01783166904422262,
+                "width": 0.45187165775401067,
+                "x": 0.2736185383244207,
+                "y": 0.6005706134094151
+              },
+              "confidence": 0.5,
+              "text": "Save this for the next awake window."
+            },
+            {
+              "box": {
+                "height": 0.020684736091298173,
+                "width": 0.3698752228163993,
+                "x": 0.3137254901960784,
+                "y": 0.05349500713266764
+              },
+              "confidence": 0.5,
+              "text": "Screen-free, simple, no pressure."
+            }
+          ],
+          "textCount": 5,
+          "width": 1122
+        },
+        "issues": []
+      }
+    ]
+  },
+  "visual_qa_issues": [],
+  "url_issues": [],
+  "url_probes": [
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car21_crying-not-progress/tt_ig_2026w25_car21_crying-not-progress-01.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car21_crying-not-progress/tt_ig_2026w25_car21_crying-not-progress-02.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car21_crying-not-progress/tt_ig_2026w25_car21_crying-not-progress-03.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car21_crying-not-progress/tt_ig_2026w25_car21_crying-not-progress-04.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car21_crying-not-progress/tt_ig_2026w25_car21_crying-not-progress-05.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car21_crying-not-progress/tt_ig_2026w25_car21_crying-not-progress-06.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    }
+  ],
+  "cleaned_bundles": [],
+  "publish_host_sync": {
+    "attempted": true,
+    "provider": "github_pages",
+    "repo": "marccc127/tummy-time-publish-assets",
+    "branch": "gh-pages",
+    "changed": true,
+    "commit": "49f822c7dd9319ad265f4eb23a68b3c3069afbda",
+    "push_stdout": ""
+  }
+}
