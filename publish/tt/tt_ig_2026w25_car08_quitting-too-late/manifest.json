@@ -1,0 +1,561 @@
+{
+  "manifest_version": 1,
+  "generated_at": "2026-06-20T02:20:07.194048+00:00",
+  "account_id": "tt",
+  "content_id": "tt_ig_2026w25_car08_quitting-too-late",
+  "channel": "carousel",
+  "source_dir": "review/tt/tt_ig_2026w25_car08_quitting-too-late",
+  "normalized_files": [
+    "public/publish/tt/tt_ig_2026w25_car08_quitting-too-late/tt_ig_2026w25_car08_quitting-too-late-01.jpg",
+    "public/publish/tt/tt_ig_2026w25_car08_quitting-too-late/tt_ig_2026w25_car08_quitting-too-late-02.jpg",
+    "public/publish/tt/tt_ig_2026w25_car08_quitting-too-late/tt_ig_2026w25_car08_quitting-too-late-03.jpg",
+    "public/publish/tt/tt_ig_2026w25_car08_quitting-too-late/tt_ig_2026w25_car08_quitting-too-late-04.jpg",
+    "public/publish/tt/tt_ig_2026w25_car08_quitting-too-late/tt_ig_2026w25_car08_quitting-too-late-05.jpg",
+    "public/publish/tt/tt_ig_2026w25_car08_quitting-too-late/tt_ig_2026w25_car08_quitting-too-late-06.jpg"
+  ],
+  "relative_urls": [
+    "/publish/tt/tt_ig_2026w25_car08_quitting-too-late/tt_ig_2026w25_car08_quitting-too-late-01.jpg",
+    "/publish/tt/tt_ig_2026w25_car08_quitting-too-late/tt_ig_2026w25_car08_quitting-too-late-02.jpg",
+    "/publish/tt/tt_ig_2026w25_car08_quitting-too-late/tt_ig_2026w25_car08_quitting-too-late-03.jpg",
+    "/publish/tt/tt_ig_2026w25_car08_quitting-too-late/tt_ig_2026w25_car08_quitting-too-late-04.jpg",
+    "/publish/tt/tt_ig_2026w25_car08_quitting-too-late/tt_ig_2026w25_car08_quitting-too-late-05.jpg",
+    "/publish/tt/tt_ig_2026w25_car08_quitting-too-late/tt_ig_2026w25_car08_quitting-too-late-06.jpg"
+  ],
+  "local_preview_urls": [
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car08_quitting-too-late/tt_ig_2026w25_car08_quitting-too-late-01.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car08_quitting-too-late/tt_ig_2026w25_car08_quitting-too-late-02.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car08_quitting-too-late/tt_ig_2026w25_car08_quitting-too-late-03.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car08_quitting-too-late/tt_ig_2026w25_car08_quitting-too-late-04.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car08_quitting-too-late/tt_ig_2026w25_car08_quitting-too-late-05.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car08_quitting-too-late/tt_ig_2026w25_car08_quitting-too-late-06.jpg"
+  ],
+  "public_asset_urls": [
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car08_quitting-too-late/tt_ig_2026w25_car08_quitting-too-late-01.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car08_quitting-too-late/tt_ig_2026w25_car08_quitting-too-late-02.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car08_quitting-too-late/tt_ig_2026w25_car08_quitting-too-late-03.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car08_quitting-too-late/tt_ig_2026w25_car08_quitting-too-late-04.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car08_quitting-too-late/tt_ig_2026w25_car08_quitting-too-late-05.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car08_quitting-too-late/tt_ig_2026w25_car08_quitting-too-late-06.jpg"
+  ],
+  "caption": "A lot of tummy time battles start because we wait until baby is already done. Ending earlier can make the next try feel easier.\n\nSave this cue check.",
+  "caption_issues": [],
+  "visual_qa": {
+    "status": "passed",
+    "reference": {
+      "dir": "assets/reference/tummy-time",
+      "status": "ready",
+      "median": {
+        "aspect_ratio": 0.8002853067047075,
+        "brightness": 213.585,
+        "contrast": 29.05,
+        "saturation": 56.75,
+        "edge_density": 38.94,
+        "dark_ratio": 0.0038
+      }
+    },
+    "issues": [],
+    "slides": [
+      {
+        "index": 1,
+        "path": "public/publish/tt/tt_ig_2026w25_car08_quitting-too-late/tt_ig_2026w25_car08_quitting-too-late-01.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car08_quitting-too-late/tt_ig_2026w25_car08_quitting-too-late-01.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            228.76,
+            213.74,
+            192.01
+          ],
+          "brightness": 215.79,
+          "contrast": 34.02,
+          "saturation": 41.11,
+          "edge_density": 49.72,
+          "dark_ratio": 0.009
+        },
+        "vision": {
+          "edgeTextCount": 0,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car08_quitting-too-late/tt_ig_2026w25_car08_quitting-too-late-01.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.0884450784593438,
+                "width": 0.6096256684491979,
+                "x": 0.21568627450980393,
+                "y": 0.7253922967189729
+              },
+              "confidence": 0.5,
+              "text": "You might be"
+            },
+            {
+              "box": {
+                "height": 0.08416547788873041,
+                "width": 0.7147950089126559,
+                "x": 0.16755793226381463,
+                "y": 0.6383737517831669
+              },
+              "confidence": 0.5,
+              "text": "quitting tummy"
+            },
+            {
+              "box": {
+                "height": 0.06704707560627676,
+                "width": 0.5918003565062389,
+                "x": 0.23529411764705882,
+                "y": 0.5670470756062768
+              },
+              "confidence": 0.5,
+              "text": "time too late."
+            }
+          ],
+          "textCount": 3,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 2,
+        "path": "public/publish/tt/tt_ig_2026w25_car08_quitting-too-late/tt_ig_2026w25_car08_quitting-too-late-02.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car08_quitting-too-late/tt_ig_2026w25_car08_quitting-too-late-02.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            231.47,
+            210.97,
+            183.58
+          ],
+          "brightness": 213.98,
+          "contrast": 28.71,
+          "saturation": 53.02,
+          "edge_density": 40.14,
+          "dark_ratio": 0.0007
+        },
+        "vision": {
+          "edgeTextCount": 0,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car08_quitting-too-late/tt_ig_2026w25_car08_quitting-too-late-02.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.05563480741797433,
+                "width": 0.3850267379679144,
+                "x": 0.3083778966131907,
+                "y": 0.7582025677603423
+              },
+              "confidence": 0.5,
+              "text": "The win is"
+            },
+            {
+              "box": {
+                "height": 0.0684736091298146,
+                "width": 0.6452762923351159,
+                "x": 0.18716577540106952,
+                "y": 0.6697574893009985
+              },
+              "confidence": 0.5,
+              "text": "ending while baby"
+            },
+            {
+              "box": {
+                "height": 0.0684736091298146,
+                "width": 0.40641711229946526,
+                "x": 0.31194295900178254,
+                "y": 0.5970042796005706
+              },
+              "confidence": 0.5,
+              "text": "is still okay."
+            }
+          ],
+          "textCount": 3,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 3,
+        "path": "public/publish/tt/tt_ig_2026w25_car08_quitting-too-late/tt_ig_2026w25_car08_quitting-too-late-03.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car08_quitting-too-late/tt_ig_2026w25_car08_quitting-too-late-03.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            232.95,
+            210.18,
+            180.71
+          ],
+          "brightness": 213.62,
+          "contrast": 27.35,
+          "saturation": 57.46,
+          "edge_density": 37.03,
+          "dark_ratio": 0.0015
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 2,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car08_quitting-too-late/tt_ig_2026w25_car08_quitting-too-late-03.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.015691868758915817,
+                "width": 0.1292335115864528,
+                "x": 0.43493761140819964,
+                "y": 0.8495007132667618
+              },
+              "confidence": 0.5,
+              "text": "TRY THIS"
+            },
+            {
+              "box": {
+                "height": 0.05706134094151216,
+                "width": 0.5418894830659537,
+                "x": 0.23529411764705882,
+                "y": 0.753922967189729
+              },
+              "confidence": 0.5,
+              "text": "Watch the first"
+            },
+            {
+              "box": {
+                "height": 0.07132667617689015,
+                "width": 0.5543672014260249,
+                "x": 0.23351158645276293,
+                "y": 0.6654778887303852
+              },
+              "confidence": 0.5,
+              "text": "tiny turn-away."
+            },
+            {
+              "box": {
+                "height": 0.022824536376604865,
+                "width": 0.4500891265597148,
+                "x": 0.27450980392156865,
+                "y": 0.6219686162624822
+              },
+              "confidence": 0.5,
+              "text": "One tiny action is enough for today."
+            },
+            {
+              "box": {
+                "height": 0.0199714693295292,
+                "width": 0.3199643493761141,
+                "x": 0.33868092691622104,
+                "y": 0.05349500713266764
+              },
+              "confidence": 0.5,
+              "text": "Tummy Time.' Baby Activities"
+            }
+          ],
+          "textCount": 5,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 4,
+        "path": "public/publish/tt/tt_ig_2026w25_car08_quitting-too-late/tt_ig_2026w25_car08_quitting-too-late-04.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car08_quitting-too-late/tt_ig_2026w25_car08_quitting-too-late-04.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            233.66,
+            210.76,
+            179.14
+          ],
+          "brightness": 213.98,
+          "contrast": 26.36,
+          "saturation": 59.46,
+          "edge_density": 37.3,
+          "dark_ratio": 0.0005
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car08_quitting-too-late/tt_ig_2026w25_car08_quitting-too-late-04.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.016405135520684788,
+                "width": 0.13279857397504458,
+                "x": 0.43137254901960786,
+                "y": 0.7810271041369472
+              },
+              "confidence": 0.5,
+              "text": "TRY THIS"
+            },
+            {
+              "box": {
+                "height": 0.05706134094151216,
+                "width": 0.4901960784313725,
+                "x": 0.25668449197860965,
+                "y": 0.6854493580599144
+              },
+              "confidence": 0.5,
+              "text": "Pause before"
+            },
+            {
+              "box": {
+                "height": 0.07275320970042798,
+                "width": 0.5864527629233511,
+                "x": 0.22103386809269163,
+                "y": 0.5912981455064195
+              },
+              "confidence": 0.5,
+              "text": "the full protest."
+            },
+            {
+              "box": {
+                "height": 0.022824536376604865,
+                "width": 0.4518716577540107,
+                "x": 0.28342245989304815,
+                "y": 0.5485021398002853
+              },
+              "confidence": 0.5,
+              "text": "One tiny action is enough for today."
+            },
+            {
+              "box": {
+                "height": 0.006419400855920077,
+                "width": 0.012477718360071277,
+                "x": 0.3609625668449198,
+                "y": 0.23395149786019975
+              },
+              "confidence": 0.5,
+              "text": "*C"
+            },
+            {
+              "box": {
+                "height": 0.022111269614836004,
+                "width": 0.35650623885918004,
+                "x": 0.3235294117647059,
+                "y": 0.05848787446504988
+              },
+              "confidence": 0.5,
+              "text": "Tummy Time: Baby Activities"
+            }
+          ],
+          "textCount": 6,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 5,
+        "path": "public/publish/tt/tt_ig_2026w25_car08_quitting-too-late/tt_ig_2026w25_car08_quitting-too-late-05.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car08_quitting-too-late/tt_ig_2026w25_car08_quitting-too-late-05.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            233.2,
+            209.42,
+            178.25
+          ],
+          "brightness": 212.96,
+          "contrast": 27.39,
+          "saturation": 60.36,
+          "edge_density": 38.41,
+          "dark_ratio": 0.0029
+        },
+        "vision": {
+          "edgeTextCount": 0,
+          "faceBoxes": [
+            {
+              "height": 0.12442990392446518,
+              "width": 0.15548193454742432,
+              "x": 0.5255634784698486,
+              "y": 0.29041555523872375
+            }
+          ],
+          "faceCount": 1,
+          "handCount": 2,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car08_quitting-too-late/tt_ig_2026w25_car08_quitting-too-late-05.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.05563480741797444,
+                "width": 0.5383244206773619,
+                "x": 0.23885918003565063,
+                "y": 0.7510699001426533
+              },
+              "confidence": 0.5,
+              "text": "Short and calm"
+            },
+            {
+              "box": {
+                "height": 0.07132667617689015,
+                "width": 0.7165775401069518,
+                "x": 0.15151515151515152,
+                "y": 0.6611982881597718
+              },
+              "confidence": 0.5,
+              "text": "beats long and tense."
+            }
+          ],
+          "textCount": 2,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 6,
+        "path": "public/publish/tt/tt_ig_2026w25_car08_quitting-too-late/tt_ig_2026w25_car08_quitting-too-late-06.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car08_quitting-too-late/tt_ig_2026w25_car08_quitting-too-late-06.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            233.91,
+            209.96,
+            178.37
+          ],
+          "brightness": 213.52,
+          "contrast": 28.67,
+          "saturation": 60.33,
+          "edge_density": 41.45,
+          "dark_ratio": 0.0093
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car08_quitting-too-late/tt_ig_2026w25_car08_quitting-too-late-06.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.016405135520684788,
+                "width": 0.20588235294117646,
+                "x": 0.3948306595365419,
+                "y": 0.8509272467902995
+              },
+              "confidence": 0.5,
+              "text": "OPEN THE APP"
+            },
+            {
+              "box": {
+                "height": 0.06990014265335243,
+                "width": 0.4010695187165775,
+                "x": 0.30124777183600715,
+                "y": 0.7482168330955777
+              },
+              "confidence": 0.5,
+              "text": "Save this"
+            },
+            {
+              "box": {
+                "height": 0.0884450784593438,
+                "width": 0.500891265597148,
+                "x": 0.25846702317290554,
+                "y": 0.6398002853067046
+              },
+              "confidence": 0.5,
+              "text": "for tonight."
+            },
+            {
+              "box": {
+                "height": 0.01783166904422251,
+                "width": 0.4679144385026738,
+                "x": 0.26559714795008915,
+                "y": 0.6034236804564908
+              },
+              "confidence": 0.5,
+              "text": "Save this for the next awake window."
+            },
+            {
+              "box": {
+                "height": 0.019971469329529312,
+                "width": 0.37522281639928695,
+                "x": 0.31194295900178254,
+                "y": 0.059914407988587715
+              },
+              "confidence": 0.5,
+              "text": "Screen-free, simple, no pressure."
+            }
+          ],
+          "textCount": 5,
+          "width": 1122
+        },
+        "issues": []
+      }
+    ]
+  },
+  "visual_qa_issues": [],
+  "url_issues": [],
+  "url_probes": [
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car08_quitting-too-late/tt_ig_2026w25_car08_quitting-too-late-01.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car08_quitting-too-late/tt_ig_2026w25_car08_quitting-too-late-02.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car08_quitting-too-late/tt_ig_2026w25_car08_quitting-too-late-03.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car08_quitting-too-late/tt_ig_2026w25_car08_quitting-too-late-04.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car08_quitting-too-late/tt_ig_2026w25_car08_quitting-too-late-05.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car08_quitting-too-late/tt_ig_2026w25_car08_quitting-too-late-06.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    }
+  ],
+  "cleaned_bundles": [],
+  "publish_host_sync": {
+    "attempted": true,
+    "provider": "github_pages",
+    "repo": "marccc127/tummy-time-publish-assets",
+    "branch": "gh-pages",
+    "changed": true,
+    "commit": "80ac90cb7500e130d69181b89b602be07578f7c3",
+    "push_stdout": ""
+  }
+}
