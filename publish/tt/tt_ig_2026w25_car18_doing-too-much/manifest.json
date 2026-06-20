@@ -1,0 +1,618 @@
+{
+  "manifest_version": 1,
+  "generated_at": "2026-06-20T04:36:03.892030+00:00",
+  "account_id": "tt",
+  "content_id": "tt_ig_2026w25_car18_doing-too-much",
+  "channel": "carousel",
+  "source_dir": "review/tt/tt_ig_2026w25_car18_doing-too-much",
+  "normalized_files": [
+    "public/publish/tt/tt_ig_2026w25_car18_doing-too-much/tt_ig_2026w25_car18_doing-too-much-01.jpg",
+    "public/publish/tt/tt_ig_2026w25_car18_doing-too-much/tt_ig_2026w25_car18_doing-too-much-02.jpg",
+    "public/publish/tt/tt_ig_2026w25_car18_doing-too-much/tt_ig_2026w25_car18_doing-too-much-03.jpg",
+    "public/publish/tt/tt_ig_2026w25_car18_doing-too-much/tt_ig_2026w25_car18_doing-too-much-04.jpg",
+    "public/publish/tt/tt_ig_2026w25_car18_doing-too-much/tt_ig_2026w25_car18_doing-too-much-05.jpg",
+    "public/publish/tt/tt_ig_2026w25_car18_doing-too-much/tt_ig_2026w25_car18_doing-too-much-06.jpg"
+  ],
+  "relative_urls": [
+    "/publish/tt/tt_ig_2026w25_car18_doing-too-much/tt_ig_2026w25_car18_doing-too-much-01.jpg",
+    "/publish/tt/tt_ig_2026w25_car18_doing-too-much/tt_ig_2026w25_car18_doing-too-much-02.jpg",
+    "/publish/tt/tt_ig_2026w25_car18_doing-too-much/tt_ig_2026w25_car18_doing-too-much-03.jpg",
+    "/publish/tt/tt_ig_2026w25_car18_doing-too-much/tt_ig_2026w25_car18_doing-too-much-04.jpg",
+    "/publish/tt/tt_ig_2026w25_car18_doing-too-much/tt_ig_2026w25_car18_doing-too-much-05.jpg",
+    "/publish/tt/tt_ig_2026w25_car18_doing-too-much/tt_ig_2026w25_car18_doing-too-much-06.jpg"
+  ],
+  "local_preview_urls": [
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car18_doing-too-much/tt_ig_2026w25_car18_doing-too-much-01.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car18_doing-too-much/tt_ig_2026w25_car18_doing-too-much-02.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car18_doing-too-much/tt_ig_2026w25_car18_doing-too-much-03.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car18_doing-too-much/tt_ig_2026w25_car18_doing-too-much-04.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car18_doing-too-much/tt_ig_2026w25_car18_doing-too-much-05.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car18_doing-too-much/tt_ig_2026w25_car18_doing-too-much-06.jpg"
+  ],
+  "public_asset_urls": [
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car18_doing-too-much/tt_ig_2026w25_car18_doing-too-much-01.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car18_doing-too-much/tt_ig_2026w25_car18_doing-too-much-02.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car18_doing-too-much/tt_ig_2026w25_car18_doing-too-much-03.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car18_doing-too-much/tt_ig_2026w25_car18_doing-too-much-04.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car18_doing-too-much/tt_ig_2026w25_car18_doing-too-much-05.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car18_doing-too-much/tt_ig_2026w25_car18_doing-too-much-06.jpg"
+  ],
+  "caption": "If tummy time feels like a full production, that may be the problem. Shrink it until it feels repeatable.\n\nSave this tiny plan.",
+  "caption_issues": [],
+  "visual_qa": {
+    "status": "passed",
+    "reference": {
+      "dir": "assets/reference/tummy-time",
+      "status": "ready",
+      "median": {
+        "aspect_ratio": 0.8002853067047075,
+        "brightness": 213.025,
+        "contrast": 29.05,
+        "saturation": 57.905,
+        "edge_density": 38.735,
+        "dark_ratio": 0.0046
+      }
+    },
+    "issues": [],
+    "slides": [
+      {
+        "index": 1,
+        "path": "public/publish/tt/tt_ig_2026w25_car18_doing-too-much/tt_ig_2026w25_car18_doing-too-much-01.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car18_doing-too-much/tt_ig_2026w25_car18_doing-too-much-01.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            227.17,
+            205.86,
+            176.11
+          ],
+          "brightness": 208.84,
+          "contrast": 33.14,
+          "saturation": 57.69,
+          "edge_density": 43.89,
+          "dark_ratio": 0.0112
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car18_doing-too-much/tt_ig_2026w25_car18_doing-too-much-01.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.01711840228245365,
+                "width": 0.1586452762923351,
+                "x": 0.4215686274509804,
+                "y": 0.8516405135520685
+              },
+              "confidence": 0.5,
+              "text": "SAVE THIS"
+            },
+            {
+              "box": {
+                "height": 0.06562054208273893,
+                "width": 0.3600713012477718,
+                "x": 0.32085561497326204,
+                "y": 0.7453637660485022
+              },
+              "confidence": 0.5,
+              "text": "You are"
+            },
+            {
+              "box": {
+                "height": 0.08416547788873041,
+                "width": 0.6595365418894831,
+                "x": 0.1746880570409982,
+                "y": 0.645506419400856
+              },
+              "confidence": 0.5,
+              "text": "probably doing"
+            },
+            {
+              "box": {
+                "height": 0.06562054208273893,
+                "width": 0.43672014260249553,
+                "x": 0.28520499108734404,
+                "y": 0.5827389443651926
+              },
+              "confidence": 0.5,
+              "text": "too much."
+            },
+            {
+              "box": {
+                "height": 0.022824536376604865,
+                "width": 0.5802139037433155,
+                "x": 0.21657754010695188,
+                "y": 0.5278174037089871
+              },
+              "confidence": 0.5,
+              "text": "A calmer setup usually beats more pressure."
+            },
+            {
+              "box": {
+                "height": 0.021398002853067144,
+                "width": 0.36274509803921573,
+                "x": 0.3163992869875223,
+                "y": 0.05278174037089867
+              },
+              "confidence": 0.5,
+              "text": "Tummy Time: Baby Activities"
+            }
+          ],
+          "textCount": 6,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 2,
+        "path": "public/publish/tt/tt_ig_2026w25_car18_doing-too-much/tt_ig_2026w25_car18_doing-too-much-02.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car18_doing-too-much/tt_ig_2026w25_car18_doing-too-much-02.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            229.7,
+            210.34,
+            184.5
+          ],
+          "brightness": 213.2,
+          "contrast": 28.81,
+          "saturation": 50.27,
+          "edge_density": 38.16,
+          "dark_ratio": 0.0029
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car18_doing-too-much/tt_ig_2026w25_car18_doing-too-much-02.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.015691868758915817,
+                "width": 0.2495543672014261,
+                "x": 0.37344028520499106,
+                "y": 0.8423680456490727
+              },
+              "confidence": 0.5,
+              "text": "MAKE IT GENTLER"
+            },
+            {
+              "box": {
+                "height": 0.07132667617689015,
+                "width": 0.4777183600713012,
+                "x": 0.26024955436720143,
+                "y": 0.7054208273894437
+              },
+              "confidence": 0.5,
+              "text": "Tummy time"
+            },
+            {
+              "box": {
+                "height": 0.06990014265335232,
+                "width": 0.7290552584670231,
+                "x": 0.1408199643493761,
+                "y": 0.6340941512125535
+              },
+              "confidence": 0.5,
+              "text": "can be almost boring."
+            },
+            {
+              "box": {
+                "height": 0.021398002853067033,
+                "width": 0.49821746880570406,
+                "x": 0.25133689839572193,
+                "y": 0.5920114122681883
+              },
+              "confidence": 0.5,
+              "text": "Smaller and calmer usually works better."
+            },
+            {
+              "box": {
+                "height": 0.020684736091298173,
+                "width": 0.3404634581105169,
+                "x": 0.32887700534759357,
+                "y": 0.06205420827389441
+              },
+              "confidence": 0.5,
+              "text": "Tummy Time: Baby Activities"
+            }
+          ],
+          "textCount": 5,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 3,
+        "path": "public/publish/tt/tt_ig_2026w25_car18_doing-too-much/tt_ig_2026w25_car18_doing-too-much-03.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car18_doing-too-much/tt_ig_2026w25_car18_doing-too-much-03.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            231.64,
+            209.72,
+            179.09
+          ],
+          "brightness": 212.8,
+          "contrast": 29.31,
+          "saturation": 57.93,
+          "edge_density": 39.74,
+          "dark_ratio": 0.0073
+        },
+        "vision": {
+          "edgeTextCount": 0,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car18_doing-too-much/tt_ig_2026w25_car18_doing-too-much-03.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.06276747503566338,
+                "width": 0.5222816399286988,
+                "x": 0.24064171122994651,
+                "y": 0.7368045649072753
+              },
+              "confidence": 0.5,
+              "text": "One blanket."
+            },
+            {
+              "box": {
+                "height": 0.059914407988587604,
+                "width": 0.41711229946524064,
+                "x": 0.29233511586452765,
+                "y": 0.652639087018545
+              },
+              "confidence": 0.5,
+              "text": "One voice."
+            },
+            {
+              "box": {
+                "height": 0.059914407988587715,
+                "width": 0.4991087344028521,
+                "x": 0.24955436720142601,
+                "y": 0.5670470756062768
+              },
+              "confidence": 0.5,
+              "text": "One minute."
+            }
+          ],
+          "textCount": 3,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 4,
+        "path": "public/publish/tt/tt_ig_2026w25_car18_doing-too-much/tt_ig_2026w25_car18_doing-too-much-04.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car18_doing-too-much/tt_ig_2026w25_car18_doing-too-much-04.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            231.99,
+            207.94,
+            177.15
+          ],
+          "brightness": 211.62,
+          "contrast": 27.32,
+          "saturation": 60.64,
+          "edge_density": 37.18,
+          "dark_ratio": 0.0054
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [
+            {
+              "height": 0.11373972147703171,
+              "width": 0.1421239674091339,
+              "x": 0.5829866528511047,
+              "y": 0.2963687777519226
+            }
+          ],
+          "faceCount": 1,
+          "handCount": 2,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car18_doing-too-much/tt_ig_2026w25_car18_doing-too-much-04.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.016405135520684677,
+                "width": 0.12923351158645274,
+                "x": 0.43672014260249553,
+                "y": 0.833808844507846
+              },
+              "confidence": 0.5,
+              "text": "TRY THIS"
+            },
+            {
+              "box": {
+                "height": 0.0784593437945792,
+                "width": 0.5383244206773619,
+                "x": 0.24598930481283424,
+                "y": 0.7154065620542083
+              },
+              "confidence": 0.5,
+              "text": "Let baby lead"
+            },
+            {
+              "box": {
+                "height": 0.0784593437945792,
+                "width": 0.3511586452762923,
+                "x": 0.33511586452762926,
+                "y": 0.6369472182596291
+              },
+              "confidence": 0.5,
+              "text": "the pace."
+            },
+            {
+              "box": {
+                "height": 0.024251069900142586,
+                "width": 0.464349376114082,
+                "x": 0.27540106951871657,
+                "y": 0.594864479315264
+              },
+              "confidence": 0.5,
+              "text": "One tiny action is enough for today."
+            },
+            {
+              "box": {
+                "height": 0.01925820256776034,
+                "width": 0.30659536541889476,
+                "x": 0.339572192513369,
+                "y": 0.05349500713266764
+              },
+              "confidence": 0.5,
+              "text": "Tummy Time: Baby Activities"
+            }
+          ],
+          "textCount": 5,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 5,
+        "path": "public/publish/tt/tt_ig_2026w25_car18_doing-too-much/tt_ig_2026w25_car18_doing-too-much-05.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car18_doing-too-much/tt_ig_2026w25_car18_doing-too-much-05.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            232.21,
+            205.6,
+            173.02
+          ],
+          "brightness": 209.82,
+          "contrast": 26.93,
+          "saturation": 65.29,
+          "edge_density": 36.19,
+          "dark_ratio": 0.0068
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [
+            {
+              "height": 0.1359722763299942,
+              "width": 0.16990475356578827,
+              "x": 0.5385009050369263,
+              "y": 0.29835543036460876
+            }
+          ],
+          "faceCount": 1,
+          "handCount": 2,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car18_doing-too-much/tt_ig_2026w25_car18_doing-too-much-05.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.016405135520684788,
+                "width": 0.23796791443850268,
+                "x": 0.38324420677361853,
+                "y": 0.833095577746077
+              },
+              "confidence": 0.5,
+              "text": "WATCH FOR THIS"
+            },
+            {
+              "box": {
+                "height": 0.0641940085592011,
+                "width": 0.3814616755793226,
+                "x": 0.32085561497326204,
+                "y": 0.7296718972895864
+              },
+              "confidence": 0.5,
+              "text": "Less can"
+            },
+            {
+              "box": {
+                "height": 0.06562054208273904,
+                "width": 0.42602495543672014,
+                "x": 0.30124777183600715,
+                "y": 0.6483594864479315
+              },
+              "confidence": 0.5,
+              "text": "feel safer."
+            },
+            {
+              "box": {
+                "height": 0.022824536376604865,
+                "width": 0.46880570409982175,
+                "x": 0.2825311942959002,
+                "y": 0.5955777460770328
+              },
+              "confidence": 0.5,
+              "text": "Follow your baby's cues, not a timer."
+            },
+            {
+              "box": {
+                "height": 0.01925820256776034,
+                "width": 0.30837789661319076,
+                "x": 0.3413547237076649,
+                "y": 0.05278174037089867
+              },
+              "confidence": 0.5,
+              "text": "Tummy Time: Baby Activities"
+            }
+          ],
+          "textCount": 5,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 6,
+        "path": "public/publish/tt/tt_ig_2026w25_car18_doing-too-much/tt_ig_2026w25_car18_doing-too-much-06.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car18_doing-too-much/tt_ig_2026w25_car18_doing-too-much-06.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            233.29,
+            209.04,
+            178.54
+          ],
+          "brightness": 212.8,
+          "contrast": 27.67,
+          "saturation": 59.75,
+          "edge_density": 36.62,
+          "dark_ratio": 0.0068
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car18_doing-too-much/tt_ig_2026w25_car18_doing-too-much-06.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.01711840228245365,
+                "width": 0.21301247771836007,
+                "x": 0.39572192513368987,
+                "y": 0.8138373751783167
+              },
+              "confidence": 0.5,
+              "text": "OPEN THE APP"
+            },
+            {
+              "box": {
+                "height": 0.0684736091298146,
+                "width": 0.42245989304812837,
+                "x": 0.2905525846702317,
+                "y": 0.7082738944365192
+              },
+              "confidence": 0.5,
+              "text": "Save this"
+            },
+            {
+              "box": {
+                "height": 0.08701854493580596,
+                "width": 0.44206773618538325,
+                "x": 0.2887700534759358,
+                "y": 0.6069900142653353
+              },
+              "confidence": 0.5,
+              "text": "tiny plan."
+            },
+            {
+              "box": {
+                "height": 0.01925820256776034,
+                "width": 0.47950089126559714,
+                "x": 0.2629233511586453,
+                "y": 0.5677603423680456
+              },
+              "confidence": 0.5,
+              "text": "Save this for the next awake window."
+            },
+            {
+              "box": {
+                "height": 0.01925820256776034,
+                "width": 0.36007130124777187,
+                "x": 0.31996434937611407,
+                "y": 0.05706134094151216
+              },
+              "confidence": 0.5,
+              "text": "Screen-f ree, simple, no pressure."
+            }
+          ],
+          "textCount": 5,
+          "width": 1122
+        },
+        "issues": []
+      }
+    ]
+  },
+  "visual_qa_issues": [],
+  "url_issues": [],
+  "url_probes": [
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car18_doing-too-much/tt_ig_2026w25_car18_doing-too-much-01.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car18_doing-too-much/tt_ig_2026w25_car18_doing-too-much-02.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car18_doing-too-much/tt_ig_2026w25_car18_doing-too-much-03.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car18_doing-too-much/tt_ig_2026w25_car18_doing-too-much-04.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car18_doing-too-much/tt_ig_2026w25_car18_doing-too-much-05.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car18_doing-too-much/tt_ig_2026w25_car18_doing-too-much-06.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    }
+  ],
+  "cleaned_bundles": [],
+  "publish_host_sync": {
+    "attempted": true,
+    "provider": "github_pages",
+    "repo": "marccc127/tummy-time-publish-assets",
+    "branch": "gh-pages",
+    "changed": true,
+    "commit": "ffdbbfc4267a53c6da569f08228410ed7e9a15b8",
+    "push_stdout": ""
+  }
+}
