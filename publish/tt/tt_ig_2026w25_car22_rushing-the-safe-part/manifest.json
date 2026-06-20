@@ -1,6 +1,6 @@
 {
   "manifest_version": 1,
-  "generated_at": "2026-06-20T15:00:33.223331+00:00",
+  "generated_at": "2026-06-20T15:03:50.073525+00:00",
   "account_id": "tt",
   "content_id": "tt_ig_2026w25_car22_rushing-the-safe-part",
   "channel": "carousel",
@@ -605,7 +605,7 @@
     "repo": "marccc127/tummy-time-publish-assets",
     "branch": "gh-pages",
     "changed": true,
-    "commit": "50ed5af536d24b1a50e1ad8fa27715460a18afd3",
+    "commit": "4541a4d7a1457dd33c7d974451a83da61cdb317a",
     "push_stdout": ""
   }
 }
