@@ -1,0 +1,604 @@
+{
+  "manifest_version": 1,
+  "generated_at": "2026-06-20T04:20:17.974242+00:00",
+  "account_id": "tt",
+  "content_id": "tt_ig_2026w25_car17_buying-solutions",
+  "channel": "carousel",
+  "source_dir": "review/tt/tt_ig_2026w25_car17_buying-solutions",
+  "normalized_files": [
+    "public/publish/tt/tt_ig_2026w25_car17_buying-solutions/tt_ig_2026w25_car17_buying-solutions-01.jpg",
+    "public/publish/tt/tt_ig_2026w25_car17_buying-solutions/tt_ig_2026w25_car17_buying-solutions-02.jpg",
+    "public/publish/tt/tt_ig_2026w25_car17_buying-solutions/tt_ig_2026w25_car17_buying-solutions-03.jpg",
+    "public/publish/tt/tt_ig_2026w25_car17_buying-solutions/tt_ig_2026w25_car17_buying-solutions-04.jpg",
+    "public/publish/tt/tt_ig_2026w25_car17_buying-solutions/tt_ig_2026w25_car17_buying-solutions-05.jpg",
+    "public/publish/tt/tt_ig_2026w25_car17_buying-solutions/tt_ig_2026w25_car17_buying-solutions-06.jpg"
+  ],
+  "relative_urls": [
+    "/publish/tt/tt_ig_2026w25_car17_buying-solutions/tt_ig_2026w25_car17_buying-solutions-01.jpg",
+    "/publish/tt/tt_ig_2026w25_car17_buying-solutions/tt_ig_2026w25_car17_buying-solutions-02.jpg",
+    "/publish/tt/tt_ig_2026w25_car17_buying-solutions/tt_ig_2026w25_car17_buying-solutions-03.jpg",
+    "/publish/tt/tt_ig_2026w25_car17_buying-solutions/tt_ig_2026w25_car17_buying-solutions-04.jpg",
+    "/publish/tt/tt_ig_2026w25_car17_buying-solutions/tt_ig_2026w25_car17_buying-solutions-05.jpg",
+    "/publish/tt/tt_ig_2026w25_car17_buying-solutions/tt_ig_2026w25_car17_buying-solutions-06.jpg"
+  ],
+  "local_preview_urls": [
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car17_buying-solutions/tt_ig_2026w25_car17_buying-solutions-01.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car17_buying-solutions/tt_ig_2026w25_car17_buying-solutions-02.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car17_buying-solutions/tt_ig_2026w25_car17_buying-solutions-03.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car17_buying-solutions/tt_ig_2026w25_car17_buying-solutions-04.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car17_buying-solutions/tt_ig_2026w25_car17_buying-solutions-05.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car17_buying-solutions/tt_ig_2026w25_car17_buying-solutions-06.jpg"
+  ],
+  "public_asset_urls": [
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car17_buying-solutions/tt_ig_2026w25_car17_buying-solutions-01.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car17_buying-solutions/tt_ig_2026w25_car17_buying-solutions-02.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car17_buying-solutions/tt_ig_2026w25_car17_buying-solutions-03.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car17_buying-solutions/tt_ig_2026w25_car17_buying-solutions-04.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car17_buying-solutions/tt_ig_2026w25_car17_buying-solutions-05.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car17_buying-solutions/tt_ig_2026w25_car17_buying-solutions-06.jpg"
+  ],
+  "caption": "More gear is not always the missing piece. A smaller, calmer, already-at-home setup can be enough for today.\n\nSave this before you shop.",
+  "caption_issues": [],
+  "visual_qa": {
+    "status": "passed",
+    "reference": {
+      "dir": "assets/reference/tummy-time",
+      "status": "ready",
+      "median": {
+        "aspect_ratio": 0.8002853067047075,
+        "brightness": 213.065,
+        "contrast": 29.105,
+        "saturation": 57.86,
+        "edge_density": 38.8,
+        "dark_ratio": 0.0045000000000000005
+      }
+    },
+    "issues": [],
+    "slides": [
+      {
+        "index": 1,
+        "path": "public/publish/tt/tt_ig_2026w25_car17_buying-solutions/tt_ig_2026w25_car17_buying-solutions-01.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car17_buying-solutions/tt_ig_2026w25_car17_buying-solutions-01.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            229.65,
+            207.88,
+            178.29
+          ],
+          "brightness": 211.02,
+          "contrast": 30.89,
+          "saturation": 56.79,
+          "edge_density": 41.42,
+          "dark_ratio": 0.0088
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car17_buying-solutions/tt_ig_2026w25_car17_buying-solutions-01.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.015691868758915817,
+                "width": 0.18181818181818177,
+                "x": 0.40819964349376114,
+                "y": 0.8352353780313837
+              },
+              "confidence": 0.5,
+              "text": "TUMMY TIME"
+            },
+            {
+              "box": {
+                "height": 0.07988587731811692,
+                "width": 0.500891265597148,
+                "x": 0.24955436720142601,
+                "y": 0.7211126961483595
+              },
+              "confidence": 0.5,
+              "text": "Stop buying"
+            },
+            {
+              "box": {
+                "height": 0.0784593437945792,
+                "width": 0.5115864527629232,
+                "x": 0.24420677361853832,
+                "y": 0.6383737517831669
+              },
+              "confidence": 0.5,
+              "text": "tummy time"
+            },
+            {
+              "box": {
+                "height": 0.06276747503566327,
+                "width": 0.39215686274509803,
+                "x": 0.3065953654188948,
+                "y": 0.572753209700428
+              },
+              "confidence": 0.5,
+              "text": "solutions."
+            },
+            {
+              "box": {
+                "height": 0.022824536376604865,
+                "width": 0.5543672014260249,
+                "x": 0.22459893048128343,
+                "y": 0.5156918687589158
+              },
+              "confidence": 0.5,
+              "text": "A calmer setup usually beats more pressure."
+            },
+            {
+              "box": {
+                "height": 0.020684736091298173,
+                "width": 0.34135472370766495,
+                "x": 0.32887700534759357,
+                "y": 0.050641940085591974
+              },
+              "confidence": 0.5,
+              "text": "Tummy Time: Baby Activities"
+            }
+          ],
+          "textCount": 6,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 2,
+        "path": "public/publish/tt/tt_ig_2026w25_car17_buying-solutions/tt_ig_2026w25_car17_buying-solutions-02.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car17_buying-solutions/tt_ig_2026w25_car17_buying-solutions-02.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            231.69,
+            209.62,
+            179.32
+          ],
+          "brightness": 212.75,
+          "contrast": 30.27,
+          "saturation": 57.82,
+          "edge_density": 41.49,
+          "dark_ratio": 0.0042
+        },
+        "vision": {
+          "edgeTextCount": 0,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car17_buying-solutions/tt_ig_2026w25_car17_buying-solutions-02.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.07275320970042798,
+                "width": 0.4313725490196078,
+                "x": 0.28520499108734404,
+                "y": 0.7211126961483595
+              },
+              "confidence": 0.5,
+              "text": "Try making"
+            },
+            {
+              "box": {
+                "height": 0.05563480741797433,
+                "width": 0.5757575757575757,
+                "x": 0.21212121212121213,
+                "y": 0.6611982881597718
+              },
+              "confidence": 0.5,
+              "text": "the moment less"
+            },
+            {
+              "box": {
+                "height": 0.06990014265335232,
+                "width": 0.590017825311943,
+                "x": 0.2103386809269162,
+                "y": 0.5699001426533523
+              },
+              "confidence": 0.5,
+              "text": "complicated first."
+            }
+          ],
+          "textCount": 3,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 3,
+        "path": "public/publish/tt/tt_ig_2026w25_car17_buying-solutions/tt_ig_2026w25_car17_buying-solutions-03.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car17_buying-solutions/tt_ig_2026w25_car17_buying-solutions-03.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            233.88,
+            209.91,
+            178.12
+          ],
+          "brightness": 213.43,
+          "contrast": 25.03,
+          "saturation": 60.64,
+          "edge_density": 34.74,
+          "dark_ratio": 0.0015
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car17_buying-solutions/tt_ig_2026w25_car17_buying-solutions-03.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.015691868758915817,
+                "width": 0.1274509803921568,
+                "x": 0.4358288770053476,
+                "y": 0.8067047075606277
+              },
+              "confidence": 0.5,
+              "text": "TRY THIS"
+            },
+            {
+              "box": {
+                "height": 0.05563480741797433,
+                "width": 0.4242424242424242,
+                "x": 0.28698752228163993,
+                "y": 0.7168330955777461
+              },
+              "confidence": 0.5,
+              "text": "Use a towel"
+            },
+            {
+              "box": {
+                "height": 0.06704707560627676,
+                "width": 0.590017825311943,
+                "x": 0.20855614973262032,
+                "y": 0.6326676176890157
+              },
+              "confidence": 0.5,
+              "text": "you already own."
+            },
+            {
+              "box": {
+                "height": 0.022111269614836004,
+                "width": 0.44474153297682706,
+                "x": 0.2807486631016043,
+                "y": 0.5884450784593438
+              },
+              "confidence": 0.5,
+              "text": "One tiny action is enough for today."
+            },
+            {
+              "box": {
+                "height": 0.020684736091298173,
+                "width": 0.3288770053475935,
+                "x": 0.33511586452762926,
+                "y": 0.059201141226818854
+              },
+              "confidence": 0.5,
+              "text": "Tummy Time: Baby Activities"
+            }
+          ],
+          "textCount": 5,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 4,
+        "path": "public/publish/tt/tt_ig_2026w25_car17_buying-solutions/tt_ig_2026w25_car17_buying-solutions-04.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car17_buying-solutions/tt_ig_2026w25_car17_buying-solutions-04.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            231.98,
+            207.97,
+            176.08
+          ],
+          "brightness": 211.5,
+          "contrast": 26.91,
+          "saturation": 61.37,
+          "edge_density": 35.09,
+          "dark_ratio": 0.0027
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car17_buying-solutions/tt_ig_2026w25_car17_buying-solutions-04.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.015691868758915928,
+                "width": 0.12566844919786097,
+                "x": 0.43672014260249553,
+                "y": 0.8088445078459343
+              },
+              "confidence": 0.5,
+              "text": "TRY THIS"
+            },
+            {
+              "box": {
+                "height": 0.05563480741797433,
+                "width": 0.4901960784313726,
+                "x": 0.2549019607843137,
+                "y": 0.7154065620542083
+              },
+              "confidence": 0.5,
+              "text": "Pick one safe"
+            },
+            {
+              "box": {
+                "height": 0.06990014265335232,
+                "width": 0.554367201426025,
+                "x": 0.23172905525846701,
+                "y": 0.6269614835948645
+              },
+              "confidence": 0.5,
+              "text": "thing to notice."
+            },
+            {
+              "box": {
+                "height": 0.022111269614835893,
+                "width": 0.4376114081996435,
+                "x": 0.2807486631016043,
+                "y": 0.587018544935806
+              },
+              "confidence": 0.5,
+              "text": "One tiny action is enough for today."
+            },
+            {
+              "box": {
+                "height": 0.020684736091298173,
+                "width": 0.32976827094474154,
+                "x": 0.3333333333333333,
+                "y": 0.059914407988587715
+              },
+              "confidence": 0.5,
+              "text": "Tummy Time: Baby Activities"
+            }
+          ],
+          "textCount": 5,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 5,
+        "path": "public/publish/tt/tt_ig_2026w25_car17_buying-solutions/tt_ig_2026w25_car17_buying-solutions-05.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car17_buying-solutions/tt_ig_2026w25_car17_buying-solutions-05.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            232.29,
+            207.31,
+            174.35
+          ],
+          "brightness": 211.0,
+          "contrast": 26.49,
+          "saturation": 63.68,
+          "edge_density": 35.17,
+          "dark_ratio": 0.0037
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car17_buying-solutions/tt_ig_2026w25_car17_buying-solutions-05.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.015691868758915817,
+                "width": 0.23796791443850268,
+                "x": 0.3805704099821747,
+                "y": 0.8038516405135521
+              },
+              "confidence": 0.5,
+              "text": "WATCH FOR THIS"
+            },
+            {
+              "box": {
+                "height": 0.07275320970042798,
+                "width": 0.4848484848484848,
+                "x": 0.2620320855614973,
+                "y": 0.6940085592011412
+              },
+              "confidence": 0.5,
+              "text": "If baby turns"
+            },
+            {
+              "box": {
+                "height": 0.0542082738944365,
+                "width": 0.4598930481283422,
+                "x": 0.27807486631016043,
+                "y": 0.6212553495007133
+              },
+              "confidence": 0.5,
+              "text": "away, pause."
+            },
+            {
+              "box": {
+                "height": 0.022111269614836004,
+                "width": 0.44474153297682717,
+                "x": 0.2816399286987522,
+                "y": 0.5841654778887304
+              },
+              "confidence": 0.5,
+              "text": "Follow your baby's cues, not a timer."
+            },
+            {
+              "box": {
+                "height": 0.0199714693295292,
+                "width": 0.32887700534759357,
+                "x": 0.3342245989304813,
+                "y": 0.060627674750356686
+              },
+              "confidence": 0.5,
+              "text": "Tummy Time: Baby Activities"
+            }
+          ],
+          "textCount": 5,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 6,
+        "path": "public/publish/tt/tt_ig_2026w25_car17_buying-solutions/tt_ig_2026w25_car17_buying-solutions-06.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car17_buying-solutions/tt_ig_2026w25_car17_buying-solutions-06.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            233.87,
+            209.82,
+            176.88
+          ],
+          "brightness": 213.24,
+          "contrast": 25.97,
+          "saturation": 61.86,
+          "edge_density": 35.11,
+          "dark_ratio": 0.0046
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car17_buying-solutions/tt_ig_2026w25_car17_buying-solutions-06.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.016405135520684788,
+                "width": 0.20053475935828874,
+                "x": 0.4001782531194296,
+                "y": 0.7931526390870185
+              },
+              "confidence": 0.5,
+              "text": "OPEN THE APP"
+            },
+            {
+              "box": {
+                "height": 0.059914407988587604,
+                "width": 0.36363636363636365,
+                "x": 0.3226381461675579,
+                "y": 0.6911554921540657
+              },
+              "confidence": 0.5,
+              "text": "Save this"
+            },
+            {
+              "box": {
+                "height": 0.07417974322396581,
+                "width": 0.6595365418894831,
+                "x": 0.1800356506238859,
+                "y": 0.5970042796005706
+              },
+              "confidence": 0.5,
+              "text": "before you shop."
+            },
+            {
+              "box": {
+                "height": 0.01854493580599148,
+                "width": 0.4670231729055258,
+                "x": 0.2709447415329768,
+                "y": 0.5599144079885877
+              },
+              "confidence": 0.5,
+              "text": "Save this for the next awake window."
+            },
+            {
+              "box": {
+                "height": 0.0199714693295292,
+                "width": 0.35650623885918,
+                "x": 0.32174688057041,
+                "y": 0.059201141226818854
+              },
+              "confidence": 0.5,
+              "text": "Screen-free, simple, no pressure."
+            }
+          ],
+          "textCount": 5,
+          "width": 1122
+        },
+        "issues": []
+      }
+    ]
+  },
+  "visual_qa_issues": [],
+  "url_issues": [],
+  "url_probes": [
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car17_buying-solutions/tt_ig_2026w25_car17_buying-solutions-01.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car17_buying-solutions/tt_ig_2026w25_car17_buying-solutions-02.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car17_buying-solutions/tt_ig_2026w25_car17_buying-solutions-03.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car17_buying-solutions/tt_ig_2026w25_car17_buying-solutions-04.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car17_buying-solutions/tt_ig_2026w25_car17_buying-solutions-05.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car17_buying-solutions/tt_ig_2026w25_car17_buying-solutions-06.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    }
+  ],
+  "cleaned_bundles": [],
+  "publish_host_sync": {
+    "attempted": true,
+    "provider": "github_pages",
+    "repo": "marccc127/tummy-time-publish-assets",
+    "branch": "gh-pages",
+    "changed": true,
+    "commit": "09ec8e3b55695916d922ce967c38e7498fc4e804",
+    "push_stdout": ""
+  }
+}
