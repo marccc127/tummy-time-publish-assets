@@ -1,6 +1,6 @@
 {
   "manifest_version": 1,
-  "generated_at": "2026-06-20T14:59:07.711328+00:00",
+  "generated_at": "2026-06-20T15:03:22.722769+00:00",
   "account_id": "tt",
   "content_id": "tt_ig_2026w25_car20_not-entertainment-job",
   "channel": "carousel",
@@ -605,7 +605,7 @@
     "repo": "marccc127/tummy-time-publish-assets",
     "branch": "gh-pages",
     "changed": true,
-    "commit": "18a8f53b18494aeffce8e30c871c7e2fc996ce36",
+    "commit": "c7a82bf1786ace07cd9a946d851771cad44b89f7",
     "push_stdout": ""
   }
 }
