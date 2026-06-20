@@ -1,0 +1,611 @@
+{
+  "manifest_version": 1,
+  "generated_at": "2026-06-20T14:59:07.711328+00:00",
+  "account_id": "tt",
+  "content_id": "tt_ig_2026w25_car20_not-entertainment-job",
+  "channel": "carousel",
+  "source_dir": "review/tt/tt_ig_2026w25_car20_not-entertainment-job",
+  "normalized_files": [
+    "public/publish/tt/tt_ig_2026w25_car20_not-entertainment-job/tt_ig_2026w25_car20_not-entertainment-job-01.jpg",
+    "public/publish/tt/tt_ig_2026w25_car20_not-entertainment-job/tt_ig_2026w25_car20_not-entertainment-job-02.jpg",
+    "public/publish/tt/tt_ig_2026w25_car20_not-entertainment-job/tt_ig_2026w25_car20_not-entertainment-job-03.jpg",
+    "public/publish/tt/tt_ig_2026w25_car20_not-entertainment-job/tt_ig_2026w25_car20_not-entertainment-job-04.jpg",
+    "public/publish/tt/tt_ig_2026w25_car20_not-entertainment-job/tt_ig_2026w25_car20_not-entertainment-job-05.jpg",
+    "public/publish/tt/tt_ig_2026w25_car20_not-entertainment-job/tt_ig_2026w25_car20_not-entertainment-job-06.jpg"
+  ],
+  "relative_urls": [
+    "/publish/tt/tt_ig_2026w25_car20_not-entertainment-job/tt_ig_2026w25_car20_not-entertainment-job-01.jpg",
+    "/publish/tt/tt_ig_2026w25_car20_not-entertainment-job/tt_ig_2026w25_car20_not-entertainment-job-02.jpg",
+    "/publish/tt/tt_ig_2026w25_car20_not-entertainment-job/tt_ig_2026w25_car20_not-entertainment-job-03.jpg",
+    "/publish/tt/tt_ig_2026w25_car20_not-entertainment-job/tt_ig_2026w25_car20_not-entertainment-job-04.jpg",
+    "/publish/tt/tt_ig_2026w25_car20_not-entertainment-job/tt_ig_2026w25_car20_not-entertainment-job-05.jpg",
+    "/publish/tt/tt_ig_2026w25_car20_not-entertainment-job/tt_ig_2026w25_car20_not-entertainment-job-06.jpg"
+  ],
+  "local_preview_urls": [
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car20_not-entertainment-job/tt_ig_2026w25_car20_not-entertainment-job-01.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car20_not-entertainment-job/tt_ig_2026w25_car20_not-entertainment-job-02.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car20_not-entertainment-job/tt_ig_2026w25_car20_not-entertainment-job-03.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car20_not-entertainment-job/tt_ig_2026w25_car20_not-entertainment-job-04.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car20_not-entertainment-job/tt_ig_2026w25_car20_not-entertainment-job-05.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_ig_2026w25_car20_not-entertainment-job/tt_ig_2026w25_car20_not-entertainment-job-06.jpg"
+  ],
+  "public_asset_urls": [
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car20_not-entertainment-job/tt_ig_2026w25_car20_not-entertainment-job-01.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car20_not-entertainment-job/tt_ig_2026w25_car20_not-entertainment-job-02.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car20_not-entertainment-job/tt_ig_2026w25_car20_not-entertainment-job-03.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car20_not-entertainment-job/tt_ig_2026w25_car20_not-entertainment-job-04.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car20_not-entertainment-job/tt_ig_2026w25_car20_not-entertainment-job-05.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car20_not-entertainment-job/tt_ig_2026w25_car20_not-entertainment-job-06.jpg"
+  ],
+  "caption": "If you keep adding toys, sounds, and movement, tummy time can turn into too much. One simple thing and your steady presence can be enough.\n\nSave this before you overdo the setup.",
+  "caption_issues": [],
+  "visual_qa": {
+    "status": "passed",
+    "reference": {
+      "dir": "assets/reference/tummy-time",
+      "status": "ready",
+      "median": {
+        "aspect_ratio": 0.8002853067047075,
+        "brightness": 213.06,
+        "contrast": 28.994999999999997,
+        "saturation": 57.89,
+        "edge_density": 38.485,
+        "dark_ratio": 0.0045000000000000005
+      }
+    },
+    "issues": [],
+    "slides": [
+      {
+        "index": 1,
+        "path": "public/publish/tt/tt_ig_2026w25_car20_not-entertainment-job/tt_ig_2026w25_car20_not-entertainment-job-01.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car20_not-entertainment-job/tt_ig_2026w25_car20_not-entertainment-job-01.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            232.8,
+            210.55,
+            180.19
+          ],
+          "brightness": 213.75,
+          "contrast": 28.51,
+          "saturation": 57.49,
+          "edge_density": 38.31,
+          "dark_ratio": 0.0012
+        },
+        "vision": {
+          "edgeTextCount": 0,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car20_not-entertainment-job/tt_ig_2026w25_car20_not-entertainment-job-01.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.07275320970042798,
+                "width": 0.6221033868092691,
+                "x": 0.1889483065953654,
+                "y": 0.7282453637660484
+              },
+              "confidence": 0.5,
+              "text": "You are not your"
+            },
+            {
+              "box": {
+                "height": 0.07275320970042798,
+                "width": 0.7433155080213903,
+                "x": 0.13368983957219252,
+                "y": 0.6512125534950071
+              },
+              "confidence": 0.5,
+              "text": "baby's entertainment"
+            },
+            {
+              "box": {
+                "height": 0.04850213980028528,
+                "width": 0.19786096256684488,
+                "x": 0.40641711229946526,
+                "y": 0.594151212553495
+              },
+              "confidence": 0.5,
+              "text": "team."
+            }
+          ],
+          "textCount": 3,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 2,
+        "path": "public/publish/tt/tt_ig_2026w25_car20_not-entertainment-job/tt_ig_2026w25_car20_not-entertainment-job-02.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car20_not-entertainment-job/tt_ig_2026w25_car20_not-entertainment-job-02.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            233.93,
+            213.76,
+            187.15
+          ],
+          "brightness": 216.77,
+          "contrast": 27.72,
+          "saturation": 51.16,
+          "edge_density": 36.56,
+          "dark_ratio": 0.0015
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car20_not-entertainment-job/tt_ig_2026w25_car20_not-entertainment-job-02.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.015691868758915817,
+                "width": 0.24777183600713015,
+                "x": 0.3761140819964349,
+                "y": 0.8352353780313837
+              },
+              "confidence": 0.5,
+              "text": "MAKE IT GENTLER"
+            },
+            {
+              "box": {
+                "height": 0.07275320970042798,
+                "width": 0.5632798573975044,
+                "x": 0.22459893048128343,
+                "y": 0.723965763195435
+              },
+              "confidence": 0.5,
+              "text": "One calm thing"
+            },
+            {
+              "box": {
+                "height": 0.07275320970042798,
+                "width": 0.37254901960784315,
+                "x": 0.31907308377896615,
+                "y": 0.6483594864479315
+              },
+              "confidence": 0.5,
+              "text": "is enough."
+            },
+            {
+              "box": {
+                "height": 0.022824536376604865,
+                "width": 0.5053475935828877,
+                "x": 0.24777183600713013,
+                "y": 0.6105563480741798
+              },
+              "confidence": 0.5,
+              "text": "Smaller and calmer usually works better."
+            },
+            {
+              "box": {
+                "height": 0.0199714693295292,
+                "width": 0.31372549019607837,
+                "x": 0.33511586452762926,
+                "y": 0.059201141226818854
+              },
+              "confidence": 0.5,
+              "text": "Tummy Time: Baby Activities"
+            }
+          ],
+          "textCount": 5,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 3,
+        "path": "public/publish/tt/tt_ig_2026w25_car20_not-entertainment-job/tt_ig_2026w25_car20_not-entertainment-job-03.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car20_not-entertainment-job/tt_ig_2026w25_car20_not-entertainment-job-03.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            228.69,
+            208.03,
+            179.61
+          ],
+          "brightness": 210.98,
+          "contrast": 30.05,
+          "saturation": 55.13,
+          "edge_density": 40.94,
+          "dark_ratio": 0.0029
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car20_not-entertainment-job/tt_ig_2026w25_car20_not-entertainment-job-03.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.015691868758915817,
+                "width": 0.12566844919786097,
+                "x": 0.43672014260249553,
+                "y": 0.848074179743224
+              },
+              "confidence": 0.5,
+              "text": "TRY THIS"
+            },
+            {
+              "box": {
+                "height": 0.05706134094151216,
+                "width": 0.3618538324420677,
+                "x": 0.31907308377896615,
+                "y": 0.7596291012838802
+              },
+              "confidence": 0.5,
+              "text": "Place one"
+            },
+            {
+              "box": {
+                "height": 0.07132667617689015,
+                "width": 0.5222816399286987,
+                "x": 0.24242424242424243,
+                "y": 0.6726105563480742
+              },
+              "confidence": 0.5,
+              "text": "familiar object"
+            },
+            {
+              "box": {
+                "height": 0.07132667617689026,
+                "width": 0.26203208556149726,
+                "x": 0.37254901960784315,
+                "y": 0.601283880171184
+              },
+              "confidence": 0.5,
+              "text": "nearby."
+            },
+            {
+              "box": {
+                "height": 0.022111269614835893,
+                "width": 0.4402852049910873,
+                "x": 0.2798573975044563,
+                "y": 0.5677603423680456
+              },
+              "confidence": 0.5,
+              "text": "One tiny action is enough for today."
+            },
+            {
+              "box": {
+                "height": 0.01925820256776034,
+                "width": 0.3137254901960785,
+                "x": 0.3422459893048128,
+                "y": 0.06205420827389441
+              },
+              "confidence": 0.5,
+              "text": "Tummy Time: Baby Activities"
+            }
+          ],
+          "textCount": 6,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 4,
+        "path": "public/publish/tt/tt_ig_2026w25_car20_not-entertainment-job/tt_ig_2026w25_car20_not-entertainment-job-04.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car20_not-entertainment-job/tt_ig_2026w25_car20_not-entertainment-job-04.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            231.87,
+            208.94,
+            179.01
+          ],
+          "brightness": 212.37,
+          "contrast": 29.01,
+          "saturation": 58.35,
+          "edge_density": 37.27,
+          "dark_ratio": 0.0049
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car20_not-entertainment-job/tt_ig_2026w25_car20_not-entertainment-job-04.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.016405135520684788,
+                "width": 0.13458110516934052,
+                "x": 0.4322638146167558,
+                "y": 0.8316690442225392
+              },
+              "confidence": 0.5,
+              "text": "TRY THIS"
+            },
+            {
+              "box": {
+                "height": 0.05706134094151216,
+                "width": 0.44919786096256686,
+                "x": 0.27450980392156865,
+                "y": 0.7368045649072753
+              },
+              "confidence": 0.5,
+              "text": "Wait before"
+            },
+            {
+              "box": {
+                "height": 0.07275320970042798,
+                "width": 0.5436720142602496,
+                "x": 0.23707664884135474,
+                "y": 0.6469329529243937
+              },
+              "confidence": 0.5,
+              "text": "you add more."
+            },
+            {
+              "box": {
+                "height": 0.022824536376604865,
+                "width": 0.447415329768271,
+                "x": 0.28520499108734404,
+                "y": 0.6034236804564908
+              },
+              "confidence": 0.5,
+              "text": "One tiny action is enough for today."
+            },
+            {
+              "box": {
+                "height": 0.0199714693295292,
+                "width": 0.3253119429590018,
+                "x": 0.32174688057041,
+                "y": 0.04564907275320973
+              },
+              "confidence": 0.5,
+              "text": "Tummy Time: Baby Activities"
+            }
+          ],
+          "textCount": 5,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 5,
+        "path": "public/publish/tt/tt_ig_2026w25_car20_not-entertainment-job/tt_ig_2026w25_car20_not-entertainment-job-05.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car20_not-entertainment-job/tt_ig_2026w25_car20_not-entertainment-job-05.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            233.46,
+            209.97,
+            177.62
+          ],
+          "brightness": 213.34,
+          "contrast": 29.29,
+          "saturation": 61.47,
+          "edge_density": 37.12,
+          "dark_ratio": 0.0046
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [
+            {
+              "height": 0.11505081504583359,
+              "width": 0.1437622457742691,
+              "x": 0.29845479130744934,
+              "y": 0.2882104814052582
+            }
+          ],
+          "faceCount": 1,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car20_not-entertainment-job/tt_ig_2026w25_car20_not-entertainment-job-05.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.016405135520684677,
+                "width": 0.24064171122994654,
+                "x": 0.37967914438502676,
+                "y": 0.7952924393723253
+              },
+              "confidence": 0.5,
+              "text": "WATCH FOR THIS"
+            },
+            {
+              "box": {
+                "height": 0.07132667617689026,
+                "width": 0.4616755793226382,
+                "x": 0.2709447415329768,
+                "y": 0.6783166904422253
+              },
+              "confidence": 0.5,
+              "text": "Let quiet be"
+            },
+            {
+              "box": {
+                "height": 0.06990014265335232,
+                "width": 0.5793226381461676,
+                "x": 0.21568627450980393,
+                "y": 0.6069900142653353
+              },
+              "confidence": 0.5,
+              "text": "part of the play."
+            },
+            {
+              "box": {
+                "height": 0.022824536376604865,
+                "width": 0.4527629233511587,
+                "x": 0.2736185383244207,
+                "y": 0.5627674750356633
+              },
+              "confidence": 0.5,
+              "text": "Follow your baby's cues, not a timer."
+            },
+            {
+              "box": {
+                "height": 0.02068473609129806,
+                "width": 0.32531194295900184,
+                "x": 0.3270944741532977,
+                "y": 0.060627674750356686
+              },
+              "confidence": 0.5,
+              "text": "Tummy Time: Baby Activities"
+            }
+          ],
+          "textCount": 5,
+          "width": 1122
+        },
+        "issues": []
+      },
+      {
+        "index": 6,
+        "path": "public/publish/tt/tt_ig_2026w25_car20_not-entertainment-job/tt_ig_2026w25_car20_not-entertainment-job-06.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_ig_2026w25_car20_not-entertainment-job/tt_ig_2026w25_car20_not-entertainment-job-06.jpg",
+          "width": 1122,
+          "height": 1402,
+          "aspect_ratio": 0.8002853067047075,
+          "mean_rgb": [
+            225.77,
+            200.26,
+            163.42
+          ],
+          "brightness": 203.69,
+          "contrast": 30.35,
+          "saturation": 70.86,
+          "edge_density": 39.1,
+          "dark_ratio": 0.0046
+        },
+        "vision": {
+          "edgeTextCount": 1,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1402,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_ig_2026w25_car20_not-entertainment-job/tt_ig_2026w25_car20_not-entertainment-job-06.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.016405135520684677,
+                "width": 0.20766488413547235,
+                "x": 0.3966131907308378,
+                "y": 0.8259629101283881
+              },
+              "confidence": 0.5,
+              "text": "OPEN THE APP"
+            },
+            {
+              "box": {
+                "height": 0.059914407988587715,
+                "width": 0.3672014260249555,
+                "x": 0.32085561497326204,
+                "y": 0.7253922967189729
+              },
+              "confidence": 0.5,
+              "text": "Save this"
+            },
+            {
+              "box": {
+                "height": 0.07703281027104136,
+                "width": 0.5490196078431373,
+                "x": 0.23172905525846701,
+                "y": 0.6312410841654779
+              },
+              "confidence": 0.5,
+              "text": "calmer setup."
+            },
+            {
+              "box": {
+                "height": 0.01854493580599148,
+                "width": 0.47237076648841353,
+                "x": 0.2647058823529412,
+                "y": 0.5955777460770328
+              },
+              "confidence": 0.5,
+              "text": "Save this for the next awake window."
+            },
+            {
+              "box": {
+                "height": 0.020684736091298173,
+                "width": 0.3743315508021391,
+                "x": 0.31105169340463457,
+                "y": 0.06205420827389441
+              },
+              "confidence": 0.5,
+              "text": "Screen-free, simple, no pressure."
+            }
+          ],
+          "textCount": 5,
+          "width": 1122
+        },
+        "issues": []
+      }
+    ]
+  },
+  "visual_qa_issues": [],
+  "url_issues": [],
+  "url_probes": [
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car20_not-entertainment-job/tt_ig_2026w25_car20_not-entertainment-job-01.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car20_not-entertainment-job/tt_ig_2026w25_car20_not-entertainment-job-02.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car20_not-entertainment-job/tt_ig_2026w25_car20_not-entertainment-job-03.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car20_not-entertainment-job/tt_ig_2026w25_car20_not-entertainment-job-04.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car20_not-entertainment-job/tt_ig_2026w25_car20_not-entertainment-job-05.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_ig_2026w25_car20_not-entertainment-job/tt_ig_2026w25_car20_not-entertainment-job-06.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    }
+  ],
+  "cleaned_bundles": [],
+  "publish_host_sync": {
+    "attempted": true,
+    "provider": "github_pages",
+    "repo": "marccc127/tummy-time-publish-assets",
+    "branch": "gh-pages",
+    "changed": true,
+    "commit": "18a8f53b18494aeffce8e30c871c7e2fc996ce36",
+    "push_stdout": ""
+  }
+}
