@@ -1,6 +1,6 @@
 {
   "manifest_version": 1,
-  "generated_at": "2026-06-21T07:47:09.837941+00:00",
+  "generated_at": "2026-06-21T07:49:05.276929+00:00",
   "account_id": "tt",
   "content_id": "tt_story_2026w26_phone_vs_floor",
   "channel": "story",
@@ -508,7 +508,7 @@
     "repo": "marccc127/tummy-time-publish-assets",
     "branch": "gh-pages",
     "changed": true,
-    "commit": "b4ad6563c3c9aa3d683e2d10745b69b7f614ea60",
+    "commit": "1f2e830aaa0bddf9712b7a95d5a0bbb5585c0c37",
     "push_stdout": ""
   }
 }
