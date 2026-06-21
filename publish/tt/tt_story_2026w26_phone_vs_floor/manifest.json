@@ -1,0 +1,520 @@
+{
+  "manifest_version": 1,
+  "generated_at": "2026-06-21T07:39:39.239129+00:00",
+  "account_id": "tt",
+  "content_id": "tt_story_2026w26_phone_vs_floor",
+  "channel": "story",
+  "source_dir": "review/tt/tt_story_2026w26_phone_vs_floor",
+  "normalized_files": [
+    "public/publish/tt/tt_story_2026w26_phone_vs_floor/tt_story_2026w26_phone_vs_floor-01.jpg",
+    "public/publish/tt/tt_story_2026w26_phone_vs_floor/tt_story_2026w26_phone_vs_floor-02.jpg",
+    "public/publish/tt/tt_story_2026w26_phone_vs_floor/tt_story_2026w26_phone_vs_floor-03.jpg",
+    "public/publish/tt/tt_story_2026w26_phone_vs_floor/tt_story_2026w26_phone_vs_floor-04.jpg"
+  ],
+  "relative_urls": [
+    "/publish/tt/tt_story_2026w26_phone_vs_floor/tt_story_2026w26_phone_vs_floor-01.jpg",
+    "/publish/tt/tt_story_2026w26_phone_vs_floor/tt_story_2026w26_phone_vs_floor-02.jpg",
+    "/publish/tt/tt_story_2026w26_phone_vs_floor/tt_story_2026w26_phone_vs_floor-03.jpg",
+    "/publish/tt/tt_story_2026w26_phone_vs_floor/tt_story_2026w26_phone_vs_floor-04.jpg"
+  ],
+  "local_preview_urls": [
+    "http://127.0.0.1:3000/publish/tt/tt_story_2026w26_phone_vs_floor/tt_story_2026w26_phone_vs_floor-01.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_story_2026w26_phone_vs_floor/tt_story_2026w26_phone_vs_floor-02.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_story_2026w26_phone_vs_floor/tt_story_2026w26_phone_vs_floor-03.jpg",
+    "http://127.0.0.1:3000/publish/tt/tt_story_2026w26_phone_vs_floor/tt_story_2026w26_phone_vs_floor-04.jpg"
+  ],
+  "public_asset_urls": [
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_story_2026w26_phone_vs_floor/tt_story_2026w26_phone_vs_floor-01.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_story_2026w26_phone_vs_floor/tt_story_2026w26_phone_vs_floor-02.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_story_2026w26_phone_vs_floor/tt_story_2026w26_phone_vs_floor-03.jpg",
+    "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_story_2026w26_phone_vs_floor/tt_story_2026w26_phone_vs_floor-04.jpg"
+  ],
+  "caption": "One calm minute on the floor is enough to restart the habit. Save this for the next awake window.",
+  "caption_issues": [],
+  "visual_qa": {
+    "status": "failed",
+    "issues": [
+      "story_1_text_too_close_to_edge:4"
+    ],
+    "pages": [
+      {
+        "index": 1,
+        "path": "public/publish/tt/tt_story_2026w26_phone_vs_floor/tt_story_2026w26_phone_vs_floor-01.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_story_2026w26_phone_vs_floor/tt_story_2026w26_phone_vs_floor-01.jpg",
+          "width": 1080,
+          "height": 1920,
+          "aspect_ratio": 0.5625,
+          "mean_rgb": [
+            236.47,
+            230.47,
+            212.15
+          ],
+          "brightness": 230.2,
+          "contrast": 37.26,
+          "saturation": 27.19,
+          "edge_density": 41.35,
+          "dark_ratio": 0.0134
+        },
+        "vision": {
+          "edgeTextCount": 4,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1920,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_story_2026w26_phone_vs_floor/tt_story_2026w26_phone_vs_floor-01.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.009895833333333326,
+                "width": 0.03796296296296295,
+                "x": 0.1,
+                "y": 0.9421875
+              },
+              "confidence": 0.5,
+              "text": "114"
+            },
+            {
+              "box": {
+                "height": 0.010937500000000044,
+                "width": 0.2222222222222222,
+                "x": 0.08148148148148149,
+                "y": 0.8994791666666666
+              },
+              "confidence": 0.5,
+              "text": "TUMMY TIME"
+            },
+            {
+              "box": {
+                "height": 0.03385416666666674,
+                "width": 0.6833333333333333,
+                "x": 0.0787037037037037,
+                "y": 0.8463541666666666
+              },
+              "confidence": 0.5,
+              "text": "You remembered"
+            },
+            {
+              "box": {
+                "height": 0.04270833333333335,
+                "width": 0.7055555555555556,
+                "x": 0.07962962962962963,
+                "y": 0.7963541666666667
+              },
+              "confidence": 0.5,
+              "text": "your phone today."
+            },
+            {
+              "box": {
+                "height": 0.04270833333333335,
+                "width": 0.7314814814814814,
+                "x": 0.08333333333333333,
+                "y": 0.7536458333333333
+              },
+              "confidence": 0.5,
+              "text": "Did you remember"
+            },
+            {
+              "box": {
+                "height": 0.04218749999999993,
+                "width": 0.512962962962963,
+                "x": 0.08148148148148149,
+                "y": 0.7125
+              },
+              "confidence": 0.5,
+              "text": "tummy time?"
+            },
+            {
+              "box": {
+                "height": 0.014062499999999978,
+                "width": 0.36018518518518516,
+                "x": 0.0824074074074074,
+                "y": 0.68125
+              },
+              "confidence": 0.5,
+              "text": "One calm minute counts."
+            },
+            {
+              "box": {
+                "height": 0.005729166666666674,
+                "width": 0.009259259259259245,
+                "x": 0.35185185185185186,
+                "y": 0.17604166666666665
+              },
+              "confidence": 0.5,
+              "text": "J4"
+            },
+            {
+              "box": {
+                "height": 0.01302083333333337,
+                "width": 0.3055555555555556,
+                "x": 0.3472222222222222,
+                "y": 0.03802083333333328
+              },
+              "confidence": 0.5,
+              "text": "Tummy fime: Baby Activities"
+            }
+          ],
+          "textCount": 9,
+          "width": 1080
+        },
+        "issues": [
+          "story_1_text_too_close_to_edge:4"
+        ]
+      },
+      {
+        "index": 2,
+        "path": "public/publish/tt/tt_story_2026w26_phone_vs_floor/tt_story_2026w26_phone_vs_floor-02.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_story_2026w26_phone_vs_floor/tt_story_2026w26_phone_vs_floor-02.jpg",
+          "width": 1080,
+          "height": 1920,
+          "aspect_ratio": 0.5625,
+          "mean_rgb": [
+            242.99,
+            234.08,
+            214.89
+          ],
+          "brightness": 234.59,
+          "contrast": 29.31,
+          "saturation": 30.7,
+          "edge_density": 33.87,
+          "dark_ratio": 0.0024
+        },
+        "vision": {
+          "edgeTextCount": 2,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1920,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_story_2026w26_phone_vs_floor/tt_story_2026w26_phone_vs_floor-02.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.009895833333333326,
+                "width": 0.038888888888888876,
+                "x": 0.09907407407407408,
+                "y": 0.9421875
+              },
+              "confidence": 0.5,
+              "text": "214"
+            },
+            {
+              "box": {
+                "height": 0.010937500000000044,
+                "width": 0.19907407407407407,
+                "x": 0.39814814814814814,
+                "y": 0.8890625
+              },
+              "confidence": 0.5,
+              "text": "START TINY"
+            },
+            {
+              "box": {
+                "height": 0.03229166666666672,
+                "width": 0.5481481481481482,
+                "x": 0.22777777777777777,
+                "y": 0.8380208333333333
+              },
+              "confidence": 0.5,
+              "text": "Put the blanket"
+            },
+            {
+              "box": {
+                "height": 0.030729166666666696,
+                "width": 0.21666666666666667,
+                "x": 0.3907407407407407,
+                "y": 0.8005208333333333
+              },
+              "confidence": 0.5,
+              "text": "down."
+            },
+            {
+              "box": {
+                "height": 0.01822916666666663,
+                "width": 0.6527777777777778,
+                "x": 0.17407407407407408,
+                "y": 0.7567708333333334
+              },
+              "confidence": 0.5,
+              "text": "Stay close. Use one soft object. Stop before it"
+            },
+            {
+              "box": {
+                "height": 0.014062500000000089,
+                "width": 0.262037037037037,
+                "x": 0.3685185185185185,
+                "y": 0.7395833333333333
+              },
+              "confidence": 0.5,
+              "text": "turns into a battle."
+            },
+            {
+              "box": {
+                "height": 0.01302083333333337,
+                "width": 0.3055555555555556,
+                "x": 0.3472222222222222,
+                "y": 0.03802083333333328
+              },
+              "confidence": 0.5,
+              "text": "Tummy Time: Baby Activities"
+            }
+          ],
+          "textCount": 7,
+          "width": 1080
+        },
+        "issues": []
+      },
+      {
+        "index": 3,
+        "path": "public/publish/tt/tt_story_2026w26_phone_vs_floor/tt_story_2026w26_phone_vs_floor-03.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_story_2026w26_phone_vs_floor/tt_story_2026w26_phone_vs_floor-03.jpg",
+          "width": 1080,
+          "height": 1920,
+          "aspect_ratio": 0.5625,
+          "mean_rgb": [
+            244.08,
+            228.8,
+            204.9
+          ],
+          "brightness": 230.68,
+          "contrast": 23.55,
+          "saturation": 41.68,
+          "edge_density": 31.43,
+          "dark_ratio": 0.0
+        },
+        "vision": {
+          "edgeTextCount": 2,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1920,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_story_2026w26_phone_vs_floor/tt_story_2026w26_phone_vs_floor-03.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.009895833333333326,
+                "width": 0.038888888888888876,
+                "x": 0.09907407407407408,
+                "y": 0.9421875
+              },
+              "confidence": 0.5,
+              "text": "314"
+            },
+            {
+              "box": {
+                "height": 0.01041666666666663,
+                "width": 0.3694444444444445,
+                "x": 0.31296296296296294,
+                "y": 0.8895833333333334
+              },
+              "confidence": 0.5,
+              "text": "MAKE IT RIPEATABLE"
+            },
+            {
+              "box": {
+                "height": 0.0390625,
+                "width": 0.7185185185185184,
+                "x": 0.1398148148148148,
+                "y": 0.8307291666666666
+              },
+              "confidence": 0.5,
+              "text": "End on the tiny win."
+            },
+            {
+              "box": {
+                "height": 0.017708333333333215,
+                "width": 0.6398148148148148,
+                "x": 0.17962962962962964,
+                "y": 0.7958333333333334
+              },
+              "confidence": 0.5,
+              "text": "Short and calm is easier to repeat tomorrow."
+            },
+            {
+              "box": {
+                "height": 0.01302083333333337,
+                "width": 0.3055555555555556,
+                "x": 0.3472222222222222,
+                "y": 0.03802083333333328
+              },
+              "confidence": 0.5,
+              "text": "Tummy Time: Baby Activities"
+            }
+          ],
+          "textCount": 5,
+          "width": 1080
+        },
+        "issues": []
+      },
+      {
+        "index": 4,
+        "path": "public/publish/tt/tt_story_2026w26_phone_vs_floor/tt_story_2026w26_phone_vs_floor-04.jpg",
+        "signature": {
+          "path": "public/publish/tt/tt_story_2026w26_phone_vs_floor/tt_story_2026w26_phone_vs_floor-04.jpg",
+          "width": 1080,
+          "height": 1920,
+          "aspect_ratio": 0.5625,
+          "mean_rgb": [
+            241.0,
+            230.59,
+            211.78
+          ],
+          "brightness": 231.6,
+          "contrast": 24.3,
+          "saturation": 31.48,
+          "edge_density": 36.73,
+          "dark_ratio": 0.0
+        },
+        "vision": {
+          "edgeTextCount": 2,
+          "faceBoxes": [],
+          "faceCount": 0,
+          "handCount": 0,
+          "height": 1920,
+          "path": "/Users/marc-philliphansen/Projekte/Social-media-content/content-pipeline/public/publish/tt/tt_story_2026w26_phone_vs_floor/tt_story_2026w26_phone_vs_floor-04.jpg",
+          "textBoxes": [
+            {
+              "box": {
+                "height": 0.009895833333333326,
+                "width": 0.038888888888888876,
+                "x": 0.09907407407407408,
+                "y": 0.9421875
+              },
+              "confidence": 0.5,
+              "text": "414"
+            },
+            {
+              "box": {
+                "height": 0.010937500000000044,
+                "width": 0.28425925925925927,
+                "x": 0.35555555555555557,
+                "y": 0.8890625
+              },
+              "confidence": 0.5,
+              "text": "ONE IDEA A DAY"
+            },
+            {
+              "box": {
+                "height": 0.0390625,
+                "width": 0.4842592592592593,
+                "x": 0.2574074074074074,
+                "y": 0.8307291666666666
+              },
+              "confidence": 0.5,
+              "text": "Need a gentle"
+            },
+            {
+              "box": {
+                "height": 0.03749999999999998,
+                "width": 0.6935185185185184,
+                "x": 0.15185185185185185,
+                "y": 0.7921875
+              },
+              "confidence": 0.5,
+              "text": "prompt tomorrow?"
+            },
+            {
+              "box": {
+                "height": 0.01822916666666663,
+                "width": 0.675,
+                "x": 0.16203703703703703,
+                "y": 0.7567708333333334
+              },
+              "confidence": 0.5,
+              "text": "Tummy Time gives you one simple. screen-free"
+            },
+            {
+              "box": {
+                "height": 0.017708333333333326,
+                "width": 0.27499999999999997,
+                "x": 0.362962962962963,
+                "y": 0.7359375
+              },
+              "confidence": 0.5,
+              "text": "baby activity a day."
+            },
+            {
+              "box": {
+                "height": 0.02187500000000009,
+                "width": 0.7398148148148148,
+                "x": 0.13055555555555556,
+                "y": 0.14322916666666663
+              },
+              "confidence": 0.5,
+              "text": "Download Tummy Time: Baby Activities"
+            },
+            {
+              "box": {
+                "height": 0.011458333333333348,
+                "width": 0.7518518518518518,
+                "x": 0.12407407407407407,
+                "y": 0.12135416666666665
+              },
+              "confidence": 0.5,
+              "text": "https://apps.apple.com/de/app/tummy-time-baby-activities/id6770621409"
+            },
+            {
+              "box": {
+                "height": 0.01302083333333337,
+                "width": 0.3055555555555556,
+                "x": 0.3472222222222222,
+                "y": 0.03802083333333328
+              },
+              "confidence": 0.5,
+              "text": "Tummy fime: Baby Activities"
+            }
+          ],
+          "textCount": 9,
+          "width": 1080
+        },
+        "issues": []
+      }
+    ]
+  },
+  "visual_qa_issues": [
+    "story_1_text_too_close_to_edge:4"
+  ],
+  "url_issues": [],
+  "url_probes": [
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_story_2026w26_phone_vs_floor/tt_story_2026w26_phone_vs_floor-01.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_story_2026w26_phone_vs_floor/tt_story_2026w26_phone_vs_floor-02.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_story_2026w26_phone_vs_floor/tt_story_2026w26_phone_vs_floor-03.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    },
+    {
+      "url": "https://marccc127.github.io/tummy-time-publish-assets/publish/tt/tt_story_2026w26_phone_vs_floor/tt_story_2026w26_phone_vs_floor-04.jpg",
+      "ok": true,
+      "status": 206,
+      "content_type": "image/jpeg",
+      "content_length": "1"
+    }
+  ],
+  "cleaned_bundles": [],
+  "publish_host_sync": {
+    "attempted": true,
+    "provider": "github_pages",
+    "repo": "marccc127/tummy-time-publish-assets",
+    "branch": "gh-pages",
+    "changed": true,
+    "commit": "aa63e75bacd818340fdd7913d517130cabb98ce2",
+    "push_stdout": ""
+  }
+}
